@@ -31,13 +31,11 @@ import e5thumb from "../assets/e5thumb.webp";
 import e6thumb from "../assets/e6thumb.webp";
 import e7thumb from "../assets/e7thumb.webp";
 
-import pn_ak from "../assets/pn_ak.webp";
-import pn_ss from "../assets/pn_ss.webp";
-import pn_dc from "../assets/pn_dc.webp";
-import pn_bp from "../assets/pn_bp.webp";
+import pn from "../assets/pn.webp";
+
 
 import { useLottie } from "lottie-react";
-import logoAnim from "../assets/logoanim.json";
+import logoAnim from "../assets/logoanimBright.json";
 
 import AngleButton from "../components/angleButton";
 import PopBox from "../components/popbox";
@@ -232,7 +230,7 @@ export default function HomePage() {
                     <div>A GLIMPSE INTO<br /> A STELLER REVERIE</div>
                     <div>#ADVAITA</div>
                 </motion.div>
-                <a rel="noreferrer" target="_blank" href="https://www.youtube.com/watch?v=u0b-hg_gLsI">
+                <a rel="noreferrer" target="_blank" href="https://www.youtube.com/watch?v=FFiK2wsTXVs">
                     <div className={classes.ytvideo}>
                         <div />
                         <div>
@@ -295,10 +293,10 @@ export default function HomePage() {
                     <motion.div viewport={{ once: true }} initial={{ transform: 'translateX(-6rem)', opacity: 0 }} whileInView={{ transform: 'translateX(0rem)', opacity: 1 }} transition={{ duration: 1.5, type: "spring" }}>Vibe to the concerts of some of India's finest musicians, comedians, and DJs! Get ready to groove and make memories that'll last a lifetime. Not only will you breathe fun-filled flavours of air, and meet new people; but you'll also become a part of an ever-blossoming community of IIIT Bhubaneswar. So, buckle up and grab your squad and let the good vibes roll, adding an extra perfection to the hymn of your steps.</motion.div>
                 </div>
                 <div className={classes.proCardsWrap}>
-                    {proNightsCard(pn_ss, "2ND MARCH - 7:00 PM", "SWATI SACHDEVA", "COMEDY", "Get ready for a night of belly laughs and endless giggles. Swati Sachdeva with her quick-witted sets and unique perspective is taking the stand-up comedy scene by storm. Whether she's poking fun at everyday situations or sharing hilarious anecdotes of her life, Swati's comedy is sure to have you in stitches.")}
-                    {proNightsCard(pn_bp, "3RD MARCH - 7:00 PM", "BAND PARASHARA", "CONCERT", "Band PARASHARA are a progressive Delhi-based band. The rock atmospshere conceived by them is sure to leave everyone pumped up and asking for more. Using a great amount of flavors from multiple playing styles and genres, they'll surely take the night high with us.")}
-                    {proNightsCard(pn_dc, "4TH MARCH - 7:00 PM", "DJ CARNIVORE", "EDM", "DJ Carnivore - an EDM artist - is ready to take Advaita to the next level! With his electrifying mixes and heart-pumping beats, he is guaranteed to have all your movements in sync to his beats. So, grab your friends and get ready to let loose as you experience the wild hymns of DJ Carnivore!")}
-                    {proNightsCard(pn_ak, "5TH MARCH - 7:00 PM", "ASEES KAUR", "MUSIC", "Asees Kaur is famous all over India for her major hits like Raataan Lambiyan, Jaan Nisar, and Makhna to name a few. Whether she's belting out Bollywood hits or giving a new spin to classic songs, she'll leave you mesmerized. So, get ready to dance and sing as you experience her electrifying performance.")}
+                    {proNightsCard(pn, "28TH FEB - 7:00 PM", "SURPRISE EVENT", "SURPRISE!", "Dive into the unknown with our Surprise Event! Brace yourself for an evening of mystery and joy as we unveil unexpected delights and unforgettable moments.")}
+                    {proNightsCard(pn, "29TH FEB - 7:00 PM", "BAND NIGHT", "CONCERT", "Groove to the beat at Band Night! Join us for an electrifying showcase of live music, featuring talented bands across genres. Get ready to tap your feet and let the music take over.")}
+                    {proNightsCard(pn, "1ST MARCH - 7:00 PM", "DJ NIGHT", "EDM", "Get into the rhythm at DJ Night! Dance the night away to the hottest beats as our skilled DJs create an infectious atmosphere, blending the latest tracks and timeless favorites.")}
+                    {proNightsCard(pn, "2ND MARCH - 7:00 PM", "FINAL SHOWDOWN", "MUSIC", "Immerse yourself in a live musical experience at our Artist Concert. From chart-toppers to emotional ballads, join us for a night of soulful performances that resonate with the heart and leave a lasting impression.")}
                 </div>
             </section>
 
