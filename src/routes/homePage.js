@@ -37,7 +37,7 @@ import pn_dc from "../assets/pn_dc.webp";
 import pn_bp from "../assets/pn_bp.webp";
 
 import { useLottie } from "lottie-react";
-import logoAnim from "../assets/logoanim24.json";
+import logoAnim from "../assets/logoanimBright.json";
 
 import AngleButton from "../components/angleButton";
 import PopBox from "../components/popbox";
