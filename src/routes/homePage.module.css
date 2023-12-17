@@ -15,13 +15,14 @@
     /* position: absolute;
     width: 150vw; */
     margin-top: 3rem;
-    filter: brightness(2);
+    
+    filter: brightness(10) hue-rotate(90deg);
 }
 
 .dateHero img {
     width: 18vw;
     transform: rotate(5deg);
-    margin-top: -2vw;
+    margin-top: -5vw;
 }
 
 @keyframes alver {
