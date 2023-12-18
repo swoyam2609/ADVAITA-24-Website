@@ -27,7 +27,6 @@ import e2thumb from "../assets/e2thumb.webp";
 import e3thumb from "../assets/e3thumb.webp";
 import e4thumb from "../assets/e4thumb.webp";
 import e5thumb from "../assets/e5thumb.webp";
-import e6thumb from "../assets/e6thumb.webp";
 import e7thumb from "../assets/e7thumb.webp";
 
 import pn from "../assets/pn.webp";
@@ -252,14 +251,13 @@ export default function HomePage() {
                         }}
                         loop
                     >
-                        {swiperCard(e0thumb, "/#pronights", "PRONIGHTS", "Unleash the fun at the concerts of some of India's finest musicians, comedians, and DJs")}
-                        {swiperCard(e1thumb, "/events#technical_events", "TECHNICAL EVENTS", "Unravel the tech giant within you")}
-                        {swiperCard(e2thumb, "/events#cultural_events", "CULTURAL EVENTS", "Enchant the arena with your charming voice or set the stage on fire with your dazzling steps")}
-                        {swiperCard(e3thumb, "/events#litfest_events", "FILM AND THEATER", "Get ready to bring out your inner 'Kalakar'")}
-                        {swiperCard(e4thumb, "/events#art_events", "ART AND E-SPORTS", "They say art lies all around us, also hola gamers!! may the best say GG")}
-                        {swiperCard(e5thumb, "/events#photography_events", "PHOTOGRAPHY", "Capture the world full of possibilities")}
-                        {swiperCard(e6thumb, "/events#food_events", "FOOD AND CSR", "Enjoy the amazing flavours and feed your soul with exotic delicacies and good deeds")}
-                        {swiperCard(e7thumb, "/events#social_connect", "SOCIAL CONNECT", "Help support important causes and make a positive impact in the community")}
+                        {swiperCard(e0thumb, "/#pronights", "PRONIGHTS", "Experience the thrill at concerts featuring some of India's finest musicians, comedians, and DJs")}
+                        {swiperCard(e1thumb, "/events#technical_events", "TECHNICAL EVENTS", "Explore your tech prowess in a series of challenging and innovative events")}
+                        {swiperCard(e2thumb, "/events#cultural_events", "CULTURAL, FILM AND THEATER", "Showcase your talent with a captivating voice or ignite the stage with your mesmerizing dance moves")}
+                        {swiperCard(e3thumb, "/events#cultural_events", "MANAGEMENT AND ART", "Combine charm and skill—whether it's through your voice or dance—to leave a lasting impression on the stage")}
+                        {swiperCard(e4thumb, "/events#art_events", "FOOD AND SPORTS", "Discover art in unexpected places, and gamers, get ready to compete for victory with a spirited 'GG'")}
+                        {swiperCard(e5thumb, "/events#photography_events", "PHOTOGRAPHY AND CSR", "Capture the boundless possibilities of the world through the lens and contribute to meaningful causes")}
+                        {swiperCard(e7thumb, "/events#social_connect", "SOCIAL CONNECT", "Support important causes and make a positive impact in the community through social initiatives")}
                     </Swiper>
                 </div>
             </section>
