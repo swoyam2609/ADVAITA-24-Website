@@ -27,7 +27,6 @@ import e2thumb from "../assets/e2thumb.webp";
 import e3thumb from "../assets/e3thumb.webp";
 import e4thumb from "../assets/e4thumb.webp";
 import e5thumb from "../assets/e5thumb.webp";
-import e6thumb from "../assets/e6thumb.webp";
 import e7thumb from "../assets/e7thumb.webp";
 
 import pn from "../assets/pn.webp";
@@ -254,11 +253,10 @@ export default function HomePage() {
                     >
                         {swiperCard(e0thumb, "/#pronights", "PRONIGHTS", "Unleash the fun at the concerts of some of India's finest musicians, comedians, and DJs")}
                         {swiperCard(e1thumb, "/events#technical_events", "TECHNICAL EVENTS", "Unravel the tech giant within you")}
-                        {swiperCard(e2thumb, "/events#cultural_events", "CULTURAL EVENTS", "Enchant the arena with your charming voice or set the stage on fire with your dazzling steps")}
-                        {swiperCard(e3thumb, "/events#litfest_events", "FILM AND THEATER", "Get ready to bring out your inner 'Kalakar'")}
-                        {swiperCard(e4thumb, "/events#art_events", "ART AND E-SPORTS", "They say art lies all around us, also hola gamers!! may the best say GG")}
-                        {swiperCard(e5thumb, "/events#photography_events", "PHOTOGRAPHY", "Capture the world full of possibilities")}
-                        {swiperCard(e6thumb, "/events#food_events", "FOOD AND CSR", "Enjoy the amazing flavours and feed your soul with exotic delicacies and good deeds")}
+                        {swiperCard(e2thumb, "/events#cultural_events", "CULTURAL, FILM AND THEATER", "Enchant the arena with your charming voice or set the stage on fire with your dazzling steps")}
+                        {swiperCard(e3thumb, "/events#cultural_events", "MANAGEMENT AND ART", "Enchant the arena with your charming voice or set the stage on fire with your dazzling steps")}
+                        {swiperCard(e4thumb, "/events#art_events", "FOOD AND SPORTS", "They say art lies all around us, also hola gamers!! may the best say GG")}
+                        {swiperCard(e5thumb, "/events#photography_events", "PHOTOGRAPHY AND CSR", "Capture the world full of possibilities")}
                         {swiperCard(e7thumb, "/events#social_connect", "SOCIAL CONNECT", "Help support important causes and make a positive impact in the community")}
                     </Swiper>
                 </div>
