@@ -3,7 +3,6 @@ import iconIg from "../assets/instagram.svg";
 import iconTw from "../assets/twitter.svg";
 import iconYt from "../assets/youtube.svg";
 import dateImg from "../assets/date.webp";
-import heroAdvImg from "../assets/stage.webp";
 import sponsorsImg from "../assets/sponsors.webp";
 
 import s_biswas from "../assets/s-biswas.webp";
@@ -189,7 +188,7 @@ export default function HomePage() {
             </section>
 
             <section className={classes.aboutSection}>
-                <motion.div viewport={{ once: true }} initial={{ transform: 'translateY(6rem)', opacity: 0 }} whileInView={{ transform: 'translateY(0rem)', opacity: 1 }} transition={{ duration: 2, type: "spring", delay: 0.15 }}><img src={heroAdvImg} alt="advaita" /></motion.div>
+                
                 <div className={classes.aboutText}>
                     <div>
                         <div>2K24</div>
