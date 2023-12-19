@@ -158,8 +158,9 @@ export default function HomePage() {
             },
             body: JSON.stringify(data)
         };
+        console.log(settings)
         try {
-            const res = await fetch("https://api.advaita-iiitbh.in/contact/", settings);
+            const res = await fetch("https://advaita-site-backend.onrender.com/send-email/contact-us", settings);
             setcontactBtnText(res.status === 200 ? "MESSAGE SENT ✅" : "ERROR ⛔");
         }
         catch (e) {
