@@ -22,7 +22,7 @@ export default function SponsorsPage() {
             body: JSON.stringify(data)
         };
         try {
-            const res = await fetch("https://advaita-site-backend.onrender.com/send-email/sponsor-us", settings);
+            const res = await fetch("https://advaita24.swoyam.engineer/send-email/sponsor-us", settings);
             setcontactBtnText(res.status === 200 ? "PROPOSAL SENT ✅" : "ERROR ⛔");
         }
         catch (e) {

@@ -160,7 +160,7 @@ export default function HomePage() {
         };
         console.log(settings)
         try {
-            const res = await fetch("https://advaita-site-backend.onrender.com/send-email/contact-us", settings);
+            const res = await fetch("https://advaita24.swoyam.engineer/send-email/contact-us", settings);
             setcontactBtnText(res.status === 200 ? "MESSAGE SENT ✅" : "ERROR ⛔");
         }
         catch (e) {
