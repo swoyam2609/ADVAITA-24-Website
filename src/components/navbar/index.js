@@ -61,7 +61,7 @@ export default function NavBar() {
                 style={{ textDecoration: "inherit", color: "inherit" }}
                 to="/register#"
               >
-                REGISTER NOW
+                REGISTER
               </HashLink>
             </div>
           </motion.div>
