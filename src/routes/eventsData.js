@@ -124,7 +124,7 @@ export const eventsData = [
                 linkText: "Register",
             },
             {
-                date: "3RD & 5TH MARCH",
+                date: "FEB",
                 time: "12 - 4 PM (3rd), 9 - 1 PM (5th)",
                 description: "Championing the unusual, unorthodox and unheard, our annual Battle of the Bands competition is back. Whether you’re looking to showcase new adventures into electronica or dip your toe into experimental waters, ROCKATHON, a resplendent musical band event is a chance for soloists, ensembles, improvisers and performance artists to showcase their talents. We invite musical bands – who chime with our ethos to perform and compete among themselves in an informal setting in front of a legion to emerge as the best one. So get the band together and take on the world in this battle of bands.",
                 image: "/event-images/rockathon.webp",
