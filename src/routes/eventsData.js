@@ -209,8 +209,8 @@ export const eventsData = [
         description: "Artist? Not an artist? Well it doesn't really matter. They say art lies all around us . Well we don't deny and nor would you after being a part of the plethora of amazing events we bring to you.",
         events: [
             {
-                date: "3RD MARCH",
-                time: "2:00 PM - 4:00 PM",
+                date: "2ND MARCH",
+                time: "5:00 PM - 7:00 PM",
                 description: "How accurately can you make art? An art testing skill competition \"ART-CURRACY\" which will test your art skills and your descriptive abilities. Only good words are not enough, being able to draw accurate things is also a challenging part of itself. It will be fun and thrilling to witness this competition. Also for those artistic friends, it gives you a platform to showcase and test your art skills. The participants will compete in teams of two where one of them will be given a picture that he/she will see and describe to the other, and the other participant needs to draw it accurately based on the description provided.",
                 image: "/event-images/art-curacy.webp",
                 prize: 5000,
