@@ -218,9 +218,9 @@ export const eventsData = [
                 linkText: "Register",
             },
             {
-                date: "3RD MARCH",
-                time: "4:30 PM - 6:30 PM",
-                description: "We don't make mistakes, we have happy accidents. ~Bob Ross Do you love the process of making art and get engrossed in the realm of paintings? Making art is no less than magic. It is one of those creations that allows for interpretation of any kind. We have all of that in stock for you to showcase your talent but with a TWIST. ADVAITA presents \"PICASSO\", a relay race in which you and your teammates will make use of the paint brushes to add paint strokes one by one to make a meaningful work of art. Join us in this battle of creativity and show off your artistic prowess to the world.",
+                date: "1ST MARCH",
+                time: "10:00 AM - 3:00 PM",
+                description: "Embark on an artistic adventure like never before with ACE-HUNT! Grab your friends, form a dynamic team of 3-4, and immerse yourselves in a quest filled with mysteries,  puzzles, and the thrill of discovery. Decode clues, navigate twists, and unlock surprises that await your artistic prowess. It's not just an event; it's an exhilarating journey into the heart of creativity!",
                 image: "/event-images/picasso.webp",
                 link: "https://docs.google.com/forms/d/e/1FAIpQLSdj4Cs6PSd37XOvcRCz0vkVVofj7xc82pPQYyapAT_ivWD8dw/viewform",
                 linkText: "Register",
