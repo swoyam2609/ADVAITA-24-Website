@@ -260,30 +260,30 @@ export const eventsData = [
             },
         ]
     },
-    {
-        title: "CSR",
-        id: "csr_events",
-        subtitle: "WORDS THAT IGNITE",
-        description: "The air is alive with the aroma of freshly printed pages and the buzz of excitement as book lovers from all walks of life gather to celebrate the written word. At this literature fest, imagination runs wild, creativity knows no bounds, and the power of storytelling reigns supreme.",
-        events: [
-            {
-                date: "29TH FEB",
-                time: "2:00 PM - 4:00 PM",
-                description: "Experience the power of unity at UMANG! Dive into an invigorating pep talk where a crucial social cause sparks enthusiasm and purpose. Let your voice be the catalyst for positive change, championing collective efforts toward a better future. Join the movement and contribute to a ripple effect of impact. UMANG - where every voice resonates, and together, we forge a path toward a brighter tomorrow. Be the change, one resounding voice at a time!",
-                image: "/event-images/umang.png",
-                // link: "https://docs.google.com/forms/d/e/1FAIpQLSewq-IguiTeLH5qtS1HVvFq5khnUp_zCTp4l6yLjbASP7yHGA/viewform",
-                linkText: "Register",
-            },
-            {
-                date: "29TH FEB",
-                time: "2:00 PM - 4:00 PM",
-                description: "Be a hero in red! Join our Blood Donation Drive - where a single drop can save a life. It's time to roll up your sleeves, show your heart, and make a meaningful impact. Join the lifesaving journey, donate blood, and be the change. Your contribution matters, and together we can make a difference. Give the gift of life!",
-                image: "/event-images/blood donation camp.png",
-                // link: "https://docs.google.com/forms/d/e/1FAIpQLSewq-IguiTeLH5qtS1HVvFq5khnUp_zCTp4l6yLjbASP7yHGA/viewform",
-                linkText: "Register",
-            },
-        ]
-    },
+    // {
+    //     title: "CSR",
+    //     id: "csr_events",
+    //     subtitle: "WORDS THAT IGNITE",
+    //     description: "The air is alive with the aroma of freshly printed pages and the buzz of excitement as book lovers from all walks of life gather to celebrate the written word. At this literature fest, imagination runs wild, creativity knows no bounds, and the power of storytelling reigns supreme.",
+    //     events: [
+    //         {
+    //             date: "29TH FEB",
+    //             time: "2:00 PM - 4:00 PM",
+    //             description: "Experience the power of unity at UMANG! Dive into an invigorating pep talk where a crucial social cause sparks enthusiasm and purpose. Let your voice be the catalyst for positive change, championing collective efforts toward a better future. Join the movement and contribute to a ripple effect of impact. UMANG - where every voice resonates, and together, we forge a path toward a brighter tomorrow. Be the change, one resounding voice at a time!",
+    //             image: "/event-images/umang.png",
+    //             // link: "https://docs.google.com/forms/d/e/1FAIpQLSewq-IguiTeLH5qtS1HVvFq5khnUp_zCTp4l6yLjbASP7yHGA/viewform",
+    //             linkText: "Register",
+    //         },
+    //         {
+    //             date: "29TH FEB",
+    //             time: "2:00 PM - 4:00 PM",
+    //             description: "Be a hero in red! Join our Blood Donation Drive - where a single drop can save a life. It's time to roll up your sleeves, show your heart, and make a meaningful impact. Join the lifesaving journey, donate blood, and be the change. Your contribution matters, and together we can make a difference. Give the gift of life!",
+    //             image: "/event-images/blood donation camp.png",
+    //             // link: "https://docs.google.com/forms/d/e/1FAIpQLSewq-IguiTeLH5qtS1HVvFq5khnUp_zCTp4l6yLjbASP7yHGA/viewform",
+    //             linkText: "Register",
+    //         },
+    //     ]
+    // },
     {
         title: "PHOTO GRAPHY",
         id: "photography_events",
