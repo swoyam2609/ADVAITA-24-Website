@@ -257,8 +257,8 @@ export const eventsData = [
         description: "Hola gamers and fun seekers!!! How can we start the party without ya all. We are officially sending the invitation to you for the ultimate battles. Let's see if you have what it takes to win. May the best say GG!",
         events: [
             {
-                date: "XTH MARCH",
-                time: "XX:00 AM",
+                date: "29 FEB - 1ST MARCH",
+                time: "10:00 PM",
                 description: "There would be tournaments in popular games like Valorant PC, COD mobile etc. Also there would be a wide range of tournaments and leagues for all skill levels. Whether you’re a beginner or a pro, you can find the perfect competition to challenge yourself and show off your skills. Not to mention there would be a variety of rewards and prizes for the top players.",
                 image: "/event-images/esports.webp"
             },
@@ -303,24 +303,27 @@ export const eventsData = [
         description: "Get ready to snap, shoot, and shine! Unleash your inner artist and your wildest imagination. Dive into the world of photography and learn the ins and outs of capturing stunning shots. Let's capture some unforgettable moments together!",
         events: [
             {
-                date: "3RD MARCH",
+                //IMAGEN
+                date: "29 FEB",
                 time: "9:00 AM - 11:00 AM",
-                description: "Unleash your inner shutterbug and join us for a thrilling photography workshop! Led by renowned experts in the field, this workshop is a must-attend for anyone looking to up their photography game. Dive into the world of photography and learn the ins and outs of capturing stunning shots. From composition to lighting, this workshop will provide you with the tools and knowledge to take your photography to the next level. Don't miss out on this opportunity to learn from the best and become a master of the lens!",
+                description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
                 image: "/event-images/photography-workshop.webp"
             },
             {
-                date: "2ND - 5TH MARCH",
+                //PHOTOGRAPHY
+                date: "29TH FEB - 2ND MARCH",
                 time: "9:00 AM - 9:00 PM",
                 description: "Step into the world of photography and freeze your memories at A STILL IN TIME - the ultimate photo exhibition! Join us at #Advaita2023 and discover the beauty of capturing a moment in time through the lens. From stunning landscapes to candid shots, we've curated some of the best works from photographers of our college. Not only will you get to admire the art, but you'll also get the chance to snap your own memories at our photo booth. Don't miss out on this one-of-a-kind experience.",
                 image: "/event-images/a-still-in-time.webp"
             },
             {
+                //WORKSHOP
                 date: "4TH MARCH",
                 time: "2:00 PM - 5:00 PM",
                 description: "Get ready to snap, shoot, and shine with IMAGEN—the ultimate destination for photography and videography enthusiasts! Whether you're a seasoned pro or just starting out, our specially curated competitions will inspire and challenge you to bring your creative vision to life. With IMAGEN, the world is your canvas and the camera is your brush—so let's capture some unforgettable moments together!",
                 image: "/event-images/imagen.webp",
-                link: "https://docs.google.com/forms/d/e/1FAIpQLSdBFdU5hbU_8RHjZE6al1TUhmbMyVMPAfzMrEbX1r5Sk9WKNw/viewform",
-                linkText: "Register",
+                //link: "https://docs.google.com/forms/d/e/1FAIpQLSdBFdU5hbU_8RHjZE6al1TUhmbMyVMPAfzMrEbX1r5Sk9WKNw/viewform",
+                //linkText: "Register",
                 prize: 30000,
             },
         ]
