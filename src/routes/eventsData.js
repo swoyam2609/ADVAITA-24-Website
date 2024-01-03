@@ -337,32 +337,20 @@ export const eventsData = [
         description: "Connect, build relationships, and foster a sense of belongingness in a supportive and engaging atmosphere. Make new friends, find a support network, have some fun, help support important causes and make a positive impact in the community.",
         events: [
             {
-                date: "2ND MARCH",
-                time: "4:00 PM - 6:00 PM",
-                description: "SPIC MACAY (Society for the Promotion of Indian Classical Music And Culture Amongst Youth) is a voluntary youth movement which promotes intangible aspects of Indian cultural heritage by promoting Indian classical music, classical dance, folk music, yoga, meditation, crafts and other aspects of Indian culture. Witness the performance of Sri Joydeep Mukherjee (Sarod, Mohanveena & Sursingar exponent, Sangeet Natak Academi Awardee, Regular Artist of All India Radio & Doordarshan, Empanelled Artiste of ICCR, New Delhi).",
-                image: "/event-images/spicmacay.webp"
-            },
-            {
-                date: "3RD MARCH",
-                time: "10:00 AM - 1:00 PM",
-                description: "As per swami vivekananda: Service to man is service to God. The truth of this adage also applies in case of blood donation. Saving lives by donating blood is no less meritorious than any act of God. Realizing this, a blood donation camp will be organised in the college campus to contribute to the urgent need for patients confronting trauma and other life-saving treatments, such as blood transfusions. It reduces the risk of heart attack and blood pressure in the donor while meeting the receiver's vital needs. As it is rightly said: Show an act of care, your Blood-Donation can keep one’s prayer.",
-                image: "/event-images/blood-donation.webp",
-                link: "https://docs.google.com/forms/d/e/1FAIpQLSdufT4rEI6HnfZpKR_ix1E0k4PAgANnOEEspGtE0wLHMZEkvg/viewform",
+                //date: "3RD MARCH",
+                //time: "10:00 AM - 1:00 PM",
+                description: "Be a hero in red! Join our Blood Donation Drive – where a single drop can save a life. It's time to roll up your sleeves, show your heart, and make a meaningful impact. Join the lifesaving journey, donate blood, and be the change. Your contribution matters, and together we can make a difference. Give the gift of life!",
+                image: "/event-images/blood_donation_camp.png",
+                //link: "https://docs.google.com/forms/d/e/1FAIpQLSdufT4rEI6HnfZpKR_ix1E0k4PAgANnOEEspGtE0wLHMZEkvg/viewform",
                 linkText: "Register",
             },
             {
-                date: "3RD MARCH",
-                time: "4:00 PM - 5:00 PM",
-                description: "It is man's curiosity that widens the scope of his knowledge. But it is not possible to achieve everything on one's own in the short span of human life. As it is rightly said: Learn from the experts; you will not live long enough to figure it all out by yourself. Umang is where renowned and accomplished speakers enlighten the students and help them form a broader perspective about various aspects of life. The objective is to arouse enthusiasm and motivate students to step outside their comfort zone and feel confident. So don't miss this golden opportunity and satiate your curiosity appetite by getting plenty of knowledge.",
-                image: "/event-images/umang.webp"
-            },
-            {
-                date: "5TH MARCH",
-                time: "5:00 AM - 10:00 AM",
+                date: "1ST MARCH",
+                time: "2:00 PM - 4:00 PM",
                 description: "Ready, set, run! Join us as we lace up our sneakers and hit the pavement for our society's marathon 🏃‍♀🏃‍♂ Let's go the distance together and make a difference! Vedanta Samiti is here with the marathon on 5th March 2023. So put your sports shoes on and  mark your calendar as we have some exciting times ahead.",
-                image: "/event-images/marathon.webp",
-                prize: 30000,
-                link: "https://docs.google.com/forms/d/e/1FAIpQLSc6iFedBfwXfMvbhUDXOzlArycXRwzjhD4Tm7SNUei3NNgwuQ/viewform",
+                image: "/event-images/umang.png",
+                //prize: 30000,
+                //link: "https://docs.google.com/forms/d/e/1FAIpQLSc6iFedBfwXfMvbhUDXOzlArycXRwzjhD4Tm7SNUei3NNgwuQ/viewform",
                 linkText: "Register",
             },
         ]
