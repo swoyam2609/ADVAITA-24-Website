@@ -167,39 +167,43 @@ export const eventsData = [
         description: "Artist? Not an artist? Well it doesn't really matter. They say art lies all around us . Well we don't deny and nor would you after being a part of the plethora of amazing events we bring to you.",
         events: [
             {
-                date: "3RD MARCH",
-                time: "2:00 PM - 4:00 PM",
-                description: "How accurately can you make art? An art testing skill competition \"ART-CURRACY\" which will test your art skills and your descriptive abilities. Only good words are not enough, being able to draw accurate things is also a challenging part of itself. It will be fun and thrilling to witness this competition. Also for those artistic friends, it gives you a platform to showcase and test your art skills. The participants will compete in teams of two where one of them will be given a picture that he/she will see and describe to the other, and the other participant needs to draw it accurately based on the description provided.",
-                image: "/event-images/art-curacy.webp",
-                prize: 5000,
-                link: "https://docs.google.com/forms/d/e/1FAIpQLSdVEV8x7-lMT3iE0vcof8-9lJpVFCC5SKtrzHZg0Z8c3KUp0Q/viewform",
-                linkText: "Register",
-            },
-            {
-                date: "3RD MARCH",
-                time: "4:30 PM - 6:30 PM",
-                description: "We don't make mistakes, we have happy accidents. ~Bob Ross Do you love the process of making art and get engrossed in the realm of paintings? Making art is no less than magic. It is one of those creations that allows for interpretation of any kind. We have all of that in stock for you to showcase your talent but with a TWIST. ADVAITA presents \"PICASSO\", a relay race in which you and your teammates will make use of the paint brushes to add paint strokes one by one to make a meaningful work of art. Join us in this battle of creativity and show off your artistic prowess to the world.",
-                image: "/event-images/picasso.webp",
-                link: "https://docs.google.com/forms/d/e/1FAIpQLSdj4Cs6PSd37XOvcRCz0vkVVofj7xc82pPQYyapAT_ivWD8dw/viewform",
-                linkText: "Register",
-                prize: 5000,
-            },
-            {
-                date: "5TH MARCH",
-                time: "2:00 PM - 5:00 PM",
-                description: "Treasure hunting has always been an activity of adrenaline, intelligence and bravery. People have been searching for gold and precious stones in the form of treasure for centuries. But what if we introduce a twist by bringing in artistic treasure and creating an universe of creative brilliance? ADVAITA brings to you \"TREAVENGER HUNT\". Within a set amount of time, locate the hidden art supplies and use them to create your masterpiece. Set your heart ablaze and go beyond your limits during the search and win the battle with all the tools at your disposal.",
-                image: "/event-images/treavenger-hunt.webp",
-                link: "https://docs.google.com/forms/d/e/1FAIpQLSfU711OwBbT_IKXrtsCeMX6fwi7gv59djw5berz7Qeevx64bA/viewform",
-                linkText: "Register",
-                prize: 5000,
-            },
-            {
-                date: "5TH MARCH",
+                //ART CURRACY
+                date: "1ST MARCH",
                 time: "5:00 PM - 7:00 PM",
-                description: "No, it's not a drawing competition, but a game like Chinese Whisper. Yes, Chinese Whisper, it was fun - Shall we take it to the Next level and double the fun and excitement! Join us in this fun and creative event where we will be drawing on each other's backs in teams of 3, wherein the Chinese whisper is replaced with a pen and paper. The first person has to draw a piece of any art on the back of the other person and that person is required to draw the art that he is perceiving, passing on to the third one. Just make it as right as possible.",
-                image: "/event-images/draw-it-right.webp",
-                link: "https://docs.google.com/forms/d/e/1FAIpQLSeIkxVrG16AqD10drTXIHT1u7g0HeitS5o8oHxa2Slpe8OxsA/viewform",
-                linkText: "Register",
+                description: "Dive into the realm of artistic brilliance at ART-CURRACY! Unleash your creativity in this dynamic team event where one becomes the storyteller, and the other, the artist. It's a race against time, a test of teamwork, and a celebration of talent like never before. Whether you're an art enthusiast or a curious newcomer, join us for a symphony of colors and creativity – where innovation meets imagination!",
+                image: "/event-images/art_curracy.png",
+                prize: 5000,
+                //link: "https://docs.google.com/forms/d/e/1FAIpQLSdVEV8x7-lMT3iE0vcof8-9lJpVFCC5SKtrzHZg0Z8c3KUp0Q/viewform",
+                //linkText: "Register",
+            },
+            {
+                //ACE-HUNT
+                date: "29TH FEB ",
+                time: "10:00 AM - 3:00 PM",
+                description: "Embark on an artistic adventure like never before with ACE-HUNT! Grab your friends, form a dynamic team of 3-4, and immerse yourselves in a quest filled with mysteries, puzzles, and the thrill of discovery. Decode clues, navigate twists, and unlock surprises that await your artistic prowess. It's not just an event; it's an exhilarating journey into the heart of creativity!",
+                image: "/event-images/ace_hunt.png",
+                //link: "https://docs.google.com/forms/d/e/1FAIpQLSdj4Cs6PSd37XOvcRCz0vkVVofj7xc82pPQYyapAT_ivWD8dw/viewform",
+                //linkText: "Register",
+                prize: 5000,
+            },
+            {
+                //CREATE-A-THON
+                date: "1ST MARCH",
+                time: "3:00 PM - 7:00 PM",
+                description: "Get ready to ignite your creativity at CREATE-A-THON – IIIT Bhubaneswar's digital stage for design enthusiasts! Unleash your artistic prowess using any design tool, collaborate with your team, and craft designs that not only look good but also do good. Dive into themes centered around social issues, where your creations become a catalyst for change. Don't miss out on this opportunity to design, inspire, and impact. Join the competition and let your creativity shine on the digital canvas!",
+                image: "/event-images/create_a_thon.png",
+                //link: "https://docs.google.com/forms/d/e/1FAIpQLSfU711OwBbT_IKXrtsCeMX6fwi7gv59djw5berz7Qeevx64bA/viewform",
+                //linkText: "Register",
+                prize: 5000,
+            },
+            {
+                //ARTISTIC ALCHEMY
+                date: "2ND MARCH",
+                time: "12:00 PM - 3:00 PM",
+                description: "Experience the magic of collaboration in the enthralling world of ARTISTIC ALCHEMY! Dive into our Switching Canvases Challenge, where pairs of artists dynamically switch canvases, creating a visually captivating narrative of transformation. Witness the fluidity of artistic expression unfold against captivating themes. Don't miss this amazing chance to immerse yourself in the magic of collaborative artistry at its finest!",
+                image: "/event-images/artistic_alchemy.png",
+                //link: "https://docs.google.com/forms/d/e/1FAIpQLSeIkxVrG16AqD10drTXIHT1u7g0HeitS5o8oHxa2Slpe8OxsA/viewform",
+                //linkText: "Register",
                 prize: 5000,
             },
         ]
@@ -211,10 +215,10 @@ export const eventsData = [
         description: "Hola gamers and fun seekers!!! How can we start the party without ya all. We are officially sending the invitation to you for the ultimate battles. Let's see if you have what it takes to win. May the best say GG!",
         events: [
             {
-                date: "XTH MARCH",
-                time: "XX:00 AM",
+                date: "29 FEB - 1ST MARCH",
+                time: "10:00 PM - 6:00 AM",
                 description: "There would be tournaments in popular games like Valorant PC, COD mobile etc. Also there would be a wide range of tournaments and leagues for all skill levels. Whether you’re a beginner or a pro, you can find the perfect competition to challenge yourself and show off your skills. Not to mention there would be a variety of rewards and prizes for the top players.",
-                image: "/event-images/esports.webp"
+                image: "/event-images/e_sports.png"
             },
         ]
     },
@@ -257,24 +261,27 @@ export const eventsData = [
         description: "Get ready to snap, shoot, and shine! Unleash your inner artist and your wildest imagination. Dive into the world of photography and learn the ins and outs of capturing stunning shots. Let's capture some unforgettable moments together!",
         events: [
             {
-                date: "3RD MARCH",
+                //IMAGEN
+                date: "29 FEB",
                 time: "9:00 AM - 11:00 AM",
-                description: "Unleash your inner shutterbug and join us for a thrilling photography workshop! Led by renowned experts in the field, this workshop is a must-attend for anyone looking to up their photography game. Dive into the world of photography and learn the ins and outs of capturing stunning shots. From composition to lighting, this workshop will provide you with the tools and knowledge to take your photography to the next level. Don't miss out on this opportunity to learn from the best and become a master of the lens!",
-                image: "/event-images/photography-workshop.webp"
+                description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
+                image: "/event-images/imagen.png"
             },
             {
-                date: "2ND - 5TH MARCH",
+                //PHOTOGRAPHY
+                date: "29TH FEB - 2ND MARCH",
                 time: "9:00 AM - 9:00 PM",
                 description: "Step into the world of photography and freeze your memories at A STILL IN TIME - the ultimate photo exhibition! Join us at #Advaita2023 and discover the beauty of capturing a moment in time through the lens. From stunning landscapes to candid shots, we've curated some of the best works from photographers of our college. Not only will you get to admire the art, but you'll also get the chance to snap your own memories at our photo booth. Don't miss out on this one-of-a-kind experience.",
                 image: "/event-images/a-still-in-time.webp"
             },
             {
+                //WORKSHOP
                 date: "4TH MARCH",
                 time: "2:00 PM - 5:00 PM",
                 description: "Get ready to snap, shoot, and shine with IMAGEN—the ultimate destination for photography and videography enthusiasts! Whether you're a seasoned pro or just starting out, our specially curated competitions will inspire and challenge you to bring your creative vision to life. With IMAGEN, the world is your canvas and the camera is your brush—so let's capture some unforgettable moments together!",
                 image: "/event-images/imagen.webp",
-                link: "https://docs.google.com/forms/d/e/1FAIpQLSdBFdU5hbU_8RHjZE6al1TUhmbMyVMPAfzMrEbX1r5Sk9WKNw/viewform",
-                linkText: "Register",
+                //link: "https://docs.google.com/forms/d/e/1FAIpQLSdBFdU5hbU_8RHjZE6al1TUhmbMyVMPAfzMrEbX1r5Sk9WKNw/viewform",
+                //linkText: "Register",
                 prize: 30000,
             },
         ]
