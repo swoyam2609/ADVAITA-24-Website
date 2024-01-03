@@ -213,7 +213,7 @@ export const eventsData = [
                 date: "1ST MARCH",
                 time: "5:00 PM - 7:00 PM",
                 description: "Dive into the realm of artistic brilliance at ART-CURRACY! Unleash your creativity in this dynamic team event where one becomes the storyteller, and the other, the artist. It's a race against time, a test of teamwork, and a celebration of talent like never before. Whether you're an art enthusiast or a curious newcomer, join us for a symphony of colors and creativity – where innovation meets imagination!",
-                image: "/event-images/art-curacy.webp",
+                image: "/event-images/art_curracy.png",
                 prize: 5000,
                 //link: "https://docs.google.com/forms/d/e/1FAIpQLSdVEV8x7-lMT3iE0vcof8-9lJpVFCC5SKtrzHZg0Z8c3KUp0Q/viewform",
                 //linkText: "Register",
@@ -223,7 +223,7 @@ export const eventsData = [
                 date: "29TH FEB ",
                 time: "10:00 AM - 3:00 PM",
                 description: "Embark on an artistic adventure like never before with ACE-HUNT! Grab your friends, form a dynamic team of 3-4, and immerse yourselves in a quest filled with mysteries, puzzles, and the thrill of discovery. Decode clues, navigate twists, and unlock surprises that await your artistic prowess. It's not just an event; it's an exhilarating journey into the heart of creativity!",
-                image: "/event-images/picasso.webp",
+                image: "/event-images/ace_hunt.png",
                 //link: "https://docs.google.com/forms/d/e/1FAIpQLSdj4Cs6PSd37XOvcRCz0vkVVofj7xc82pPQYyapAT_ivWD8dw/viewform",
                 //linkText: "Register",
                 prize: 5000,
@@ -233,7 +233,7 @@ export const eventsData = [
                 date: "1ST MARCH",
                 time: "3:00 PM - 7:00 PM",
                 description: "Get ready to ignite your creativity at CREATE-A-THON – IIIT Bhubaneswar's digital stage for design enthusiasts! Unleash your artistic prowess using any design tool, collaborate with your team, and craft designs that not only look good but also do good. Dive into themes centered around social issues, where your creations become a catalyst for change. Don't miss out on this opportunity to design, inspire, and impact. Join the competition and let your creativity shine on the digital canvas!",
-                image: "/event-images/treavenger-hunt.webp",
+                image: "/event-images/create_a_thon.png",
                 //link: "https://docs.google.com/forms/d/e/1FAIpQLSfU711OwBbT_IKXrtsCeMX6fwi7gv59djw5berz7Qeevx64bA/viewform",
                 //linkText: "Register",
                 prize: 5000,
@@ -243,7 +243,7 @@ export const eventsData = [
                 date: "2ND MARCH",
                 time: "12:00 PM - 3:00 PM",
                 description: "Experience the magic of collaboration in the enthralling world of ARTISTIC ALCHEMY! Dive into our Switching Canvases Challenge, where pairs of artists dynamically switch canvases, creating a visually captivating narrative of transformation. Witness the fluidity of artistic expression unfold against captivating themes. Don't miss this amazing chance to immerse yourself in the magic of collaborative artistry at its finest!",
-                image: "/event-images/draw-it-right.webp",
+                image: "/event-images/artistic_alchemy.png",
                 //link: "https://docs.google.com/forms/d/e/1FAIpQLSeIkxVrG16AqD10drTXIHT1u7g0HeitS5o8oHxa2Slpe8OxsA/viewform",
                 //linkText: "Register",
                 prize: 5000,
@@ -258,9 +258,9 @@ export const eventsData = [
         events: [
             {
                 date: "29 FEB - 1ST MARCH",
-                time: "10:00 PM",
+                time: "10:00 PM - 6:00 AM",
                 description: "There would be tournaments in popular games like Valorant PC, COD mobile etc. Also there would be a wide range of tournaments and leagues for all skill levels. Whether you’re a beginner or a pro, you can find the perfect competition to challenge yourself and show off your skills. Not to mention there would be a variety of rewards and prizes for the top players.",
-                image: "/event-images/esports.webp"
+                image: "/event-images/e_sports.png"
             },
         ]
     },
@@ -307,7 +307,7 @@ export const eventsData = [
                 date: "29 FEB",
                 time: "9:00 AM - 11:00 AM",
                 description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
-                image: "/event-images/photography-workshop.webp"
+                image: "/event-images/imagen.png"
             },
             {
                 //PHOTOGRAPHY
