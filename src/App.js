@@ -4,6 +4,7 @@ import { useEffect } from 'react';
 import AnimatedCursor from "react-animated-cursor"
 
 import HomePage from './routes/homePage';
+import RegisterPage from './routes/register';
 import NavBar from './components/navbar';
 import Footer from './components/footer';
 import EventsPage from './routes/events';
@@ -99,6 +100,7 @@ export default function App() {
                     <Route path="/" element={<HomePage />} />
                     <Route path="/events" element={<EventsPage />} />
                     <Route path="/sponsors" element={<SponsorsPage />} />
+                    <Route path="/register" element={<RegisterPage />} />
                     <Route path="*" element={<Navigate to="/" />} />
                 </Route>
             </Routes>

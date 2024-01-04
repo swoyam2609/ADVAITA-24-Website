@@ -56,7 +56,14 @@ export default function NavBar() {
                 CONTACTS
               </HashLink>
             </div>
-            <div onClick={() => setPopUp(true)}>REGISTER</div>
+            <div>
+              <HashLink
+                style={{ textDecoration: "inherit", color: "inherit" }}
+                to="/register#"
+              >
+                REGISTER
+              </HashLink>
+            </div>
           </motion.div>
         ) : (
           <div className={classes.navBarWrap}>
