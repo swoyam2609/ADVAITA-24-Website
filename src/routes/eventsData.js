@@ -223,38 +223,6 @@ export const eventsData = [
         ]
     },
     {
-        title: "LITERATURE",
-        id: "literature_events",
-        subtitle: "WORDS THAT IGNITE",
-        description: "The air is alive with the aroma of freshly printed pages and the buzz of excitement as book lovers from all walks of life gather to celebrate the written word. At this literature fest, imagination runs wild, creativity knows no bounds, and the power of storytelling reigns supreme.",
-        events: [
-            {
-                date: "3RD MARCH",
-                time: "5:00 PM - 6:30 PM",
-                description: "Hola actors, we hope you are prepared for this one. All you need to do is immitate someone. Easy right? Well just a small twist. You have to imitate \"someone\" but the someone will be determined by throwing darts and then unscrambling whatever you get under it.",
-                image: "/event-images/scrambling-dart.webp",
-                link: "https://docs.google.com/forms/d/e/1FAIpQLSewq-IguiTeLH5qtS1HVvFq5khnUp_zCTp4l6yLjbASP7yHGA/viewform",
-                linkText: "Register",
-            },
-            {
-                date: "4TH MARCH",
-                time: "11:00 AM - 1:00 PM",
-                description: "The mehfil of Advaita is going to be a lot more jaandaar as the News And Publication Society IIIT Bhubaneswar brings to you a workshop by none other than Miss Vanika Sangtani. So folks get ready on 4th March from 11 AM to 1 PM, and be a part of our mehfil to make it even more memorable. For better or for verse!",
-                image: "/event-images/vanika-workshop.webp",
-                link: "https://docs.google.com/forms/d/e/1FAIpQLScHSmzOcM1BvsmGo4dw4NixZJp-vfjcKzVJuLcth181EUMG2Q/viewform",
-                linkText: "Register",
-            },
-            {
-                date: "5TH MARCH",
-                time: "3:30 PM - 5:30 PM",
-                description: "Someone said sports and books are not related. Well we don't agree much on that and thats why we introduced the BBDM. An event where you get to flaunt how good you are at basket ball but only if you can prove your mettle of being a bookworm. The event is the perfect test of the athelete as well as the scholar in you.",
-                image: "/event-images/bbdm.webp",
-                link: "https://docs.google.com/forms/d/e/1FAIpQLSfufw5oL-PwwIGRmr8f-rSloM-gqBnj7Tq9JqzafmDorgqknA/viewform",
-                linkText: "Register",
-            },
-        ]
-    },
-    {
         title: "PHOTO GRAPHY",
         id: "photography_events",
         subtitle: "HEART OF A PERFECT CLICK",
@@ -293,78 +261,41 @@ export const eventsData = [
         description: "Any foodies here? Well we do hope so coz we have a lot amazing flavours in our hands where you not only get to cook exotic delicacies but also get to flaunt your eating skills.",
         events: [
             {
-                date: "4TH MARCH",
-                time: "9:00 AM - 1:00 PM",
+                date: "2ND MARCH",
+                time: "9:00 AM - 12:00 PM",
                 description: "Get ready for a Maggie-making extravaganza!!! Cook Maggie with a delicious punch. The competition will be a test of skill, creativity, and speed as participants race against the clock to create the most delicious and visually stunning Maggie. The rules are simple: each chef must use only the ingredients provided and complete their dish within the allotted time. The judges will be looking for originality, taste, and presentation. The stakes are high, as the winner will receive bragging rights as the ultimate Maggie master. Don't miss out on this Maggie-making action!",
-                image: "/event-images/maggie-chef.webp",
-                link: "https://docs.google.com/forms/d/e/1FAIpQLSdO0LpaJvGvQvU9WTquUxDGGAo-0RjnTGDQclOMVlEcGDyYdg/viewform",
-                linkText: "Register",
+                image: "/event-images/maggie_chef.png",
+                // link: "https://docs.google.com/forms/d/e/1FAIpQLSdO0LpaJvGvQvU9WTquUxDGGAo-0RjnTGDQclOMVlEcGDyYdg/viewform",
+                // linkText: "Register",
                 prize: 2000,
             },
             {
-                date: "4TH MARCH",
-                time: "3:00 PM - 5:00 PM",
+                date: "1ST MARCH",
+                time: "4:00 PM - 7:00 PM",
                 description: "Get ready for a mouth-watering, gastronomic adventure! The Golgappa Eating Competition is here, and it's sure to be a blast. Contestants will have to devour as many crispy and tangy golgappas as they can within a set time limit. These golgappas will be filled with a variety of fillings such as potato, chana, and tamarind chutney. This event is open to all the foodies with diverse tastes, and the winner will be the one who eats the most golgappas in the given time limit and is awarded the title of 'Golgappa King/Queen' along with a prize.",
-                image: "/event-images/golgappa-king.webp",
-                link: "https://docs.google.com/forms/d/e/1FAIpQLScPx8OP__L4TmW3XltkXoCF5aTFD00aGp5vC-2KeR1tleY96w/viewform",
-                linkText: "Register",
+                image: "/event-images/golgappa_kings.png",
+                // link: "https://docs.google.com/forms/d/e/1FAIpQLScPx8OP__L4TmW3XltkXoCF5aTFD00aGp5vC-2KeR1tleY96w/viewform",
+                // linkText: "Register",
                 prize: 2000,
             },
             {
-                date: "5TH MARCH",
+                date: "29TH FEB",
                 time: "10:00 AM - 12:00 PM",
                 description: "Brace yourself for a fiery culinary challenge! The Parantha Eating Competition with Hot Chilli Sauce is back, and it's going to be hotter than ever. Contestants will have to chow down as many delicious, piping-hot paranthas smothered in fiery hot chili sauce as they can within a set time limit. The heat is on as participants compete to see who can handle the hottest sauce and eat the most paranthas. The winner will be the one who can eat the most paranthas in the given time limit and will be rewarded with a prize. Don't miss out on the thrilling action and the chance to taste some of the spiciest paranthas around. Mark your calendars and come join us to cheer on your favorite contestant and enjoy the delicious food.",
-                image: "/event-images/shole-paranthe.webp",
-                link: "https://docs.google.com/forms/d/e/1FAIpQLSfFDo1obJiwjmMMowGmR8nXCp3GjO2fXZQFAC71pn4fGEUaWA/viewform",
-                linkText: "Register",
+                image: "/event-images/shole_parhate.png",
+                // link: "https://docs.google.com/forms/d/e/1FAIpQLSfFDo1obJiwjmMMowGmR8nXCp3GjO2fXZQFAC71pn4fGEUaWA/viewform",
+                // linkText: "Register",
                 prize: 2000,
             },
             {
-                date: "5TH MARCH",
-                time: "5:30 PM - 7:30 PM",
+                date: "1ST MARCH",
+                time: "9:00 AM - 12:00 PM",
                 description: "Prepare yourself for an unparalleled culinary experience! Introducing the stringed delicacy, a playful and exhilarating event that will tantalize your taste buds and bring some fun to your mealtime. Take a bite and let the flavors dance on your tongue as you savor the tender delicacies. The delicacies are expertly crafted and suspended from a string, creating a unique and visually appealing treat. The string adds a playful touch, making it a perfect snack for just a fun day with friends. Whether you're looking for a tasty appetizer or a fun and unique main course, the stringed delicacy is sure to be a hit. So go ahead, give it a try and get ready for a deliciously fun experience.",
-                image: "/event-images/stringed-delicacy.webp",
-                link: "https://docs.google.com/forms/d/e/1FAIpQLScGGOxAj9ur_jifk0aEU0jNl1gjWJKDMqFaJOYjcYzmG-FP-w/viewform",
-                linkText: "Register",
+                image: "/event-images/stringed_delicacy.png",
+                // link: "https://docs.google.com/forms/d/e/1FAIpQLScGGOxAj9ur_jifk0aEU0jNl1gjWJKDMqFaJOYjcYzmG-FP-w/viewform",
+                // linkText: "Register",
                 prize: 2000,
             },
         ]
-    },
-    {
-        title: "SOCIAL CONNECT",
-        id: "social_connect",
-        subtitle: "HELP FOR HOPE",
-        description: "Connect, build relationships, and foster a sense of belongingness in a supportive and engaging atmosphere. Make new friends, find a support network, have some fun, help support important causes and make a positive impact in the community.",
-        events: [
-            {
-                date: "2ND MARCH",
-                time: "4:00 PM - 6:00 PM",
-                description: "SPIC MACAY (Society for the Promotion of Indian Classical Music And Culture Amongst Youth) is a voluntary youth movement which promotes intangible aspects of Indian cultural heritage by promoting Indian classical music, classical dance, folk music, yoga, meditation, crafts and other aspects of Indian culture. Witness the performance of Sri Joydeep Mukherjee (Sarod, Mohanveena & Sursingar exponent, Sangeet Natak Academi Awardee, Regular Artist of All India Radio & Doordarshan, Empanelled Artiste of ICCR, New Delhi).",
-                image: "/event-images/spicmacay.webp"
-            },
-            {
-                date: "3RD MARCH",
-                time: "10:00 AM - 1:00 PM",
-                description: "As per swami vivekananda: Service to man is service to God. The truth of this adage also applies in case of blood donation. Saving lives by donating blood is no less meritorious than any act of God. Realizing this, a blood donation camp will be organised in the college campus to contribute to the urgent need for patients confronting trauma and other life-saving treatments, such as blood transfusions. It reduces the risk of heart attack and blood pressure in the donor while meeting the receiver's vital needs. As it is rightly said: Show an act of care, your Blood-Donation can keep one’s prayer.",
-                image: "/event-images/blood-donation.webp",
-                link: "https://docs.google.com/forms/d/e/1FAIpQLSdufT4rEI6HnfZpKR_ix1E0k4PAgANnOEEspGtE0wLHMZEkvg/viewform",
-                linkText: "Register",
-            },
-            {
-                date: "3RD MARCH",
-                time: "4:00 PM - 5:00 PM",
-                description: "It is man's curiosity that widens the scope of his knowledge. But it is not possible to achieve everything on one's own in the short span of human life. As it is rightly said: Learn from the experts; you will not live long enough to figure it all out by yourself. Umang is where renowned and accomplished speakers enlighten the students and help them form a broader perspective about various aspects of life. The objective is to arouse enthusiasm and motivate students to step outside their comfort zone and feel confident. So don't miss this golden opportunity and satiate your curiosity appetite by getting plenty of knowledge.",
-                image: "/event-images/umang.webp"
-            },
-            {
-                date: "5TH MARCH",
-                time: "5:00 AM - 10:00 AM",
-                description: "Ready, set, run! Join us as we lace up our sneakers and hit the pavement for our society's marathon 🏃‍♀🏃‍♂ Let's go the distance together and make a difference! Vedanta Samiti is here with the marathon on 5th March 2023. So put your sports shoes on and  mark your calendar as we have some exciting times ahead.",
-                image: "/event-images/marathon.webp",
-                prize: 30000,
-                link: "https://docs.google.com/forms/d/e/1FAIpQLSc6iFedBfwXfMvbhUDXOzlArycXRwzjhD4Tm7SNUei3NNgwuQ/viewform",
-                linkText: "Register",
-            },
-        ]
-    },
+    }
 ];
