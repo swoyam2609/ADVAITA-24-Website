@@ -249,16 +249,16 @@ export const eventsData = [
                 description: "Step into the world of photography and freeze your memories at A STILL IN TIME - the ultimate photo exhibition! Join us at #Advaita2023 and discover the beauty of capturing a moment in time through the lens. From stunning landscapes to candid shots, we've curated some of the best works from photographers of our college. Not only will you get to admire the art, but you'll also get the chance to snap your own memories at our photo booth. Don't miss out on this one-of-a-kind experience.",
                 image: "/event-images/a-still-in-time.webp"
             },
-            {
-                //WORKSHOP
-                date: "4TH MARCH",
-                time: "2:00 PM - 5:00 PM",
-                description: "Get ready to snap, shoot, and shine with IMAGEN—the ultimate destination for photography and videography enthusiasts! Whether you're a seasoned pro or just starting out, our specially curated competitions will inspire and challenge you to bring your creative vision to life. With IMAGEN, the world is your canvas and the camera is your brush—so let's capture some unforgettable moments together!",
-                image: "/event-images/imagen.png",
-                //link: "https://docs.google.com/forms/d/e/1FAIpQLSdBFdU5hbU_8RHjZE6al1TUhmbMyVMPAfzMrEbX1r5Sk9WKNw/viewform",
-                //linkText: "Register",
-                prize: 30000,
-            },
+            // {
+            //     //WORKSHOP
+            //     date: "4TH MARCH",
+            //     time: "2:00 PM - 5:00 PM",
+            //     description: "Get ready to snap, shoot, and shine with IMAGEN—the ultimate destination for photography and videography enthusiasts! Whether you're a seasoned pro or just starting out, our specially curated competitions will inspire and challenge you to bring your creative vision to life. With IMAGEN, the world is your canvas and the camera is your brush—so let's capture some unforgettable moments together!",
+            //     image: "/event-images/imagen.png",
+            //     //link: "https://docs.google.com/forms/d/e/1FAIpQLSdBFdU5hbU_8RHjZE6al1TUhmbMyVMPAfzMrEbX1r5Sk9WKNw/viewform",
+            //     //linkText: "Register",
+            //     prize: 30000,
+            // },
         ]
     },
     {
@@ -288,23 +288,23 @@ export const eventsData = [
                 prize: 2000,
             },
             {
+
+                date: "1ST MARCH",
+                time: "10:00 AM - 12:00 PM",
+                description: "Step into a world of culinary teamwork at STRINGDELICACY! This is not your average sack race – it's a gastronomic adventure. Gather your team, hop through challenges, and weave your way to victory in this lively and delicious TEAM SACK RACE EVENT. Get ready for a race that's as flavorful as it is fun!",
+                image: "/event-images/stringed delicacy.png",
+                link: "https://unstop.com/p/string-delicacy-team-sack-race-event-international-institute-of-information-technology-iiit-bhubaneswar-858203",
+
+                linkText: "Register",
+                prize: 2000,
+            },
+            {
                 date: "1ST MARCH",
                 time: "4:00 PM - 7:00 PM",
                 description: "Get ready for a mouth-watering, gastronomic adventure! The Golgappa Eating Competition is here, and it's sure to be a blast. Contestants will have to devour as many crispy and tangy golgappas as they can within a set time limit. These golgappas will be filled with a variety of fillings such as potato, chana, and tamarind chutney. This event is open to all the foodies with diverse tastes, and the winner will be the one who eats the most golgappas in the given time limit and is awarded the title of 'Golgappa King/Queen' along with a prize.",
 
                 image: "/event-images/golgappa_kings.png",
                 link: "https://unstop.com/p/golgappa-king-international-institute-of-information-technology-iiit-bhubaneswar-858196",
-
-                linkText: "Register",
-                prize: 2000,
-            },
-            {
-
-                date: "29TH FEB",
-                time: "10:00 AM - 12:00 PM",
-                description: "Brace yourself for a fiery culinary challenge! The Parantha Eating Competition with Hot Chilli Sauce is back, and it's going to be hotter than ever. Contestants will have to chow down as many delicious, piping-hot paranthas smothered in fiery hot chili sauce as they can within a set time limit. The heat is on as participants compete to see who can handle the hottest sauce and eat the most paranthas. The winner will be the one who can eat the most paranthas in the given time limit and will be rewarded with a prize. Don't miss out on the thrilling action and the chance to taste some of the spiciest paranthas around. Mark your calendars and come join us to cheer on your favorite contestant and enjoy the delicious food.",
-                image: "/event-images/shole_parhate.png",
-                link: "https://unstop.com/p/sholle-parathe-international-institute-of-information-technology-iiit-bhubaneswar-858211",
 
                 linkText: "Register",
                 prize: 2000,
