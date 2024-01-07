@@ -122,7 +122,7 @@ export const eventsData = [
                 time: "10:00 AM - 1:00 PM",
                 description: "Step into the spotlight at RANGBHOOMI – where the stage comes alive with a single take, a rush backstage, and an unforgettable theatre experience! Advaita 2024 invites you to witness the magic of diverse theatre groups on one stage, immersing you in the beauty of different genres. It's not just about entertainment; it's about creating impact and telling stories that shine. This is your chance to be a part of the drama, to captivate hearts, and make a lasting impression. Join us for an evening of theatrical brilliance!",
                 image: "/event-images/theatre.png",
-                      },
+            },
             
 
           {
@@ -178,7 +178,7 @@ export const eventsData = [
                 image: "/event-images/art_curracy.png",
                 prize: 5000,
                 link: "https://unstop.com/p/art-curracy-international-institute-of-information-technology-iiit-bhubaneswar-858176",
-                //linkText: "Register",
+                linkText: "Register",
             },
             {
 
