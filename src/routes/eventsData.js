@@ -119,9 +119,7 @@ export const eventsData = [
                 time: "10:00 AM - 1:00 PM",
                 description: "Step into the spotlight at RANGBHOOMI – where the stage comes alive with a single take, a rush backstage, and an unforgettable theatre experience! Advaita 2024 invites you to witness the magic of diverse theatre groups on one stage, immersing you in the beauty of different genres. It's not just about entertainment; it's about creating impact and telling stories that shine. This is your chance to be a part of the drama, to captivate hearts, and make a lasting impression. Join us for an evening of theatrical brilliance!",
                 image: "/event-images/theatre.png",
-                // link: "https://docs.google.com/forms/d/e/1FAIpQLSficxBodOsUFnOrS4cPU2xkcYAfhKSEjBdeybbsLmaUchCaLw/viewform",
-                linkText: "Register",
-            },
+                      },
             {
                 date: "29th FEBRUARY",
                 time: "4:00 pm - 6:00 pm",
@@ -182,8 +180,8 @@ export const eventsData = [
                 time: "10:00 AM - 3:00 PM",
                 description: "Embark on an artistic adventure like never before with ACE-HUNT! Grab your friends, form a dynamic team of 3-4, and immerse yourselves in a quest filled with mysteries, puzzles, and the thrill of discovery. Decode clues, navigate twists, and unlock surprises that await your artistic prowess. It's not just an event; it's an exhilarating journey into the heart of creativity!",
                 image: "/event-images/ace_hunt.png",
-                //link: "https://docs.google.com/forms/d/e/1FAIpQLSdj4Cs6PSd37XOvcRCz0vkVVofj7xc82pPQYyapAT_ivWD8dw/viewform",
-                //linkText: "Register",
+                link: "https://unstop.com/p/ace-hunt-international-institute-of-information-technology-iiit-bhubaneswar-858179",
+                linkText: "Register",
                 prize: 5000,
             },
             {
@@ -192,8 +190,8 @@ export const eventsData = [
                 time: "3:00 PM - 7:00 PM",
                 description: "Get ready to ignite your creativity at CREATE-A-THON – IIIT Bhubaneswar's digital stage for design enthusiasts! Unleash your artistic prowess using any design tool, collaborate with your team, and craft designs that not only look good but also do good. Dive into themes centered around social issues, where your creations become a catalyst for change. Don't miss out on this opportunity to design, inspire, and impact. Join the competition and let your creativity shine on the digital canvas!",
                 image: "/event-images/create_a_thon.png",
-                //link: "https://docs.google.com/forms/d/e/1FAIpQLSfU711OwBbT_IKXrtsCeMX6fwi7gv59djw5berz7Qeevx64bA/viewform",
-                //linkText: "Register",
+                link: "https://unstop.com/p/create-a-thon-international-institute-of-information-technology-iiit-bhubaneswar-858184",
+                linkText: "Register",
                 prize: 5000,
             },
             {
@@ -202,8 +200,8 @@ export const eventsData = [
                 time: "12:00 PM - 3:00 PM",
                 description: "Experience the magic of collaboration in the enthralling world of ARTISTIC ALCHEMY! Dive into our Switching Canvases Challenge, where pairs of artists dynamically switch canvases, creating a visually captivating narrative of transformation. Witness the fluidity of artistic expression unfold against captivating themes. Don't miss this amazing chance to immerse yourself in the magic of collaborative artistry at its finest!",
                 image: "/event-images/artistic_alchemy.png",
-                //link: "https://docs.google.com/forms/d/e/1FAIpQLSeIkxVrG16AqD10drTXIHT1u7g0HeitS5o8oHxa2Slpe8OxsA/viewform",
-                //linkText: "Register",
+                link: "https://unstop.com/p/artistic-alchemy-international-institute-of-information-technology-iiit-bhubaneswar-858190",
+                linkText: "Register",
                 prize: 5000,
             },
         ]
@@ -218,7 +216,9 @@ export const eventsData = [
                 date: "29 FEB - 1ST MARCH",
                 time: "10:00 PM - 6:00 AM",
                 description: "There would be tournaments in popular games like Valorant PC, COD mobile etc. Also there would be a wide range of tournaments and leagues for all skill levels. Whether you’re a beginner or a pro, you can find the perfect competition to challenge yourself and show off your skills. Not to mention there would be a variety of rewards and prizes for the top players.",
-                image: "/event-images/e_sports.png"
+                image: "/event-images/e_sports.png",
+                link: "https://unstop.com/p/e-sports-international-institute-of-information-technology-iiit-bhubaneswar-858272",
+                linkText: "Register",
             },
         ]
     },
@@ -265,8 +265,8 @@ export const eventsData = [
                 time: "9:00 AM - 12:00 PM",
                 description: "Get ready for a Maggie-making extravaganza!!! Cook Maggie with a delicious punch. The competition will be a test of skill, creativity, and speed as participants race against the clock to create the most delicious and visually stunning Maggie. The rules are simple: each chef must use only the ingredients provided and complete their dish within the allotted time. The judges will be looking for originality, taste, and presentation. The stakes are high, as the winner will receive bragging rights as the ultimate Maggie master. Don't miss out on this Maggie-making action!",
                 image: "/event-images/maggie_chef.png",
-                // link: "https://docs.google.com/forms/d/e/1FAIpQLSdO0LpaJvGvQvU9WTquUxDGGAo-0RjnTGDQclOMVlEcGDyYdg/viewform",
-                // linkText: "Register",
+                link: "https://unstop.com/p/maggie-chef-international-institute-of-information-technology-iiit-bhubaneswar-858204",
+                linkText: "Register",
                 prize: 2000,
             },
             {
@@ -274,8 +274,8 @@ export const eventsData = [
                 time: "4:00 PM - 7:00 PM",
                 description: "Get ready for a mouth-watering, gastronomic adventure! The Golgappa Eating Competition is here, and it's sure to be a blast. Contestants will have to devour as many crispy and tangy golgappas as they can within a set time limit. These golgappas will be filled with a variety of fillings such as potato, chana, and tamarind chutney. This event is open to all the foodies with diverse tastes, and the winner will be the one who eats the most golgappas in the given time limit and is awarded the title of 'Golgappa King/Queen' along with a prize.",
                 image: "/event-images/golgappa_kings.png",
-                // link: "https://docs.google.com/forms/d/e/1FAIpQLScPx8OP__L4TmW3XltkXoCF5aTFD00aGp5vC-2KeR1tleY96w/viewform",
-                // linkText: "Register",
+                link: "https://unstop.com/p/golgappa-king-international-institute-of-information-technology-iiit-bhubaneswar-858196",
+                linkText: "Register",
                 prize: 2000,
             },
             {
@@ -283,8 +283,8 @@ export const eventsData = [
                 time: "10:00 AM - 12:00 PM",
                 description: "Brace yourself for a fiery culinary challenge! The Parantha Eating Competition with Hot Chilli Sauce is back, and it's going to be hotter than ever. Contestants will have to chow down as many delicious, piping-hot paranthas smothered in fiery hot chili sauce as they can within a set time limit. The heat is on as participants compete to see who can handle the hottest sauce and eat the most paranthas. The winner will be the one who can eat the most paranthas in the given time limit and will be rewarded with a prize. Don't miss out on the thrilling action and the chance to taste some of the spiciest paranthas around. Mark your calendars and come join us to cheer on your favorite contestant and enjoy the delicious food.",
                 image: "/event-images/shole_parhate.png",
-                // link: "https://docs.google.com/forms/d/e/1FAIpQLSfFDo1obJiwjmMMowGmR8nXCp3GjO2fXZQFAC71pn4fGEUaWA/viewform",
-                // linkText: "Register",
+                link: "https://unstop.com/p/sholle-parathe-international-institute-of-information-technology-iiit-bhubaneswar-858211",
+                linkText: "Register",
                 prize: 2000,
             },
             {
@@ -292,8 +292,8 @@ export const eventsData = [
                 time: "9:00 AM - 12:00 PM",
                 description: "Prepare yourself for an unparalleled culinary experience! Introducing the stringed delicacy, a playful and exhilarating event that will tantalize your taste buds and bring some fun to your mealtime. Take a bite and let the flavors dance on your tongue as you savor the tender delicacies. The delicacies are expertly crafted and suspended from a string, creating a unique and visually appealing treat. The string adds a playful touch, making it a perfect snack for just a fun day with friends. Whether you're looking for a tasty appetizer or a fun and unique main course, the stringed delicacy is sure to be a hit. So go ahead, give it a try and get ready for a deliciously fun experience.",
                 image: "/event-images/stringed_delicacy.png",
-                // link: "https://docs.google.com/forms/d/e/1FAIpQLScGGOxAj9ur_jifk0aEU0jNl1gjWJKDMqFaJOYjcYzmG-FP-w/viewform",
-                // linkText: "Register",
+                link: "https://unstop.com/p/string-delicacy-team-sack-race-event-international-institute-of-information-technology-iiit-bhubaneswar-858203",
+                linkText: "Register",
                 prize: 2000,
             },
         ]
