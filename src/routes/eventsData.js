@@ -323,8 +323,8 @@ export const eventsData = [
                 description: "Advaita marathon Run For Blood - a purposeful journey to save lives through blood donation. Experience the unity of runners, all striving for a healthier community. Whether a seasoned runner or a beginner, every stride contributes to a collective effort for a more compassionate society. Lace up and join us in making a lasting impact on a crucial social cause.",
                 image: "/event-images/marathon.png",
                 // prize: 30000,
-                // link: "https://docs.google.com/forms/d/e/1FAIpQLSc6iFedBfwXfMvbhUDXOzlArycXRwzjhD4Tm7SNUei3NNgwuQ/viewform",
-                // linkText: "Register",
+                link: "https://unstop.com/p/marathon-run-for-blood-international-institute-of-information-technology-iiit-bhubaneswar-858276",
+                linkText: "Register",
             },
             {
 
