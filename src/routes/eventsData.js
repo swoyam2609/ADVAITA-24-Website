@@ -202,16 +202,6 @@ export const eventsData = [
                 prize: 5000,
             },
             {
-                //ART CURRACY
-                date: "1ST MARCH",
-                time: "5:00 PM - 7:00 PM",
-                description: "Dive into the realm of artistic brilliance at ART-CURRACY! Unleash your creativity in this dynamic team event where one becomes the storyteller, and the other, the artist. It's a race against time, a test of teamwork, and a celebration of talent like never before. Whether you're an art enthusiast or a curious newcomer, join us for a symphony of colors and creativity – where innovation meets imagination!",
-                image: "/event-images/art_curracy.png",
-                prize: 5000,
-                //link: "https://docs.google.com/forms/d/e/1FAIpQLSdVEV8x7-lMT3iE0vcof8-9lJpVFCC5SKtrzHZg0Z8c3KUp0Q/viewform",
-                //linkText: "Register",
-            },
-            {
                 //ARTISTIC ALCHEMY
                 date: "2ND MARCH",
                 time: "12:00 PM - 3:00 PM",
