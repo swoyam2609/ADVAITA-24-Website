@@ -272,7 +272,7 @@ export const eventsData = [
                 time: "1:00 PM - 4:00 PM",
                 description: "Brace yourself for a fiery culinary challenge! The Parantha Eating Competition with Hot Chilli Sauce is back, and it's going to be hotter than ever. Contestants will have to chow down as many delicious, piping-hot paranthas smothered in fiery hot chili sauce as they can within a set time limit. The heat is on as participants compete to see who can handle the hottest sauce and eat the most paranthas. The winner will be the one who can eat the most paranthas in the given time limit and will be rewarded with a prize. Don't miss out on the thrilling action and the chance to taste some of the spiciest paranthas around. Mark your calendars and come join us to cheer on your favorite contestant and enjoy the delicious food.",
                 image: "/event-images/sholle parhate.png",
-                // link: "https://docs.google.com/forms/d/e/1FAIpQLSfFDo1obJiwjmMMowGmR8nXCp3GjO2fXZQFAC71pn4fGEUaWA/viewform",
+                link: "https://unstop.com/p/sholle-parathe-international-institute-of-information-technology-iiit-bhubaneswar-858211",
                 linkText: "Register",
                 prize: 2000,
             },
