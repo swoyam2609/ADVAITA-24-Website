@@ -122,6 +122,8 @@ export const eventsData = [
                 time: "10:00 AM - 1:00 PM",
                 description: "Step into the spotlight at RANGBHOOMI – where the stage comes alive with a single take, a rush backstage, and an unforgettable theatre experience! Advaita 2024 invites you to witness the magic of diverse theatre groups on one stage, immersing you in the beauty of different genres. It's not just about entertainment; it's about creating impact and telling stories that shine. This is your chance to be a part of the drama, to captivate hearts, and make a lasting impression. Join us for an evening of theatrical brilliance!",
                 image: "/event-images/theatre.png",
+                link: "https://unstop.com/p/pradarshan-nukkad-international-institute-of-information-technology-iiit-bhubaneswar-858098",
+                linkText: "Register"
             },
             
 
@@ -249,15 +251,15 @@ export const eventsData = [
                 description: "Step into the world of photography and freeze your memories at A STILL IN TIME - the ultimate photo exhibition! Join us at #Advaita2023 and discover the beauty of capturing a moment in time through the lens. From stunning landscapes to candid shots, we've curated some of the best works from photographers of our college. Not only will you get to admire the art, but you'll also get the chance to snap your own memories at our photo booth. Don't miss out on this one-of-a-kind experience.",
                 image: "/event-images/a-still-in-time.webp"
             },
-            // {
-            //     //WORKSHOP
-            //     date: "4TH MARCH",
-            //     time: "2:00 PM - 5:00 PM",
-            //     description: "Get ready to snap, shoot, and shine with IMAGEN—the ultimate destination for photography and videography enthusiasts! Whether you're a seasoned pro or just starting out, our specially curated competitions will inspire and challenge you to bring your creative vision to life. With IMAGEN, the world is your canvas and the camera is your brush—so let's capture some unforgettable moments together!",
-            //     image: "/event-images/imagen.png",
-            //     //link: "https://docs.google.com/forms/d/e/1FAIpQLSdBFdU5hbU_8RHjZE6al1TUhmbMyVMPAfzMrEbX1r5Sk9WKNw/viewform",
-            //     //linkText: "Register",
-            //     prize: 30000,
+             {
+                 //WORKSHOP
+                 date: "4TH MARCH",
+                 time: "2:00 PM - 5:00 PM",
+                 description: "Get ready to snap, shoot, and shine with IMAGEN—the ultimate destination for photography and videography enthusiasts! Whether you're a seasoned pro or just starting out, our specially curated competitions will inspire and challenge you to bring your creative vision to life. With IMAGEN, the world is your canvas and the camera is your brush—so let's capture some unforgettable moments together!",
+                 image: "/event-images/imagen.png",
+                 link: "https://unstop.com/p/photography-workshop-international-institute-of-information-technology-iiit-bhubaneswar-861204",
+                 linkText: "Register",
+                 prize: 30000,
             // },
         ]
     },
@@ -332,8 +334,8 @@ export const eventsData = [
                 time: "10:00 AM - 1:00 PM",
                 description: "Blood donation at Advaita 2k24 is a noble act embodying selfless service.",
                 image: "/event-images/blood donation camp.png",
-                // link: "https://docs.google.com/forms/d/e/1FAIpQLSdufT4rEI6HnfZpKR_ix1E0k4PAgANnOEEspGtE0wLHMZEkvg/viewform",
-                // linkText: "Register",
+                link: "https://unstop.com/p/blood-donation-international-institute-of-information-technology-iiit-bhubaneswar-861181",
+                linkText: "Register",
             },
             {
                 date: "28TH FEB",
