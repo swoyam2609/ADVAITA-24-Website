@@ -6,7 +6,7 @@ export const eventsData = [
         description: "Ready to unravel the tech giant within you? We have the best in store for you. Starting from hackathons to fun contests to tech talks, let's discover your innovative side! Think you are the best? Well you can make a statement here!!!",
         events: [
             {
-                date: "28TH & 29TH FEBRUARY",
+                date: "28TH & 29TH FEB",
                 time: "10 PM - 1 PM(Next Day)",
                 description: "Join us at Hackfest-Advaita, the inter-college hackathon where minds converge,knowledge flows, and innovation takes center stage. This event is your chance to collaborate with students from diverse colleges, share your tech prowess, and together, forge groundbreaking projects and ideas. Unleash your creativity and let the spirit of innovation thrive at Hackfest-Advaita!",
                 image: "/event-images/inter clg hackathon (1).png",
@@ -16,7 +16,7 @@ export const eventsData = [
                 prize: 244000,
             },
             {
-                date: "29TH FEBRUARY",
+                date: "29TH FEB",
                 time: "1:00 PM - 4:00 PM",
                 description: "Get ready to Swig-N-Code! This event is a race against time, where solo participants battle it out to solve a set of challenging questions in record time. It's not just about speed; there's a twist waiting to unfold that will keep you on the edge. Stay tuned for surprises that will elevate the excitement. Can you crack the code before time runs out",
                 image: "/event-images/Swig-n-Code.png",
@@ -26,7 +26,7 @@ export const eventsData = [
                 // ruleBook: "https://hackfest-advaita.devpost.com",
             },
             {
-                date: "29TH FEBRUARY",
+                date: "29TH FEB",
                 time: "9:00 AM - 1:00 PM",
                 description: "Gear up for the ultimate off-road challenge at Dirt Rush! Race against time and conquer the dirt tracks in this adrenaline-packed R/C competition. Navigate your way through miniature monster truck obstacle courses, striving to be the quickest with minimal penalties. It's high-speed, off-road thrills – can you handle the dirt and emerge as the champion of Dirt Rush?",
                 image: "/event-images/dirt rush.png",
@@ -106,7 +106,7 @@ export const eventsData = [
         description: "Hey singers and dancers! Here's your chance to enchant the whole arena with your charming voice or set the stage on fire with your dazzling dance steps as you participate and compete with the best.",
         events: [
             {
-                date: "28th FEBRUARY",
+                date: "28th FEB",
                 time: "5:00 PM - 8:00 PM",
                 description: "Amplify the energy and strike a chord at ROCKATHON, where bands collide in a symphony of fierce competition! Unleash the power of your music, own the stage, and let your sound echo through the halls of ROCKATHON. It's not just a contest; it's a battle of beats, a clash of chords, and a celebration of rock at its finest. Are you ready to make the crowd roar and claim your place in the ultimate musical showdown?",
                 image: "/event-images/Rockathon.png",
@@ -114,13 +114,18 @@ export const eventsData = [
                 linkText: "Register",
                 prize: 30000,
             },
+            
             {
+
+
                 date: "29th FEBRUARY",
                 time: "10:00 AM - 1:00 PM",
                 description: "Step into the spotlight at RANGBHOOMI – where the stage comes alive with a single take, a rush backstage, and an unforgettable theatre experience! Advaita 2024 invites you to witness the magic of diverse theatre groups on one stage, immersing you in the beauty of different genres. It's not just about entertainment; it's about creating impact and telling stories that shine. This is your chance to be a part of the drama, to captivate hearts, and make a lasting impression. Join us for an evening of theatrical brilliance!",
                 image: "/event-images/theatre.png",
                       },
-            {
+            
+
+          {
                 date: "29th FEBRUARY",
                 time: "4:00 pm - 6:00 pm",
                 description: "Embark on a style odyssey with LA Mode – where sophistication meets innovation on the runway! Join 'LAMODE: A Fashion Odyssey' for a mesmerizing fashion walk that transcends ordinary style. Experience a journey through glamor, creativity, and timeless elegance. It's not just a contest; it's a celebration of fashion that tells a story with every stride. Step into the world of LA Mode and let your style shine in this extraordinary cultural event!",
@@ -165,6 +170,7 @@ export const eventsData = [
         description: "Artist? Not an artist? Well it doesn't really matter. They say art lies all around us . Well we don't deny and nor would you after being a part of the plethora of amazing events we bring to you.",
         events: [
             {
+
                 //ART CURRACY
                 date: "1ST MARCH",
                 time: "5:00 PM - 7:00 PM",
@@ -175,6 +181,7 @@ export const eventsData = [
                 //linkText: "Register",
             },
             {
+
                 //ACE-HUNT
                 date: "29TH FEB ",
                 time: "10:00 AM - 3:00 PM",
@@ -193,6 +200,16 @@ export const eventsData = [
                 link: "https://unstop.com/p/create-a-thon-international-institute-of-information-technology-iiit-bhubaneswar-858184",
                 linkText: "Register",
                 prize: 5000,
+            },
+            {
+                //ART CURRACY
+                date: "1ST MARCH",
+                time: "5:00 PM - 7:00 PM",
+                description: "Dive into the realm of artistic brilliance at ART-CURRACY! Unleash your creativity in this dynamic team event where one becomes the storyteller, and the other, the artist. It's a race against time, a test of teamwork, and a celebration of talent like never before. Whether you're an art enthusiast or a curious newcomer, join us for a symphony of colors and creativity – where innovation meets imagination!",
+                image: "/event-images/art_curracy.png",
+                prize: 5000,
+                //link: "https://docs.google.com/forms/d/e/1FAIpQLSdVEV8x7-lMT3iE0vcof8-9lJpVFCC5SKtrzHZg0Z8c3KUp0Q/viewform",
+                //linkText: "Register",
             },
             {
                 //ARTISTIC ALCHEMY
@@ -230,7 +247,7 @@ export const eventsData = [
         events: [
             {
                 //IMAGEN
-                date: "29 FEB",
+                date: "29TH FEB",
                 time: "9:00 AM - 11:00 AM",
                 description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
                 image: "/event-images/imagen.png"
@@ -247,7 +264,7 @@ export const eventsData = [
                 date: "4TH MARCH",
                 time: "2:00 PM - 5:00 PM",
                 description: "Get ready to snap, shoot, and shine with IMAGEN—the ultimate destination for photography and videography enthusiasts! Whether you're a seasoned pro or just starting out, our specially curated competitions will inspire and challenge you to bring your creative vision to life. With IMAGEN, the world is your canvas and the camera is your brush—so let's capture some unforgettable moments together!",
-                image: "/event-images/imagen.webp",
+                image: "/event-images/imagen.png",
                 //link: "https://docs.google.com/forms/d/e/1FAIpQLSdBFdU5hbU_8RHjZE6al1TUhmbMyVMPAfzMrEbX1r5Sk9WKNw/viewform",
                 //linkText: "Register",
                 prize: 30000,
@@ -261,11 +278,22 @@ export const eventsData = [
         description: "Any foodies here? Well we do hope so coz we have a lot amazing flavours in our hands where you not only get to cook exotic delicacies but also get to flaunt your eating skills.",
         events: [
             {
-                date: "2ND MARCH",
+                date: "29TH FEB",
+                time: "1:00 PM - 4:00 PM",
+                description: "Brace yourself for a fiery culinary challenge! The Parantha Eating Competition with Hot Chilli Sauce is back, and it's going to be hotter than ever. Contestants will have to chow down as many delicious, piping-hot paranthas smothered in fiery hot chili sauce as they can within a set time limit. The heat is on as participants compete to see who can handle the hottest sauce and eat the most paranthas. The winner will be the one who can eat the most paranthas in the given time limit and will be rewarded with a prize. Don't miss out on the thrilling action and the chance to taste some of the spiciest paranthas around. Mark your calendars and come join us to cheer on your favorite contestant and enjoy the delicious food.",
+                image: "/event-images/sholle parhate.png",
+                // link: "https://docs.google.com/forms/d/e/1FAIpQLSfFDo1obJiwjmMMowGmR8nXCp3GjO2fXZQFAC71pn4fGEUaWA/viewform",
+                linkText: "Register",
+                prize: 2000,
+            },
+            {
+                date: "1ST MARCH",
                 time: "9:00 AM - 12:00 PM",
+
                 description: "Get ready for a Maggie-making extravaganza!!! Cook Maggie with a delicious punch. The competition will be a test of skill, creativity, and speed as participants race against the clock to create the most delicious and visually stunning Maggie. The rules are simple: each chef must use only the ingredients provided and complete their dish within the allotted time. The judges will be looking for originality, taste, and presentation. The stakes are high, as the winner will receive bragging rights as the ultimate Maggie master. Don't miss out on this Maggie-making action!",
                 image: "/event-images/maggie_chef.png",
                 link: "https://unstop.com/p/maggie-chef-international-institute-of-information-technology-iiit-bhubaneswar-858204",
+
                 linkText: "Register",
                 prize: 2000,
             },
@@ -273,29 +301,63 @@ export const eventsData = [
                 date: "1ST MARCH",
                 time: "4:00 PM - 7:00 PM",
                 description: "Get ready for a mouth-watering, gastronomic adventure! The Golgappa Eating Competition is here, and it's sure to be a blast. Contestants will have to devour as many crispy and tangy golgappas as they can within a set time limit. These golgappas will be filled with a variety of fillings such as potato, chana, and tamarind chutney. This event is open to all the foodies with diverse tastes, and the winner will be the one who eats the most golgappas in the given time limit and is awarded the title of 'Golgappa King/Queen' along with a prize.",
+
                 image: "/event-images/golgappa_kings.png",
                 link: "https://unstop.com/p/golgappa-king-international-institute-of-information-technology-iiit-bhubaneswar-858196",
+
                 linkText: "Register",
                 prize: 2000,
             },
             {
+
                 date: "29TH FEB",
                 time: "10:00 AM - 12:00 PM",
                 description: "Brace yourself for a fiery culinary challenge! The Parantha Eating Competition with Hot Chilli Sauce is back, and it's going to be hotter than ever. Contestants will have to chow down as many delicious, piping-hot paranthas smothered in fiery hot chili sauce as they can within a set time limit. The heat is on as participants compete to see who can handle the hottest sauce and eat the most paranthas. The winner will be the one who can eat the most paranthas in the given time limit and will be rewarded with a prize. Don't miss out on the thrilling action and the chance to taste some of the spiciest paranthas around. Mark your calendars and come join us to cheer on your favorite contestant and enjoy the delicious food.",
                 image: "/event-images/shole_parhate.png",
                 link: "https://unstop.com/p/sholle-parathe-international-institute-of-information-technology-iiit-bhubaneswar-858211",
-                linkText: "Register",
-                prize: 2000,
-            },
-            {
-                date: "1ST MARCH",
-                time: "9:00 AM - 12:00 PM",
-                description: "Prepare yourself for an unparalleled culinary experience! Introducing the stringed delicacy, a playful and exhilarating event that will tantalize your taste buds and bring some fun to your mealtime. Take a bite and let the flavors dance on your tongue as you savor the tender delicacies. The delicacies are expertly crafted and suspended from a string, creating a unique and visually appealing treat. The string adds a playful touch, making it a perfect snack for just a fun day with friends. Whether you're looking for a tasty appetizer or a fun and unique main course, the stringed delicacy is sure to be a hit. So go ahead, give it a try and get ready for a deliciously fun experience.",
-                image: "/event-images/stringed_delicacy.png",
-                link: "https://unstop.com/p/string-delicacy-team-sack-race-event-international-institute-of-information-technology-iiit-bhubaneswar-858203",
+
                 linkText: "Register",
                 prize: 2000,
             },
         ]
-    }
+    },
+    {
+        title: "SOCIAL CONNECT",
+        id: "social_connect",
+        subtitle: "HELP FOR HOPE",
+        description: "Connect, build relationships, and foster a sense of belongingness in a supportive and engaging atmosphere. Make new friends, find a support network, have some fun, help support important causes and make a positive impact in the community.",
+        events: [
+            {
+                date: "25TH FEB",
+                time: "6:00 AM - 9:00 AM",
+                description: "Advaita marathon Run For Blood - a purposeful journey to save lives through blood donation. Experience the unity of runners, all striving for a healthier community. Whether a seasoned runner or a beginner, every stride contributes to a collective effort for a more compassionate society. Lace up and join us in making a lasting impact on a crucial social cause.",
+                image: "/event-images/marathon.png",
+                // prize: 30000,
+                // link: "https://docs.google.com/forms/d/e/1FAIpQLSc6iFedBfwXfMvbhUDXOzlArycXRwzjhD4Tm7SNUei3NNgwuQ/viewform",
+                // linkText: "Register",
+            },
+            {
+
+                date: "28TH FEB",
+                time: "10:00 AM - 1:00 PM",
+                description: "Blood donation at Advaita 2k24 is a noble act embodying selfless service.",
+                image: "/event-images/blood donation camp.png",
+                // link: "https://docs.google.com/forms/d/e/1FAIpQLSdufT4rEI6HnfZpKR_ix1E0k4PAgANnOEEspGtE0wLHMZEkvg/viewform",
+                // linkText: "Register",
+            },
+            {
+                date: "28TH FEB",
+                time: "5:00 PM - 6:00 PM",
+                description: "Immerse yourself in the rich tapestry of Indian classical arts at the SPIC MACAY event during Advaita 2k24. As part of our cultural extravaganza, this event brings together renowned artists to showcase the vibrant heritage of classical music, dance, and other traditional art forms.",
+                image: "/event-images/spic macay.png"
+            },
+            {
+                date: "2ND MARCH",
+                time: "12:00 PM - 2:00 PM",
+                description: "Dive into a compelling pep talk, where the urgency of a crucial social cause sparks enthusiasm and a shared sense of purpose. The empowering dialogue not only fuels individual passions but also lays the foundation for unified action. Your voice becomes a catalyst for positive change, echoing a call to champion collective efforts. Together, every voice contributes to a ripple effect, creating a meaningful impact on the cause we collectively champion. Join the movement, and let's forge a path towards a better future—one resounding voice at a time.",
+                image: "/event-images/umang.png"
+
+            },
+        ]
+    },
 ];
