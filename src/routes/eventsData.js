@@ -260,7 +260,7 @@ export const eventsData = [
                  link: "https://unstop.com/p/photography-workshop-international-institute-of-information-technology-iiit-bhubaneswar-861204",
                  linkText: "Register",
                  prize: 30000,
-            // },
+            },
         ]
     },
     {
