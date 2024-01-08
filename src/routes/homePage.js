@@ -176,7 +176,7 @@ export default function HomePage() {
                     <div>FOLLOW US ON: </div>
                     <a rel="noreferrer" target="_blank" href="https://instagram.com/advaita_iiitbh"><img src={iconIg} alt="social" /></a>
                     <a rel="noreferrer" target="_blank" href="https://facebook.com/advaita.iiit"><img src={iconTw} alt="social" /></a>
-                    <a rel="noreferrer" target="_blank" href="https://youtube.com/channel/UCkULTsUj0_Ukm9DWOtin5yw"><img src={iconYt} alt="social" /></a>
+                    <a rel="noreferrer" target="_blank" href="https://www.youtube.com/@AdvaitaIIITBhubaneswar"><img src={iconYt} alt="social" /></a>
                 </div>
 
                 <div className={classes.rightVertical}>
