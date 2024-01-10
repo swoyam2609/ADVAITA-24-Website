@@ -143,6 +143,14 @@ export const eventsData = [
                 link: "https://unstop.com/p/pradarshan-nukkad-international-institute-of-information-technology-iiit-bhubaneswar-858098",
                 linkText: "Register",
             },
+            {
+                date: "1ST MARCH",
+                time: "10:30 AM - 2:00 PM",
+                description: "Step into the captivating world of ACOUSTICA, a college fest where musical magic takes center stage. Anuraag offers solo singers the chance to showcase their enchanting vocals, while RapMania invites rhythmic wizards to cast spells through rap performances. In Amplified Rhythm, beatboxers engage in a mesmerizing duel, impressing judges with technicality, stage presence, and originality. ACOUSTICA promises a spellbinding experience, celebrating diverse musical talents in a magical setting.",
+                image: "/event-images/acoustica.png",
+                link: "https://unstop.com/p/acoustica-anuraag-international-institute-of-information-technology-iiit-bhubaneswar-858136",
+                linkText: "Register",
+            },
             
             {
                 date: "2ND MARCH",
@@ -162,6 +170,7 @@ export const eventsData = [
                 prize: 15000,
                 extraInfo: "If you wish to just participate in Cypher during Advaita, you can purchase an event pass on the spot for ₹100 instead of the 1 or 4 day passes.",
             },
+           
         ]
     },
    
