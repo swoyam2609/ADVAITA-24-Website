@@ -12,7 +12,7 @@ export const eventsData = [
                 image: "/event-images/inter clg hackathon (1).png",
                 link: "https://unstop.com/p/inter-college-hackathon-international-institute-of-information-technology-iiit-bhubaneswar-857179",
                 linkText: "Visit Page",
-                customPopUp: "Round 1 selections for the Hackathon is already over. You can look around the hackathon page, but new registrations are not allowed.",
+                // customPopUp: "Round 1 selections for the Hackathon is already over. You can look around the hackathon page, but new registrations are not allowed.",
                 prize: 244000,
             },
             {
