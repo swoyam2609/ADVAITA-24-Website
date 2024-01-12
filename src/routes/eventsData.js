@@ -251,25 +251,11 @@ export const eventsData = [
                 date: "29TH FEB",
                 time: "9:00 AM - 11:00 AM",
                 description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
-                image: "/event-images/imagen.png"
+                image: "/event-images/imagen.png",
+                link: "https://unstop.com/p/short-story-film-international-institute-of-information-technology-iiit-bhubaneswar-858227",
+                linkText: "Register",
             },
-            {
-                //PHOTOGRAPHY
-                date: "29TH FEB - 2ND MARCH",
-                time: "9:00 AM - 9:00 PM",
-                description: "Step into the world of photography and freeze your memories at A STILL IN TIME - the ultimate photo exhibition! Join us at #Advaita2023 and discover the beauty of capturing a moment in time through the lens. From stunning landscapes to candid shots, we've curated some of the best works from photographers of our college. Not only will you get to admire the art, but you'll also get the chance to snap your own memories at our photo booth. Don't miss out on this one-of-a-kind experience.",
-                image: "/event-images/a-still-in-time.webp"
-            },
-             {
-                 //WORKSHOP
-                 date: "4TH MARCH",
-                 time: "2:00 PM - 5:00 PM",
-                 description: "Get ready to snap, shoot, and shine with IMAGEN—the ultimate destination for photography and videography enthusiasts! Whether you're a seasoned pro or just starting out, our specially curated competitions will inspire and challenge you to bring your creative vision to life. With IMAGEN, the world is your canvas and the camera is your brush—so let's capture some unforgettable moments together!",
-                 image: "/event-images/imagen.png",
-                 link: "https://unstop.com/p/photography-workshop-international-institute-of-information-technology-iiit-bhubaneswar-861204",
-                 linkText: "Register",
-                 prize: 30000,
-            },
+            
         ]
     },
     {
