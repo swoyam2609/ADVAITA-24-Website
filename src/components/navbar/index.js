@@ -59,11 +59,20 @@ export default function NavBar() {
             <div>
               <HashLink
                 style={{ textDecoration: "inherit", color: "inherit" }}
+                to="https://forms.gle/QSxYtQj4FWC28RyJA" target="_blank"
+              >
+                BECOME AN AMBASSADOR
+              </HashLink>
+            </div>
+            <div>
+              <HashLink
+                style={{ textDecoration: "inherit", color: "inherit" }}
                 to="/register#"
               >
                 REGISTER
               </HashLink>
             </div>
+            
           </motion.div>
         ) : (
           <div className={classes.navBarWrap}>

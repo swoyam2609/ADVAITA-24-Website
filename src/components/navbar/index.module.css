@@ -148,5 +148,10 @@
     .overlay {
         font-size: 3rem;
     }
+
+    .overlay>div{
+        margin-right: auto;
+        margin-left: 1.5rem;
+    }
     
 }
