@@ -95,11 +95,11 @@ export default function Footer(props) {
 
       <section className={classes.footerSection}>
         <div>
-          <span style={{ color: "#3c3556" }}>© 2K24</span> TECH SOCIETY -
+          <span style={{ color: "#3c3556" }}>© 2K24</span> ADVAITA -
           IIIT-Bh
         </div>
         <div style={{ color: "#3c3556" }}>
-          TECH SOCIETY, IIIT BBSR, GOTHAPATNA - 751003
+          IIIT BBSR, GOTHAPATNA - 751003
         </div>
       </section>
     </>
