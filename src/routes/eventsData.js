@@ -27,7 +27,7 @@ export const eventsData = [
         linkText: "Register",
         eventinfo: "Rule book",
         prize: 20000,
-        // ruleBook: "https://hackfest-advaita.devpost.com",
+        ruleBook: "https://drive.google.com/file/d/17MkHtHFtHwH929csu8vja2MYxgdWU1fV/view?usp=sharing",
       },
       {
         date: "29TH FEB",
