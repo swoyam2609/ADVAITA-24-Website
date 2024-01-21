@@ -25,6 +25,7 @@ export const eventsData = [
         image: "/event-images/Swig-n-Code.png",
         link: "https://www.codingninjas.com/studio/events/swig-n-code?utm_source=campus-ambassador&utm_medium=ET&utm_campaign=CNIIIT",
         linkText: "Register",
+        eventinfo: "Rule book",
         prize: 20000,
         // ruleBook: "https://hackfest-advaita.devpost.com",
       },
@@ -44,6 +45,7 @@ export const eventsData = [
         description:
           "Guidance is the biggest weapon that helps us fight our way through success. How amazing does it feel when experienced Tech leads guide us? Well, this is obviously going to be an insightful seminar or talk related to new technologies by a popular speaker or community person. This is going to be a promising and engaging session for all the tech enthusiasts. So, come on and gain new insights and perspectives on the future of technology by the famous speaker.",
         image: "/event-images/tech talk.png",
+        eventinfo: "None",
       },
       {
         date: "1ST MARCH",
@@ -104,6 +106,7 @@ export const eventsData = [
         image: "/event-images/switch coding.png",
         link: "https://www.codingninjas.com/studio/events/switch-coding?utm_source=campus-ambassador&utm_medium=ET&utm_campaign=CNIIIT",
         linkText: "Register",
+        eventinfo: "Rule book",
         prize: 20000,
       },
     ],
@@ -266,6 +269,26 @@ export const eventsData = [
     description:
       "Get ready to snap, shoot, and shine! Unleash your inner artist and your wildest imagination. Dive into the world of photography and learn the ins and outs of capturing stunning shots. Let's capture some unforgettable moments together!",
     events: [
+      {
+        //IMAGEN
+        date: "29TH FEB",
+        time: "9:00 AM - 11:00 AM",
+        description:
+          "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
+        image: "/event-images/imagen.png",
+        link: "https://unstop.com/p/short-story-film-international-institute-of-information-technology-iiit-bhubaneswar-858227",
+        linkText: "Register",
+      },
+      {
+        //IMAGEN
+        date: "29TH FEB",
+        time: "9:00 AM - 11:00 AM",
+        description:
+          "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
+        image: "/event-images/imagen.png",
+        link: "https://unstop.com/p/short-story-film-international-institute-of-information-technology-iiit-bhubaneswar-858227",
+        linkText: "Register",
+      },
       {
         //IMAGEN
         date: "29TH FEB",

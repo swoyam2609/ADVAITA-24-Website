@@ -139,6 +139,7 @@ body {
 
 .proCard:hover img {
     filter: blur(5px);
+    width: 90%;
 }
 
 .proCardDesc {
