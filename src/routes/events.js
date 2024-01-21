@@ -11,7 +11,7 @@ import eyeIcon from "../assets/eye.svg";
 
 import EventModal from "../components/eventModal";
 
-function proNightsCard(img, title, subtitle, desc, link, linkText, setPopUp, customPopUp, ruleBook, prize, extraInfo, eventinfo) {
+function proNightsCard(img, title, subtitle, desc, link, linkText, setPopUp, customPopUp, ruleBook, prize, extraInfo,eventinfo) {
   return (
       <div className={classesHome.sliderCard + " " + classes.proCard}>
         <img src={img} alt="slider" />
@@ -30,7 +30,7 @@ function proNightsCard(img, title, subtitle, desc, link, linkText, setPopUp, cus
               <div style={{ display: 'flex', gap: "1rem" }}>
                 <div onClick={() => setPopUp({ open: true, link: link, desc: customPopUp, extraInfo: extraInfo })} style={{ cursor: 'pointer', fontSize: "1.4rem", fontWeight: "bold", border: "0.2rem solid white", width: "fit-content", padding: "0.5rem 1.5rem", borderRadius: "0.4rem", marginBottom: "-0.4rem" }}>{linkText}</div>
                 {eventinfo&& (
-                  <div onClick={() => setPopUp({ open: true, link: link, desc: customPopUp, extraInfo: extraInfo })} style={{ cursor: 'pointer', fontSize: "1.4rem", fontWeight: "bold", border: "0.2rem solid white", width: "fit-content", padding: "0.5rem 1.5rem", borderRadius: "0.4rem", marginBottom: "-0.4rem" }}>{eventinfo}</div>
+                  <div onClick={() => setPopUp({ open: true, link: eventinfo, desc: customPopUp, extraInfo: extraInfo })} style={{ cursor: 'pointer', fontSize: "1.4rem", fontWeight: "bold", border: "0.2rem solid white", width: "fit-content", padding: "0.5rem 1.5rem", borderRadius: "0.4rem", marginBottom: "-0.4rem" }}>{eventinfo}</div>
                 )}
                 {ruleBook ? <a style={{ textDecoration: 'inherit', color: 'inherit' }} rel="noreferrer" target="_blank" href={ruleBook}><div style={{ fontSize: "1.4rem", fontWeight: "bold", border: "0.2rem solid white", width: "fit-content", padding: "0.5rem 1.5rem", borderRadius: "0.4rem", marginBottom: "-0.4rem" }}>Details</div></a> : null}
               </div>
