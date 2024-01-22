@@ -270,7 +270,7 @@ export const eventsData = [
       "Get ready to snap, shoot, and shine! Unleash your inner artist and your wildest imagination. Dive into the world of photography and learn the ins and outs of capturing stunning shots. Let's capture some unforgettable moments together!",
     events: [
       {
-        {
+        
         //IMAGEN
         date: "29TH FEB",
         time: "9:00 AM - 11:00 AM",
@@ -278,7 +278,7 @@ export const eventsData = [
         image: "/event-images/imagen.png",
         //link: "https://unstop.com/p/short-story-film-international-institute-of-information-technology-iiit-bhubaneswar-858227",
         //linkText: "Register",
-      },
+      },{
         //IMAGEN
         date: "29TH FEB",
         time: "9:00 AM - 11:00 AM",
