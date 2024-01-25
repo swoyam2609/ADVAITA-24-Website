@@ -25,7 +25,7 @@ export const eventsData = [
         image: "/event-images/Swig-n-Code.png",
         link: "https://www.codingninjas.com/studio/events/swig-n-code?utm_source=campus-ambassador&utm_medium=ET&utm_campaign=CNIIIT",
         linkText: "Register",
-        eventinfo: "Rule book",
+        // eventinfo: "Rule book",
         prize: 20000,
         ruleBook: "https://drive.google.com/file/d/17MkHtHFtHwH929csu8vja2MYxgdWU1fV/view?usp=sharing",
       },
