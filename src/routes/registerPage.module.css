@@ -782,6 +782,35 @@
     align-self: flex-start;
 }
 
+.merchandise {
+    display: flex;
+    align-items: baseline;
+    flex-direction: column;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    gap: 3rem;
+}
+
+.merchandise p {
+    font-size: 4.05rem;
+    margin-bottom: 0.5rem;
+    font-weight: bolder;
+    text-align: center;
+    width: max-content;
+
+}
+
+.merchandise img {
+    height: 30rem;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.merchandise img :hover {
+    transform: scale(1.5);
+}
+
 @media (max-width: 650px) {
     .contact {
         width: 90vw;
