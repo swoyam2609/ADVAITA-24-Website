@@ -1,4 +1,4 @@
-import classes from "./homePage.module.css";
+import classes from "./merchPage.module.css";
 import iconIg from "../assets/instagram.svg";
 import iconTw from "../assets/twitter.svg";
 import iconYt from "../assets/youtube.svg";
@@ -147,59 +147,62 @@ export default function HomePage() {
             transition={{ duration: 1.5, type: "spring" }}
           >
             Advaita'24 Official Merchandise
-          </motion.div>
+          </motion.div>        
+        </div>
+        <div className={classes.proNightsTitle1}>
           <motion.div
             viewport={{ once: true }}
-            initial={{ transform: "translateY(3rem)", opacity: 0 }}
-            whileInView={{ transform: "translateY(0rem)", opacity: 1 }}
-            transition={{ duration: 1.2, type: "spring", delay: 0.2 }}
-          >
-            <span style={{ color: "white" }}>#</span> UNLEASH THE FUN
-          </motion.div>
-          <motion.div
-            viewport={{ once: true }}
-            initial={{ transform: "translateX(-6rem)", opacity: 0 }}
+            initial={{ transform: "translateX(6rem)", opacity: 0 }}
             whileInView={{ transform: "translateX(0rem)", opacity: 1 }}
             transition={{ duration: 1.5, type: "spring" }}
           >
-            Vibe to the concerts of some of India's finest musicians, comedians,
-            and DJs! Get ready to groove and make memories that'll last a
-            lifetime. Not only will you breathe fun-filled flavours of air, and
-            meet new people; but you'll also become a part of an ever-blossoming
-            community of IIIT Bhubaneswar. So, buckle up and grab your squad and
-            let the good vibes roll, adding an extra perfection to the hymn of
-            your steps.
-          </motion.div>
+            Lost in Nebulae SWEATSHIRT
+          </motion.div>        
         </div>
+       
         <div className={classes.proCardsWrap}>
           {proNightsCard(
             pn,
-            "28TH FEB - 7:00 PM",
-            "SURPRISE EVENT",
-            "SURPRISE!",
-            "Dive into the unknown with our Surprise Event! Brace yourself for an evening of mystery and joy as we unveil unexpected delights and unforgettable moments."
+            "",
+            "Lost in Nebulae SWEATSHIRT",
+        "",
+            "PRICE: ₹ XXX/-"
           )}
+           <div className={classes.proNightsTitle2}>
+          <motion.div
+            viewport={{ once: true }}
+            initial={{ transform: "translateX(6rem)", opacity: 0 }}
+            whileInView={{ transform: "translateX(0rem)", opacity: 1 }}
+            transition={{ duration: 1.5, type: "spring" }}
+          >
+           AstroRide T-SHIRT
+          </motion.div>        
+        </div>
           {proNightsCard(
             pn,
-            "29TH FEB - 7:00 PM",
-            "BAND NIGHT",
-            "CONCERT",
-            "Groove to the beat at Band Night! Join us for an electrifying showcase of live music, featuring talented bands across genres. Get ready to tap your feet and let the music take over."
+            "",
+            "AstroRide T-SHIRT",
+            "",
+            "PRICE: ₹ XXX/-"
           )}
+           <div className={classes.proNightsTitle2}>
+          <motion.div
+            viewport={{ once: true }}
+            initial={{ transform: "translateX(6rem)", opacity: 0 }}
+            whileInView={{ transform: "translateX(0rem)", opacity: 1 }}
+            transition={{ duration: 1.5, type: "spring" }}
+          >
+            Chilling on Saturn T-SHIRT
+          </motion.div>        
+        </div>
           {proNightsCard(
             pn,
-            "1ST MARCH - 7:00 PM",
-            "DJ NIGHT",
-            "EDM",
-            "Get into the rhythm at DJ Night! Dance the night away to the hottest beats as our skilled DJs create an infectious atmosphere, blending the latest tracks and timeless favorites."
+            "",
+            "Chilling on Saturn T-SHIRT",
+            "",
+            "PRICE: ₹ XXX/-"
           )}
-          {proNightsCard(
-            pn,
-            "2ND MARCH - 7:00 PM",
-            "FINAL SHOWDOWN",
-            "MUSIC",
-            "Immerse yourself in a live musical experience at our Artist Concert. From chart-toppers to emotional ballads, join us for a night of soulful performances that resonate with the heart and leave a lasting impression."
-          )}
+         
         </div>
       </section>
 
