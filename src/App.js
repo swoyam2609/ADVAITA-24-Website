@@ -101,7 +101,7 @@ export default function App() {
           <Route path="/events" element={<EventsPage />} />
           <Route path="/sponsors" element={<SponsorsPage />} />
           <Route path="/register" element={<RegisterPage />} />
-          <Route path="/merchandise" element={<MerchPage />} />
+          <Route path="/merch" element={<MerchPage />} />
           <Route path="*" element={<Navigate to="/" />} />
         </Route>
       </Routes>

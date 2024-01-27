@@ -2,21 +2,17 @@ import classes from "./merchPage.module.css";
 import iconIg from "../assets/instagram.svg";
 import iconTw from "../assets/twitter.svg";
 import iconYt from "../assets/youtube.svg";
-
-
-import pn from "../assets/pn.webp";
-
-import { useLottie } from "lottie-react";
-import logoAnim from "../assets/logoanimBright.json";
+import sweatshirt from "../assets/Sweatshirt.png";
+import tshirt from "../assets/tshirt-I.png";
+import tshirt2 from "../assets/tshirt-II.png";
+import { HashLink } from "react-router-hash-link";
 
 import AngleButton from "../components/angleButton";
 import PopBox from "../components/popbox";
 
-import { motion, useInView } from "framer-motion";
-import { useRef } from "react";
+import { motion} from "framer-motion";
 
 import { useState } from "react";
-
 
 import SwiperCore, {
   Navigation,
@@ -26,11 +22,8 @@ import SwiperCore, {
 } from "swiper/core";
 import "swiper/swiper-bundle.css";
 import "./swiperCustom.css";
-import { useMediaQuery } from "react-responsive";
-
 
 SwiperCore.use([Navigation, Pagination, Autoplay, Virtual]);
-
 
 function proNightsCard(img, details, title, subtitle, desc) {
   return (
@@ -56,87 +49,41 @@ function proNightsCard(img, details, title, subtitle, desc) {
   );
 }
 
-
-
-
-
-
 export default function HomePage() {
-
-
-  const [contactBtnText, setcontactBtnText] = useState("SEND MESSAGE");
   const [popUp, setPopUp] = useState(false);
 
-  const sendMessage = async (e) => {
-    e.preventDefault();
-    setcontactBtnText("SENDING...");
-    const data = {
-      subject: e.target[0].value,
-      message: e.target[1].value,
-      name: e.target[2].value,
-      email: e.target[3].value,
-    };
-    const settings = {
-      method: "POST",
-      headers: {
-        Accept: "application/json",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(data),
-    };
-    console.log(settings);
-    try {
-      const res = await fetch(
-        "https://advaita24.swoyam.engineer/send-email/contact-us",
-        settings
-      );
-      setcontactBtnText(res.status === 200 ? "MESSAGE SENT ✅" : "ERROR ⛔");
-    } catch (e) {
-      setcontactBtnText("ERROR ⛔");
-    }
-  };
+
 
   return (
     <div className={classes.homePage}>
       <PopBox setPopUp={setPopUp} popUp={popUp} />
-     
-        <div className={classes.leftVertical}>
-          <div>FOLLOW US ON: </div>
-          <a
-            rel="noreferrer"
-            target="_blank"
-            href="https://instagram.com/advaita_iiitbh"
-          >
-            <img src={iconIg} alt="social" />
-          </a>
-          <a
-            rel="noreferrer"
-            target="_blank"
-            href="https://facebook.com/advaita.iiit"
-          >
-            <img src={iconTw} alt="social" />
-          </a>
-          <a
-            rel="noreferrer"
-            target="_blank"
-            href="https://www.youtube.com/@AdvaitaIIITBhubaneswar"
-          >
-            <img src={iconYt} alt="social" />
-          </a>
-        </div>
 
-        <div className={classes.rightVertical}>IIIT BHUBANESWAR, ODISHA</div>
+      <div className={classes.leftVertical}>
+        <div>FOLLOW US ON: </div>
+        <a
+          rel="noreferrer"
+          target="_blank"
+          href="https://instagram.com/advaita_iiitbh"
+        >
+          <img src={iconIg} alt="social" />
+        </a>
+        <a
+          rel="noreferrer"
+          target="_blank"
+          href="https://facebook.com/advaita.iiit"
+        >
+          <img src={iconTw} alt="social" />
+        </a>
+        <a
+          rel="noreferrer"
+          target="_blank"
+          href="https://www.youtube.com/@AdvaitaIIITBhubaneswar"
+        >
+          <img src={iconYt} alt="social" />
+        </a>
+      </div>
 
-       
-     
-   
-
-     
-
-
-    
-
-      
+      <div className={classes.rightVertical}>IIIT BHUBANESWAR, ODISHA</div>
 
       <section className={classes.proNights} id="pronights">
         <div className={classes.proNightsTitle}>
@@ -147,7 +94,7 @@ export default function HomePage() {
             transition={{ duration: 1.5, type: "spring" }}
           >
             Advaita'24 Official Merchandise
-          </motion.div>        
+          </motion.div>
         </div>
         <div className={classes.proNightsTitle1}>
           <motion.div
@@ -157,58 +104,50 @@ export default function HomePage() {
             transition={{ duration: 1.5, type: "spring" }}
           >
             Lost in Nebulae SWEATSHIRT
-          </motion.div>        
+          </motion.div>
         </div>
-       
+
         <div className={classes.proCardsWrap}>
           {proNightsCard(
-            pn,
+            sweatshirt,
             "",
             "Lost in Nebulae SWEATSHIRT",
-        "",
-            "PRICE: ₹ XXX/-"
-          )}
-           <div className={classes.proNightsTitle2}>
-          <motion.div
-            viewport={{ once: true }}
-            initial={{ transform: "translateX(6rem)", opacity: 0 }}
-            whileInView={{ transform: "translateX(0rem)", opacity: 1 }}
-            transition={{ duration: 1.5, type: "spring" }}
-          >
-           AstroRide T-SHIRT
-          </motion.div>        
-        </div>
-          {proNightsCard(
-            pn,
             "",
-            "AstroRide T-SHIRT",
-            "",
-            "PRICE: ₹ XXX/-"
+            "PRICE: ₹600/-"
           )}
-           <div className={classes.proNightsTitle2}>
-          <motion.div
-            viewport={{ once: true }}
-            initial={{ transform: "translateX(6rem)", opacity: 0 }}
-            whileInView={{ transform: "translateX(0rem)", opacity: 1 }}
-            transition={{ duration: 1.5, type: "spring" }}
-          >
-            Chilling on Saturn T-SHIRT
-          </motion.div>        
-        </div>
+          <div className={classes.proNightsTitle2}>
+            <motion.div
+              viewport={{ once: true }}
+              initial={{ transform: "translateX(6rem)", opacity: 0 }}
+              whileInView={{ transform: "translateX(0rem)", opacity: 1 }}
+              transition={{ duration: 1.5, type: "spring" }}
+            >
+              AstroRide T-SHIRT
+            </motion.div>
+          </div>
+          {proNightsCard(tshirt, "", "AstroRide T-SHIRT", "", "PRICE: ₹350/-")}
+          <div className={classes.proNightsTitle2}>
+            <motion.div
+              viewport={{ once: true }}
+              initial={{ transform: "translateX(6rem)", opacity: 0 }}
+              whileInView={{ transform: "translateX(0rem)", opacity: 1 }}
+              transition={{ duration: 1.5, type: "spring" }}
+            >
+              Chilling on Saturn T-SHIRT
+            </motion.div>
+          </div>
           {proNightsCard(
-            pn,
+            tshirt2,
             "",
             "Chilling on Saturn T-SHIRT",
             "",
-            "PRICE: ₹ XXX/-"
+            "PRICE: ₹350/-"
           )}
-         
         </div>
+        <HashLink className={classes.angleButton} to="https://forms.gle/bpuhLopSVhDq67kL8" target="_blank">
+          <AngleButton text="BUY NOW !" />
+        </HashLink>
       </section>
-
-    
-       
-      
     </div>
   );
 }

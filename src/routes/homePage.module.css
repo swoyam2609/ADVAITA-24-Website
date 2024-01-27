@@ -25,6 +25,10 @@
     margin-top: -5vw;
 }
 
+.angleButton{
+    margin-bottom: 10vw;
+}
+
 @keyframes alver {
     100% {
         transform: translate(-5.2rem, -1.3rem) rotate(-90deg);
