@@ -2,7 +2,7 @@ import classes from "./merchPage.module.css";
 import iconIg from "../assets/instagram.svg";
 import iconTw from "../assets/twitter.svg";
 import iconYt from "../assets/youtube.svg";
-import sweatshirt from "../assets/Sweatshirt.webp";
+import sweatshirt from "../assets/Sweatshirt.png";
 import tshirt from "../assets/tshirt-I.webp";
 import tshirt2 from "../assets/tshirt-II.webp";
 import { HashLink } from "react-router-hash-link";
@@ -117,7 +117,7 @@ export default function HomePage() {
             sweatshirt,
             "",
             "Lost in Nebulae SWEATSHIRT",
-            "",
+             "",            
             "PRICE: ₹600/-"
           )}
           <div className={classes.proNightsTitle2}>
