@@ -10,7 +10,7 @@ import { HashLink } from "react-router-hash-link";
 import AngleButton from "../components/angleButton";
 import PopBox from "../components/popbox";
 
-import { motion} from "framer-motion";
+import { motion } from "framer-motion";
 
 import { useState } from "react";
 
@@ -51,8 +51,6 @@ function proNightsCard(img, details, title, subtitle, desc) {
 
 export default function HomePage() {
   const [popUp, setPopUp] = useState(false);
-
-
 
   return (
     <div className={classes.homePage}>
@@ -103,7 +101,14 @@ export default function HomePage() {
             whileInView={{ transform: "translateX(0rem)", opacity: 1 }}
             transition={{ duration: 1.5, type: "spring" }}
           >
-            Lost in Nebulae SWEATSHIRT
+            Lost in Nebulae SWEATSHIRT{" "}
+            <HashLink
+              className={classes.angleButton}
+              to="https://forms.gle/bpuhLopSVhDq67kL8"
+              target="_blank"
+            >
+              <AngleButton text="BUY NOW !" />
+            </HashLink>
           </motion.div>
         </div>
 
@@ -122,7 +127,14 @@ export default function HomePage() {
               whileInView={{ transform: "translateX(0rem)", opacity: 1 }}
               transition={{ duration: 1.5, type: "spring" }}
             >
-              AstroRide T-SHIRT
+              AstroRide T-SHIRT{" "}
+              <HashLink
+                className={classes.angleButton}
+                to="https://forms.gle/bpuhLopSVhDq67kL8"
+                target="_blank"
+              >
+                <AngleButton text="BUY NOW !" />
+              </HashLink>
             </motion.div>
           </div>
           {proNightsCard(tshirt, "", "AstroRide T-SHIRT", "", "PRICE: ₹350/-")}
@@ -133,7 +145,14 @@ export default function HomePage() {
               whileInView={{ transform: "translateX(0rem)", opacity: 1 }}
               transition={{ duration: 1.5, type: "spring" }}
             >
-              Chilling on Saturn T-SHIRT
+              Chilling on Saturn T-SHIRT{" "}
+              <HashLink
+                className={classes.angleButton}
+                to="https://forms.gle/bpuhLopSVhDq67kL8"
+                target="_blank"
+              >
+                <AngleButton text="BUY NOW !" />
+              </HashLink>
             </motion.div>
           </div>
           {proNightsCard(
@@ -144,9 +163,6 @@ export default function HomePage() {
             "PRICE: ₹350/-"
           )}
         </div>
-        <HashLink className={classes.angleButton} to="https://forms.gle/bpuhLopSVhDq67kL8" target="_blank">
-          <AngleButton text="BUY NOW !" />
-        </HashLink>
       </section>
     </div>
   );
