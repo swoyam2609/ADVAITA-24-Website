@@ -61,7 +61,7 @@
 
     .rightVertical {
         margin-right: -1.5rem;
-        margin-top: -15vh;
+        margin-top: -1vh;
     }
 
     .lottieAnim {
@@ -75,15 +75,6 @@
         max-width: 300px;
     }
 }
-
-
-
-
-
-
-
-
-
 
 .sliderCard {
    
@@ -155,14 +146,6 @@
 .swiperWrap {
     width: 1000px;
 }
-
-
-
-
-
-
-
-
 
 .proNights {
     display: flex;
@@ -321,25 +304,207 @@
 }
 
 @media (max-width: 1050px) {
+    /* Adjustments for general layout and spacing */
+
+    .leftVertical, .rightVertical {
+        transform: none;
+        margin: 0;
+        top: 50%;
+        left: 10;
+        right: 10;
+    }
+
+
+    .dateHero img {
+        width: 50vw;
+        max-width: 300px;
+    }
+
+    .sliderCard {
+        width: 90%; /* Adjust the width as needed */
+        max-width: none;
+        margin: 0 auto;
+    }
+
+    .sliderCard img {
+        padding: 0;
+    }
+
+    .sliderCardOverlay,
+    .sliderCardText {
+        width: 100%;
+    }
+
+    .sliderCardText {
+        margin-left: 1rem;
+        margin-bottom: 0.5rem;
+        font-size: 2.5rem;
+    }
+
+    .swiperWrap,
+    .swiperWrapPro {
+        width: 80vw;
+        max-width: 1000px;
+    }
+
+    .proNightsTitle,
+    .proNightsTitle1,
+    .proNightsTitle2 {
+        width: 80vw;
+        max-width: 800px;
+    }
+
     .proCardsWrap {
-        justify-content: center;
-        gap: 1.5rem;
+        max-width: 80vw;
+        margin: 0 auto;
     }
 
-    .proNightsTitle {
+    .proCard {
+        width: 100%;
+    }
+
+    .contact {
         width: 90vw;
+        margin-top: 7rem;
+        padding-top: 7rem;
+        margin-bottom: -3rem;
     }
 
-    .proNightsTitle>div:nth-of-type(1) {
-        font-weight: bold;
-        font-size: 5rem;
-        line-height: 4rem;
+    .contactHeader {
+        font-size: 18vw;
+        margin-bottom: 0.4rem;
+        margin-top: 1.5rem;
     }
 
-    .proNights {
-        margin-bottom: -7.4rem;
+    .contactBar {
+        height: 2.5vw;
+        margin-bottom: -1rem;
+    }
+
+    .sponsorTitle {
+        font-size: 2rem;
+        text-align: center;
+        line-height: 2rem;
+    }
+
+    .sponsorTitle span {
+        font-size: 2.5rem;
     }
 }
+
+@media (max-width: 985px) {
+    .leftVertical, .rightVertical {
+        transform: none;
+        margin: 0;
+        top: 50%;
+        left: 10;
+        right: 10;
+}
+    .proNightsTitle > div:nth-of-type(1)
+     {
+        font-size: 3rem; /* Adjust the font size as needed for smaller screens */
+    }
+    .proNightsTitle1 > div:nth-of-type(1),
+    .proNightsTitle2 > div:nth-of-type(1){
+        font-size: 2rem;
+    }
+
+    .lottieAnim {
+        width: 80vw;
+        max-width: 800px;
+        margin-top: -2rem;
+    }
+
+    .dateHero img {
+        width: 50vw;
+        max-width: 300px;
+    }
+
+    .sliderCard {
+        width: 50%; /* Adjust the width as needed */
+        max-width: none;
+        margin: 0 auto;
+        height: 48vw;
+    }
+
+    .sliderCard img {
+        padding:0;
+    }
+
+    .sliderCardOverlay,
+    .sliderCardText {
+        width: 100%;
+       
+    }
+
+    .sliderCardText {
+        margin-left: 1rem;
+        margin-bottom: 1.5rem;
+        font-size: 1.5rem;
+    }
+
+    .swiperWrap,
+    .swiperWrapPro {
+        width: 70vw;
+        max-width: 1000px;
+      
+    }
+
+    .proNightsTitle,
+    .proNightsTitle1,
+    .proNightsTitle2 {
+        width: 70vw;
+        max-width: 800px;
+    }
+
+    .proCardsWrap {
+  
+        max-width: 70vw;
+        margin: 0 auto;
+    }
+
+    .proCard {
+        width: 100%;
+      
+       
+    }
+
+    .contact {
+        width: 70vw;
+        margin-top: 7rem;
+        padding-top: 7rem;
+        margin-bottom: -3rem;
+    }
+
+    .nameemail {
+        flex-direction: column;
+        gap: 0.1rem;
+        margin-top: -0.35rem;
+    }
+
+    .contactHeader {
+        font-size: 18vw;
+        margin-bottom: 0.4rem;
+        margin-top: 1.5rem;
+    }
+
+    .contactBar {
+        height: 2.5vw;
+        margin-bottom: -1rem;
+    }
+
+    .sponsorTitle {
+        font-size: 2rem;
+        text-align: center;
+        line-height: 2rem;
+    }
+
+    .sponsorTitle span {
+        font-size: 2.5rem;
+    }
+}
+
+
 
 
 .contact {
@@ -465,7 +630,90 @@
     align-self: flex-start;
 }
 
+
+
+
 @media (max-width: 650px) {
+
+
+    .leftVertical{
+       
+        transform: none;
+        margin: 0;
+        top: 60%;
+        left: 10;
+        right: 10;
+    }
+    .rightVertical {
+        
+        transform: none;
+        margin: 0;
+        top: 30%;
+        left: 10;
+        right: 10;
+     }
+     .proNightsTitle > div:nth-of-type(1)
+     {
+        font-size: 2.5rem; /* Adjust the font size as needed for smaller screens */
+    }
+    .proNightsTitle1 > div:nth-of-type(1),
+    .proNightsTitle2 > div:nth-of-type(1){
+        font-size: 1.8rem;
+    }
+    .lottieAnim {
+        width: 90vw;
+        max-width: 800px;
+        margin-top: -2rem;
+    }
+   
+    .dateHero img {
+        width: 50vw;
+        max-width: 300px;
+    }
+
+    .sliderCard {
+        width: 90%; /* Adjust the width as needed */
+        max-width: none;
+        margin: 0 auto;
+    }
+
+    .sliderCard img {
+        padding: 0;
+    }
+
+    .sliderCardOverlay,
+    .sliderCardText {
+        width: 100%;
+    }
+
+    .sliderCardText {
+        margin-left: 1rem;
+        margin-bottom: 0.5rem;
+        font-size: 1.5rem;
+    }
+
+    .swiperWrap,
+    .swiperWrapPro {
+        width: 80vw;
+        max-width: 1000px;
+    }
+
+    .proNightsTitle,
+    .proNightsTitle1,
+    .proNightsTitle2 {
+        width: 85vw;
+        max-width: 800px;
+    }
+
+    .proCardsWrap {
+        max-width: 80vw;
+        margin: 0 auto;
+    }
+
+    .proCard {
+        width: 100%;
+    }
+
     .contact {
         width: 90vw;
         margin-top: 7rem;
@@ -489,21 +737,132 @@
         height: 2.5vw;
         margin-bottom: -1rem;
     }
+
+    .sponsorTitle {
+        font-size: 2rem;
+        text-align: center;
+        line-height: 2rem;
+    }
+
+    .sponsorTitle span {
+        font-size: 2.5rem;
+    }
+}
+@media (max-width: 390px)
+ {
+    .leftVertical{
+        font-size: 0.7rem;
+        transform: none;
+        margin: 0;
+        top: 60%;
+        left: 10;
+        right: 10;
+    }
+    .rightVertical {
+        font-size: 0.8rem;
+        transform: none;
+        margin: 0;
+        top: 30%;
+        left: 10;
+        right: 10;
+     }
+     .proNightsTitle > div:nth-of-type(1)
+     {
+        font-size: 1.5rem; /* Adjust the font size as needed for smaller screens */
+    }
+    .proNightsTitle1 > div:nth-of-type(1),
+    .proNightsTitle2 > div:nth-of-type(1){
+        font-size: 1.2rem;
+    }
+    .lottieAnim {
+        width: 90vw;
+        max-width: 800px;
+        margin-top: -2rem;
+    }
+   
+    .dateHero img {
+        width: 50vw;
+        max-width: 300px;
+    }
+
+    .sliderCard {
+        width: 90%; /* Adjust the width as needed */
+        max-width: none;
+        margin: 0 auto;
+    }
+
+    .sliderCard img {
+        padding: 0;
+    }
+
+    .sliderCardOverlay,
+    .sliderCardText {
+        width: 100%;
+    }
+
+    .sliderCardText {
+        margin-left: 1rem;
+        margin-bottom: 0.5rem;
+        font-size: 1.5rem;
+    }
+
+    .swiperWrap,
+    .swiperWrapPro {
+        width: 80vw;
+        max-width: 1000px;
+    }
+
+    .proNightsTitle,
+    .proNightsTitle1,
+    .proNightsTitle2 {
+        width: 85vw;
+        max-width: 800px;
+    }
+
+    .proCardsWrap {
+        max-width: 80vw;
+        margin: 0 auto;
+    }
+
+    .proCard {
+        width: 100%;
+    }
+
+    .contact {
+        width: 90vw;
+        margin-top: 7rem;
+        padding-top: 7rem;
+        margin-bottom: -3rem;
+    }
+
+    .nameemail {
+        flex-direction: column;
+        gap: 0.1rem;
+        margin-top: -0.35rem;
+    }
+
+    .contactHeader {
+        font-size: 18vw;
+        margin-bottom: 0.4rem;
+        margin-top: 1.5rem;
+    }
+
+    .contactBar {
+        height: 2.5vw;
+        margin-bottom: -1rem;
+    }
+
+    .sponsorTitle {
+        font-size: 2rem;
+        text-align: center;
+        line-height: 2rem;
+    }
+
+    .sponsorTitle span {
+        font-size: 2.5rem;
+    }
 }
 
-.sponsorTitle {
-    font-size: 3rem;
-    font-weight: bold;
-    color: #B53FA1;
-}
-
-.sponsorTitle:first-of-type {
-    margin-top: 0;
-}
-
-.sponsorTitle br {
-    display: none;
-}
 
 @media (max-width: 675px) {
     .sponsorTitle {
