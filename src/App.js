@@ -10,6 +10,7 @@ import Footer from "./components/footer";
 import EventsPage from "./routes/events";
 import SponsorsPage from "./routes/sponsors";
 import MerchPage from "./routes/merch";
+import Hackfest from "./events/hackfest";
 import { eventsData } from "./routes/eventsData";
 
 // For preloading images start
@@ -102,6 +103,7 @@ export default function App() {
           <Route path="/sponsors" element={<SponsorsPage />} />
           <Route path="/register" element={<RegisterPage />} />
           <Route path="/merch" element={<MerchPage />} />
+          <Route path="/event/hackfest" element={<Hackfest />} />
           <Route path="*" element={<Navigate to="/" />} />
         </Route>
       </Routes>
