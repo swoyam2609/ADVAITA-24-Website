@@ -7,7 +7,7 @@ import tshirt from "../assets/tshirt-I.webp";
 import tshirt2 from "../assets/tshirt-II.webp";
 import { HashLink } from "react-router-hash-link";
 
-import AngleButton from "../components/angleButton";
+import AngleButton from "../components/angleButton2";
 import PopBox from "../components/popbox";
 
 import { motion } from "framer-motion";
