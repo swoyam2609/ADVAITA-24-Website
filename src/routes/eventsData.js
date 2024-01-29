@@ -8,10 +8,10 @@ export const eventsData = [
     events: [
       {
         date: "28TH & 29TH FEB",
-        time: "10 PM - 1 PM(Next Day)",
+        time: "10 PM - 10 AM(Next Day)",
         description:
           "Join us at Hackfest-Advaita, the inter-college hackathon where minds converge,knowledge flows, and innovation takes center stage. This event is your chance to collaborate with students from diverse colleges, share your tech prowess, and together, forge groundbreaking projects and ideas. Unleash your creativity and let the spirit of innovation thrive at Hackfest-Advaita!",
-        image: "/event-images/inter clg hackathon (1).png",
+        image: "/event-images/Hackfest.webp",
         link: "https://unstop.com/p/inter-college-hackathon-international-institute-of-information-technology-iiit-bhubaneswar-857179",
         linkText: "Visit Page",
         // customPopUp: "Round 1 selections for the Hackathon is already over. You can look around the hackathon page, but new registrations are not allowed.",
@@ -22,7 +22,7 @@ export const eventsData = [
         time: "1:00 PM - 4:00 PM",
         description:
           "Get ready to Swig-N-Code! This event is a race against time, where solo participants battle it out to solve a set of challenging questions in record time. It's not just about speed; there's a twist waiting to unfold that will keep you on the edge. Stay tuned for surprises that will elevate the excitement. Can you crack the code before time runs out",
-        image: "/event-images/Swig-n-Code.png",
+        image: "/event-images/Swig-n-Code.webp",
         link: "https://www.codingninjas.com/studio/events/swig-n-code?utm_source=campus-ambassador&utm_medium=ET&utm_campaign=CNIIIT",
         linkText: "Register",
         // eventinfo: "Rule book",
@@ -34,7 +34,7 @@ export const eventsData = [
         time: "9:00 AM - 1:00 PM",
         description:
           "Gear up for the ultimate off-road challenge at Dirt Rush! Race against time and conquer the dirt tracks in this adrenaline-packed R/C competition. Navigate your way through miniature monster truck obstacle courses, striving to be the quickest with minimal penalties. It's high-speed, off-road thrills – can you handle the dirt and emerge as the champion of Dirt Rush?",
-        image: "/event-images/dirt rush.png",
+        image: "/event-images/Dirt-Rush.webp",
         link: "https://unstop.com/p/dirt-rush-international-institute-of-information-technology-iiit-bhubaneswar-857200",
         linkText: "Register",
         prize: 30000,
@@ -44,46 +44,25 @@ export const eventsData = [
         time: "10:00 AM - 2:00 PM",
         description:
           "Guidance is the biggest weapon that helps us fight our way through success. How amazing does it feel when experienced Tech leads guide us? Well, this is obviously going to be an insightful seminar or talk related to new technologies by a popular speaker or community person. This is going to be a promising and engaging session for all the tech enthusiasts. So, come on and gain new insights and perspectives on the future of technology by the famous speaker.",
-        image: "/event-images/tech talk.png",
+        image: "/event-images/Beyond-Boundaries.webp",
         eventinfo: "None",
       },
-      {
-        date: "1ST MARCH",
-        time: "12:00 PM - 2:00 PM",
-        description:
-          "Prepare for metal mayhem at ROBOWAR – the ultimate combat competition where only the strongest survive! Battle it out as robots armed with mechanical weapons like blades, saws, cutters, and claws go head-to-head. The mission is clear: pin down or destroy your opponent to emerge victorious. It's a clash of steel and strategy – are you ready to unleash the power of your robotic warrior and claim supremacy in ROBOWAR?",
-        image: "/event-images/Robo war.png",
-        link: "https://unstop.com/p/robo-war-international-institute-of-information-technology-iiit-bhubaneswar-857196",
-        linkText: "Register",
-        prize: 20000,
-      },
-
       {
         date: "1ST MARCH",
         time: "3:00 PM - 6:00 PM",
         description:
           "Step into the precision world of Line Follower! Unleash your technical prowess as you design a mobile marvel capable of detecting and flawlessly tracking lines on the floor. Equipped with infrared sensors, the Line Follower robot interprets the path, sends data to its processor, and maneuvers its way through predefined routes. Join us for a journey where technology meets precision in the Line Follower event – where every line is a challenge waiting to be conquered!",
-        image: "/event-images/line follower.png",
+        image: "/event-images/Line-Follower.webp",
         link: "https://unstop.com/p/line-follower-international-institute-of-information-technology-iiit-bhubaneswar-857177",
         linkText: "Register",
         prize: 21000,
       },
       {
         date: "2ND MARCH",
-        time: "3:00 PM - 6:00 PM",
-        description:
-          "Soar to new heights with Drone Racing - IIIT Bhubaneswar's thrilling Drone Racing League! Brace yourself for the ultimate airborne challenge, where speed is the name of the game. Push the limits, go faster, faster, faster, and let the thrill of speed conquer any fear of the skies. Get ready for an adrenaline-fueled race to the top in IIIT Bhubaneswar's Drone Racing League!",
-        image: "/event-images/Drone Race.png",
-        link: "https://unstop.com/p/drone-racing-international-institute-of-information-technology-iiit-bhubaneswar-857207",
-        linkText: "Register",
-        prize: 30000,
-      },
-      {
-        date: "2ND MARCH",
         time: "9:00 AM - 12:00 PM",
         description:
           "Get ready for soccer like never before – it's ROBOSOCCER time! Engineers, show off your sophisticated skills in this manual robot football extravaganza. Brace yourselves,soccer fans, as we bring you a whole new dimension of the game. Unleash your inner RONALDO or MESSI by designing bots that flip, kick, maneuver, and showcase unparalleled control. It's time to step off the sidelines and onto the pitch – the thrill awaits at ROBOSOCCER. Don't just watch, participate, and experience the excitement firsthand!",
-        image: "/event-images/robo soccer.png",
+        image: "/event-images/Robo-Soccer.webp",
         link: "https://unstop.com/p/robo-soccer-international-institute-of-information-technology-iiit-bhubaneswar-857211",
         linkText: "Register",
         prize: 20000,
@@ -92,9 +71,9 @@ export const eventsData = [
         date: "2ND MARCH",
         time: "9:00 AM - 12:00 PM",
         description:
-          "Dive into the world of cybersecurity with CAPTURE THE FLAG! Unleash your hacking skills in this thrilling competition, solving challenges to capture hidden 'flags' strategically placed in the digital battleground. Are you ready to outsmart the virtual defenses and claim victory in the ultimate cybersecurity showdown?",
-        image: "/event-images/catch the flag.png",
-        link: "https://unstop.com/p/capture-the-flag-international-institute-of-information-technology-iiit-bhubaneswar-857169",
+          "Dive into the world of cybersecurity with CyberSec-Hackathon! Unleash your hacking skills in this thrilling competition, solving challenges to capture hidden 'flags' strategically placed in the digital battleground. Are you ready to outsmart the virtual defenses and claim victory in the ultimate cybersecurity showdown?",
+        image: "/event-images/CyberSec-Hackathon.webp",
+        // link: "https://unstop.com/p/capture-the-flag-international-institute-of-information-technology-iiit-bhubaneswar-857169",
         linkText: "Register",
         prize: 20000,
       },
@@ -103,7 +82,7 @@ export const eventsData = [
         time: "12:00 PM - 3:00 PM",
         description:
           "Where Minds Dance and Codes Switch!Join this high-energy team-based programming competition, showcasing your ability to adapt swiftly, switch between problems seamlessly, and synchronize with your partner. Register in pairs, dive into distinct problem sets in separate rooms, and experience the thrill of switching places and mastering each other's code. Are you ready to code in rhythm and conquer the art of rapid problem-solving?",
-        image: "/event-images/switch coding.png",
+        image: "/event-images/Switch-Coding.webp",
         link: "https://www.codingninjas.com/studio/events/switch-coding?utm_source=campus-ambassador&utm_medium=ET&utm_campaign=CNIIIT",
         linkText: "Register",
         eventinfo: "Rule book",
