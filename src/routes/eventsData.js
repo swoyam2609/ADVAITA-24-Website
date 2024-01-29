@@ -22,7 +22,7 @@ export const eventsData = [
         time: "1:00 PM - 4:00 PM",
         description:
           "Get ready to Swig-N-Code! This event is a race against time, where solo participants battle it out to solve a set of challenging questions in record time. It's not just about speed; there's a twist waiting to unfold that will keep you on the edge. Stay tuned for surprises that will elevate the excitement. Can you crack the code before time runs out",
-        image: "/event-images/Swig-n-Code.webp",
+        image: "/event-images/Swig-n-code.webp",
         link: "https://www.codingninjas.com/studio/events/swig-n-code?utm_source=campus-ambassador&utm_medium=ET&utm_campaign=CNIIIT",
         linkText: "Register",
         // eventinfo: "Rule book",
