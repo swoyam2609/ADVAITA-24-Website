@@ -15,7 +15,7 @@ export const eventsData = [
         link: "https://unstop.com/p/inter-college-hackathon-international-institute-of-information-technology-iiit-bhubaneswar-857179",
         linkText: "Visit Page",
         // customPopUp: "Round 1 selections for the Hackathon is already over. You can look around the hackathon page, but new registrations are not allowed.",
-        prize: 244000,
+        prize: 70000,
       },
       {
         date: "29TH FEB",
@@ -26,7 +26,7 @@ export const eventsData = [
         link: "https://www.codingninjas.com/studio/events/swig-n-code?utm_source=campus-ambassador&utm_medium=ET&utm_campaign=CNIIIT",
         linkText: "Register",
         // eventinfo: "Rule book",
-        prize: 20000,
+        prize: 10000,
         ruleBook: "https://drive.google.com/file/d/17MkHtHFtHwH929csu8vja2MYxgdWU1fV/view?usp=sharing",
       },
       {
@@ -37,7 +37,7 @@ export const eventsData = [
         image: "/event-images/Dirt-Rush.webp",
         link: "https://unstop.com/p/dirt-rush-international-institute-of-information-technology-iiit-bhubaneswar-857200",
         linkText: "Register",
-        prize: 30000,
+        prize: 10000,
       },
       {
         date: "1ST MARCH",
@@ -55,7 +55,7 @@ export const eventsData = [
         image: "/event-images/Line-Follower.webp",
         link: "https://unstop.com/p/line-follower-international-institute-of-information-technology-iiit-bhubaneswar-857177",
         linkText: "Register",
-        prize: 21000,
+        prize: 10000,
       },
       {
         date: "2ND MARCH",
@@ -65,7 +65,7 @@ export const eventsData = [
         image: "/event-images/Robo-Soccer.webp",
         link: "https://unstop.com/p/robo-soccer-international-institute-of-information-technology-iiit-bhubaneswar-857211",
         linkText: "Register",
-        prize: 20000,
+        prize: 10000,
       },
       {
         date: "2ND MARCH",
@@ -75,7 +75,7 @@ export const eventsData = [
         image: "/event-images/CyberSec-Hackathon.webp",
         // link: "https://unstop.com/p/capture-the-flag-international-institute-of-information-technology-iiit-bhubaneswar-857169",
         linkText: "Register",
-        prize: 20000,
+        // prize: 20000,
       },
       {
         date: "2ND MARCH",
@@ -86,7 +86,7 @@ export const eventsData = [
         link: "https://www.codingninjas.com/studio/events/switch-coding?utm_source=campus-ambassador&utm_medium=ET&utm_campaign=CNIIIT",
         linkText: "Register",
         eventinfo: "Rule book",
-        prize: 20000,
+        prize: 10000,
       },
     ],
   },
@@ -105,7 +105,7 @@ export const eventsData = [
         image: "/event-images/Rockathon.png",
         link: "https://unstop.com/p/rockathon-international-institute-of-information-technology-iiit-bhubaneswar-858114",
         linkText: "Register",
-        prize: 30000,
+        prize: 15000,
       },
 
       {
@@ -116,6 +116,7 @@ export const eventsData = [
         image: "/event-images/theatre.png",
         link: "https://unstop.com/p/pradarshan-nukkad-international-institute-of-information-technology-iiit-bhubaneswar-858098",
         linkText: "Register",
+        prize:10000
       },
 
       {
@@ -126,6 +127,7 @@ export const eventsData = [
         image: "/event-images/la mode.png",
         link: "https://unstop.com/p/la-mode-international-institute-of-information-technology-iiit-bhubaneswar-858129",
         linkText: "Register",
+        prize:12000
       },
       {
         date: "1ST MARCH",
@@ -135,6 +137,7 @@ export const eventsData = [
         image: "/event-images/nukkad.png",
         link: "https://unstop.com/p/pradarshan-nukkad-international-institute-of-information-technology-iiit-bhubaneswar-858098",
         linkText: "Register",
+        prize: 10000
       },
       {
         date: "1ST MARCH",
@@ -144,6 +147,7 @@ export const eventsData = [
         image: "/event-images/acoustica.png",
         link: "https://unstop.com/p/acoustica-anuraag-international-institute-of-information-technology-iiit-bhubaneswar-858136",
         linkText: "Register",
+        prize:10000
       },
 
       {
@@ -154,7 +158,9 @@ export const eventsData = [
         image: "/event-images/footloose.png",
         link: "https://unstop.com/p/footloose-international-institute-of-information-technology-iiit-bhubaneswar-858108",
         linkText: "Register",
+        prize:12000
       },
+      
       {
         date: "2ND MARCH",
         time: "3:00 PM - 6:00 PM",
@@ -163,7 +169,7 @@ export const eventsData = [
         image: "/event-images/cypher.png",
         link: "https://unstop.com/p/cypher-international-institute-of-information-technology-iiit-bhubaneswar-858118",
         linkText: "Register",
-        prize: 15000,
+        prize: 12000,
         extraInfo:
           "If you wish to just participate in Cypher during Advaita, you can purchase an event pass on the spot for ₹100 instead of the 1 or 4 day passes.",
       },
@@ -238,6 +244,7 @@ export const eventsData = [
         image: "/event-images/e_sports.png",
         link: "https://unstop.com/p/e-sports-international-institute-of-information-technology-iiit-bhubaneswar-858272",
         linkText: "Register",
+        prize: 10000
       },
     ],
   },
@@ -257,6 +264,7 @@ export const eventsData = [
         image: "/event-images/imagen.png",
         //link: "https://unstop.com/p/short-story-film-international-institute-of-information-technology-iiit-bhubaneswar-858227",
         //linkText: "Register",
+        prize : 15000
       },{
         //IMAGEN
         date: "29TH FEB",
@@ -304,7 +312,7 @@ export const eventsData = [
         image: "/event-images/sholle parhate.png",
         link: "https://unstop.com/p/sholle-parathe-international-institute-of-information-technology-iiit-bhubaneswar-858211",
         linkText: "Register",
-        prize: 2000,
+        prize: 1000,
       },
       {
         date: "1ST MARCH",
@@ -316,7 +324,7 @@ export const eventsData = [
         link: "https://unstop.com/p/maggie-chef-international-institute-of-information-technology-iiit-bhubaneswar-858204",
 
         linkText: "Register",
-        prize: 2000,
+        prize: 1000,
       },
       {
         date: "1ST MARCH",
@@ -327,7 +335,7 @@ export const eventsData = [
         link: "https://unstop.com/p/string-delicacy-team-sack-race-event-international-institute-of-information-technology-iiit-bhubaneswar-858203",
 
         linkText: "Register",
-        prize: 2000,
+        prize: 1000,
       },
       {
         date: "1ST MARCH",
@@ -339,7 +347,7 @@ export const eventsData = [
         link: "https://unstop.com/p/golgappa-king-international-institute-of-information-technology-iiit-bhubaneswar-858196",
 
         linkText: "Register",
-        prize: 2000,
+        prize: 1000,
       },
     ],
   },
@@ -356,7 +364,7 @@ export const eventsData = [
         description:
           "Advaita marathon Run For Blood - a purposeful journey to save lives through blood donation. Experience the unity of runners, all striving for a healthier community. Whether a seasoned runner or a beginner, every stride contributes to a collective effort for a more compassionate society. Lace up and join us in making a lasting impact on a crucial social cause.",
         image: "/event-images/marathon.png",
-        // prize: 30000,
+        prize: 30000,
         link: "https://unstop.com/p/marathon-run-for-blood-international-institute-of-information-technology-iiit-bhubaneswar-858276",
         linkText: "Register",
       },
