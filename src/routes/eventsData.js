@@ -278,7 +278,7 @@ export const eventsData = [
       {
         //IMAGEN
         date: "1ST MARCH",
-        time: "2:00 PM - 4:00 AM",
+        time: "2:00 PM - 4:00 PM",
         description:
           "Unlock the secrets of stunning photography at our immersive workshop for FREE of Cost! Join fellow enthusiasts to refine your skills, explore advanced techniques, and capture breathtaking moments.Elevate your passion for photography in this hands-on experience.Limited seats available – don't miss out!",
         image: "/event-images/workshop.jpg",
