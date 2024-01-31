@@ -151,7 +151,7 @@ export const eventsData = [
       },
 
       {
-        date: "1ST MARCH",
+        date: "29th FEBRUARY",
         time: "9:00 AM - 1:00 PM",
         description:
           "Dance into the rhythm at Footloose! Solo and group dancers, unleash your moves in this electrifying competition where Western beats and Nrityakala blend seamlessly. Join the groove, set the stage on fire, and let your passion shine. It's not just a competition; it's a celebration of dance in all its forms. Get ready to dazzle and dominate at Footloose – where every step tells a story and the stage is yours to own!",
@@ -162,7 +162,7 @@ export const eventsData = [
       },
       
       {
-        date: "1ST MARCH",
+        date: "29th FEBRUARY",
         time: "2:00 PM - 7:00 PM",
         description:
           "Dive into the rhythm, ignite the beat – it's time for CYPHER, where musical talents clash in a symphony of competition! Unleash your sound, captivate the audience, and let the music flow in this electrifying contest. It's not just a battle; it's a CYPHER of melodies, where every note is a statement, and every performer is a maestro. Join the harmony, own the stage, and let the musical magic unfold at CYPHER!",
@@ -238,7 +238,7 @@ export const eventsData = [
     events: [
       {
         date: "29 FEB - 1ST MARCH",
-        time: "10:00 PM - 6:00 AM",
+        time: "10:00 AM - 5:00 PM",
         description:
           "There would be tournaments in popular games like Valorant PC, COD mobile etc. Also there would be a wide range of tournaments and leagues for all skill levels. Whether you’re a beginner or a pro, you can find the perfect competition to challenge yourself and show off your skills. Not to mention there would be a variety of rewards and prizes for the top players.",
         image: "/event-images/e_sports.png",
