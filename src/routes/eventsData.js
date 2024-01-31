@@ -258,7 +258,7 @@ export const eventsData = [
       {
         
         //IMAGEN
-        date: "29TH FEB to 2ND MARCH",
+        date: "28TH FEB to 2ND MARCH",
         // time: "9:00 AM - 11:00 AM",
         description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
         image: "/event-images/imagen.png",
@@ -277,8 +277,8 @@ export const eventsData = [
       },
       {
         //IMAGEN
-        date: "29TH FEB to 2ND MARCH",
-        // time: "9:00 AM - 11:00 AM",
+        date: "1ST MARCH",
+        time: "2:00 PM - 4:00 AM",
         description:
           "Unlock the secrets of stunning photography at our immersive workshop for FREE of Cost! Join fellow enthusiasts to refine your skills, explore advanced techniques, and capture breathtaking moments.Elevate your passion for photography in this hands-on experience.Limited seats available – don't miss out!",
         image: "/event-images/workshop.jpg",
