@@ -108,7 +108,7 @@
     flex-direction: row;
     max-width: 1500px;
     justify-content: center;
-    margin: 7rem auto;
+    margin: 7rem ;
     margin-top: 10rem;
     gap: 3vw;
 }
@@ -879,4 +879,22 @@
     .sponsorTitle br {
         display: unset;
     }
+}
+
+@media (max-width: 440px){
+    .proCardDesc {
+        transform: translateY(100px);
+    }
+    .sliderCardText {
+        transform: translateY(10px);
+        margin-left: 1rem;
+    }
+    .proCardOverlay {
+        transform: translateY(300px);}
+
+    .proCard:hover .proCardDesc {
+        transform: translateY(-60px);
+        margin-left: 1rem;
+        }
+    
 }
