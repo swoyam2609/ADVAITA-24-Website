@@ -99,7 +99,7 @@ export const eventsData = [
     events: [
       {
         date: "28th FEB",
-        time: "5:00 PM - 8:00 PM",
+        time: "7:00 PM - 10:00 PM",
         description:
           "Amplify the energy and strike a chord at ROCKATHON, where bands collide in a symphony of fierce competition! Unleash the power of your music, own the stage, and let your sound echo through the halls of ROCKATHON. It's not just a contest; it's a battle of beats, a clash of chords, and a celebration of rock at its finest. Are you ready to make the crowd roar and claim your place in the ultimate musical showdown?",
         image: "/event-images/Rockathon.png",
@@ -110,18 +110,18 @@ export const eventsData = [
 
       {
         date: "29th FEBRUARY",
-        time: "10:00 AM - 1:00 PM",
+        time: "9:00 AM - 1:00 PM",
         description:
           "Step into the spotlight at RANGBHOOMI – where the stage comes alive with a single take, a rush backstage, and an unforgettable theatre experience! Advaita 2024 invites you to witness the magic of diverse theatre groups on one stage, immersing you in the beauty of different genres. It's not just about entertainment; it's about creating impact and telling stories that shine. This is your chance to be a part of the drama, to captivate hearts, and make a lasting impression. Join us for an evening of theatrical brilliance!",
         image: "/event-images/theatre.png",
-        link: "https://unstop.com/p/pradarshan-nukkad-international-institute-of-information-technology-iiit-bhubaneswar-858098",
+        link: "https://unstop.com/events/rangbhoomi-theatre-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubaneswar-858085",
         linkText: "Register",
         prize:10000
       },
 
       {
-        date: "29th FEBRUARY",
-        time: "4:00 pm - 6:00 pm",
+        date: "2nd MARCH",
+        time: "3:00 PM - 7:00 PM",
         description:
           "Embark on a style odyssey with LA Mode – where sophistication meets innovation on the runway! Join 'LAMODE: A Fashion Odyssey' for a mesmerizing fashion walk that transcends ordinary style. Experience a journey through glamor, creativity, and timeless elegance. It's not just a contest; it's a celebration of fashion that tells a story with every stride. Step into the world of LA Mode and let your style shine in this extraordinary cultural event!",
         image: "/event-images/la mode.png",
@@ -131,7 +131,7 @@ export const eventsData = [
       },
       {
         date: "1ST MARCH",
-        time: "9:00 AM - 12:00 PM",
+        time: "10:00 AM - 2:00 PM",
         description:
           "Step into the streets of expression with PRADARSHAN! This event is not just a contest; it's a platform that unites the nation's best Nukkad teams. Watch as the streets come alive with impactful performances, using theatre to communicate social and political messages. PRADARSHAN is more than a contest; it's a movement, raising awareness and igniting change, one street play at a time. Join us in the art of street theatre and be a part of the narrative for a better world!",
         image: "/event-images/nukkad.png",
@@ -141,7 +141,7 @@ export const eventsData = [
       },
       {
         date: "1ST MARCH",
-        time: "10:30 AM - 2:00 PM",
+        time: "5:30 PM - 7:00 PM",
         description:
           "Step into the captivating world of ACOUSTICA, a college fest where musical magic takes center stage. Anuraag offers solo singers the chance to showcase their enchanting vocals, while RapMania invites rhythmic wizards to cast spells through rap performances. In Amplified Rhythm, beatboxers engage in a mesmerizing duel, impressing judges with technicality, stage presence, and originality. ACOUSTICA promises a spellbinding experience, celebrating diverse musical talents in a magical setting.",
         image: "/event-images/acoustica.png",
@@ -151,8 +151,8 @@ export const eventsData = [
       },
 
       {
-        date: "2ND MARCH",
-        time: "9:00 AM - 12:00 PM",
+        date: "1ST MARCH",
+        time: "9:00 AM - 1:00 PM",
         description:
           "Dance into the rhythm at Footloose! Solo and group dancers, unleash your moves in this electrifying competition where Western beats and Nrityakala blend seamlessly. Join the groove, set the stage on fire, and let your passion shine. It's not just a competition; it's a celebration of dance in all its forms. Get ready to dazzle and dominate at Footloose – where every step tells a story and the stage is yours to own!",
         image: "/event-images/footloose.png",
@@ -162,8 +162,8 @@ export const eventsData = [
       },
       
       {
-        date: "2ND MARCH",
-        time: "3:00 PM - 6:00 PM",
+        date: "1ST MARCH",
+        time: "2:00 PM - 7:00 PM",
         description:
           "Dive into the rhythm, ignite the beat – it's time for CYPHER, where musical talents clash in a symphony of competition! Unleash your sound, captivate the audience, and let the music flow in this electrifying contest. It's not just a battle; it's a CYPHER of melodies, where every note is a statement, and every performer is a maestro. Join the harmony, own the stage, and let the musical magic unfold at CYPHER!",
         image: "/event-images/cypher.png",
