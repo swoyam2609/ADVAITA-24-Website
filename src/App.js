@@ -19,6 +19,7 @@ import events2 from "./assets/events.webp";
 import sponsors1 from "./assets/bgcu.webp";
 import sponsors2 from "./assets/contacts.webp";
 import downloadIcon from "./assets/download.svg";
+import MerchPopup from "./components/merchPopup";
 // For preloading images end
 
 const PageLayout = ({ children }) => children;
@@ -108,6 +109,7 @@ export default function App() {
         </Route>
       </Routes>
       <Footer />
+      <MerchPopup/>
     </div>
   );
 }

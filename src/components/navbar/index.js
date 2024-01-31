@@ -51,6 +51,14 @@ export default function NavBar() {
             <div>
               <HashLink
                 style={{ textDecoration: "inherit", color: "inherit" }}
+                to="/merch#"
+              >
+                MERCHANDISE
+              </HashLink>
+            </div>
+            <div>
+              <HashLink
+                style={{ textDecoration: "inherit", color: "inherit" }}
                 to="/#contacts"
               >
                 CONTACTS
