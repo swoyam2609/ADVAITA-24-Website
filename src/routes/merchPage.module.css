@@ -159,13 +159,11 @@
 
 .proNightsTitle {
     width: 800px;
-    
 }
 
-.proNightsTitle>div {
+/* .proNightsTitle>div {
     white-space: nowrap;
-
-}
+} */
 
 .proNightsTitle>div:nth-of-type(1) {
     font-weight: bold;

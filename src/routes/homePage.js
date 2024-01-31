@@ -287,6 +287,18 @@ export default function HomePage() {
               </HashLink>
             </motion.div>
           </div>
+          <div className={classes.headerBtns} style={{marginTop:"1rem"}}>
+            <motion.div
+              viewport={{ once: true }}
+              initial={{ transform: "translateX(-6rem)", opacity: 0 }}
+              whileInView={{ transform: "translateX(-0.5rem)", opacity: 1 }}
+              transition={{ duration: 2, type: "spring", delay: 0.15 }}
+            >
+              <HashLink to="/merch#">
+                <AngleButton text="MERCHANDISE" />
+              </HashLink>
+            </motion.div>
+          </div>
         </div>
       </section>
 
