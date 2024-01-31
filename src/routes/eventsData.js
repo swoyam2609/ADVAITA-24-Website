@@ -238,7 +238,7 @@ export const eventsData = [
     events: [
       {
         date: "29 FEB - 1ST MARCH",
-        time: "10:00 PM - 6:00 AM",
+        time: "10:00 AM - 5:00 PM",
         description:
           "There would be tournaments in popular games like Valorant PC, COD mobile etc. Also there would be a wide range of tournaments and leagues for all skill levels. Whether you’re a beginner or a pro, you can find the perfect competition to challenge yourself and show off your skills. Not to mention there would be a variety of rewards and prizes for the top players.",
         image: "/event-images/e_sports.png",
