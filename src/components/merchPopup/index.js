@@ -11,7 +11,7 @@ export default function MerchPopup(props) {
         <>
         {menuOpen?
         <div className={classes.popup}>
-            <div className={classes.popupText}>Buy our great merch!! Buy our great merch!!Buy our great merch!! Buy our great merch!! Buy our great merch!!</div>
+            <div className={classes.popupText}>Wrap yourself in the symphony of stardust and wear the magic of stellar night with our Stellar Reverie Collection!</div>
             <HashLink to="/merch#" onClick={()=>setMenuOpen(false)}>
                 <AngleButton text="MERCHANDISE" />
             </HashLink>

@@ -418,6 +418,27 @@
         width: 100vw;
     }
 
+    .ytvideo{
+        height: 60vw;
+    }
+
+    .ytvideo>div:nth-of-type(2) {
+        position: absolute;
+        background: #b53fa194;
+        padding: 0.5rem;
+        border-radius: 50%;
+        top: calc(50% - 3.5rem);
+        left: calc(50% - 2.5rem);
+        transition: all .5s;
+    }
+    
+    .ytvideo>div:nth-of-type(2) img {
+        width: 2.5rem;
+        height: 2.5rem;
+        filter: invert();
+        margin: 0.4rem 0.2rem 0rem 0.2rem;
+    }
+
     .videosecTitle {
         max-width: 600px;
         width: 100vw;

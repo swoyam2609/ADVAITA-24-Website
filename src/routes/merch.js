@@ -56,32 +56,6 @@ export default function HomePage() {
     <div className={classes.homePage}>
       <PopBox setPopUp={setPopUp} popUp={popUp} />
 
-      <div className={classes.leftVertical}>
-        <div>FOLLOW US ON: </div>
-        <a
-          rel="noreferrer"
-          target="_blank"
-          href="https://instagram.com/advaita_iiitbh"
-        >
-          <img src={iconIg} alt="social" />
-        </a>
-        <a
-          rel="noreferrer"
-          target="_blank"
-          href="https://facebook.com/advaita.iiit"
-        >
-          <img src={iconTw} alt="social" />
-        </a>
-        <a
-          rel="noreferrer"
-          target="_blank"
-          href="https://www.youtube.com/@AdvaitaIIITBhubaneswar"
-        >
-          <img src={iconYt} alt="social" />
-        </a>
-      </div>
-
-      <div className={classes.rightVertical}>IIIT BHUBANESWAR, ODISHA</div>
 
       <section className={classes.proNights} id="pronights">
         <div className={classes.proNightsTitle}>
