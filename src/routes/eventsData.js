@@ -149,6 +149,26 @@ export const eventsData = [
         linkText: "Register",
         prize:10000
       },
+      {
+        date: "1ST MARCH",
+        time: "5:30 PM - 7:00 PM",
+        description:
+          "Gear up for an evening of unparalleled talent, where the stage will come alive with the beats of innovation, the rhymes of intellect, and the stories of a generation that refuses to be confined by conventions. RapMania – where engineering meets expression, and creativity knows no boundaries. Get ready to be immersed in a symphony of words and beats that redefine the very essence of rap. Let the competition begin!.",
+        image: "/event-images/acoustica (2).png",
+        link: "https://unstop.com/p/rap-mania-international-institute-of-information-technology-iiit-bhubaneswar-858140",
+        linkText: "Register",
+        prize:10000
+      },
+      {
+        date: "1ST MARCH",
+        time: "5:30 PM - 7:00 PM",
+        description:
+          "Beatboxing (also beat boxing) is a form of vocal percussion primarily involving the art of mimicking drum machines using one's mouth, lips, tongue, and voice. It may also involve vocal imitation of turntablism, and other musical instruments. Beatboxing today is connected with hip-hop culture, often referred to as the fifth element of hip-hop, although it is not limited to hip-hop music. The term beatboxing is sometimes used to refer to vocal percussion in general..",
+        image: "/event-images/acoustica (3).png",
+        link: "https://unstop.com/events/amplified-rhythm-beatboxing-competition-advaita-tecno-cultural-fest-international-institute-of-information-techno-858146",
+        linkText: "Register",
+        prize:10000
+      },
 
       {
         date: "29th FEBRUARY",
@@ -241,7 +261,17 @@ export const eventsData = [
         time: "10:00 AM - 5:00 PM",
         description:
           "There would be tournaments in popular games like Valorant PC, COD mobile etc. Also there would be a wide range of tournaments and leagues for all skill levels. Whether you’re a beginner or a pro, you can find the perfect competition to challenge yourself and show off your skills. Not to mention there would be a variety of rewards and prizes for the top players.",
-        image: "/event-images/e_sports.png",
+        image: "/event-images/e-sports.png",
+        link: "https://unstop.com/p/e-sports-international-institute-of-information-technology-iiit-bhubaneswar-858272",
+        linkText: "Register",
+        prize: 10000
+      },
+      {
+        date: "29 FEB - 1ST MARCH",
+        time: "10:00 AM - 5:00 PM",
+        description:
+          "There would be tournaments in popular games like Valorant PC, COD mobile etc. Also there would be a wide range of tournaments and leagues for all skill levels. Whether you’re a beginner or a pro, you can find the perfect competition to challenge yourself and show off your skills. Not to mention there would be a variety of rewards and prizes for the top players.",
+        image: "/event-images/e-sports (2).png",
         link: "https://unstop.com/p/e-sports-international-institute-of-information-technology-iiit-bhubaneswar-858272",
         linkText: "Register",
         prize: 10000
