@@ -110,7 +110,7 @@ export const eventsData = [
         image: "/event-images/Rockathon.png",
         link: "https://unstop.com/p/rockathon-international-institute-of-information-technology-iiit-bhubaneswar-858114",
         linkText: "Register",
-        prize: 15000,
+        prize: 25000,
       },
 
       {
@@ -121,7 +121,7 @@ export const eventsData = [
         image: "/event-images/theatre.png",
         link: "https://unstop.com/events/rangbhoomi-theatre-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubaneswar-858085",
         linkText: "Register",
-        prize:10000
+        prize:15000
       },
 
       {
@@ -132,7 +132,7 @@ export const eventsData = [
         image: "/event-images/la mode.png",
         link: "https://unstop.com/p/la-mode-international-institute-of-information-technology-iiit-bhubaneswar-858129",
         linkText: "Register",
-        prize:12000
+        prize:30000
       },
       {
         date: "1ST MARCH",
@@ -142,7 +142,7 @@ export const eventsData = [
         image: "/event-images/nukkad.png",
         link: "https://unstop.com/p/pradarshan-nukkad-international-institute-of-information-technology-iiit-bhubaneswar-858098",
         linkText: "Register",
-        prize: 10000
+        prize: 20000
       },
       {
         date: "1ST MARCH",
@@ -152,7 +152,7 @@ export const eventsData = [
         image: "/event-images/acoustica.png",
         link: "https://unstop.com/p/acoustica-anuraag-international-institute-of-information-technology-iiit-bhubaneswar-858136",
         linkText: "Register",
-        prize:10000
+        prize:14000
       },
       {
         date: "1ST MARCH",
@@ -162,7 +162,7 @@ export const eventsData = [
         image: "/event-images/acoustica (2).png",
         link: "https://unstop.com/p/rap-mania-international-institute-of-information-technology-iiit-bhubaneswar-858140",
         linkText: "Register",
-        prize:10000
+        prize:14000
       },
       {
         date: "1ST MARCH",
@@ -172,7 +172,7 @@ export const eventsData = [
         image: "/event-images/acoustica (3).png",
         link: "https://unstop.com/events/amplified-rhythm-beatboxing-competition-advaita-tecno-cultural-fest-international-institute-of-information-techno-858146",
         linkText: "Register",
-        prize:10000
+        prize:14000
       },
 
       {
@@ -183,7 +183,7 @@ export const eventsData = [
         image: "/event-images/footloose.png",
         link: "https://unstop.com/p/footloose-international-institute-of-information-technology-iiit-bhubaneswar-858108",
         linkText: "Register",
-        prize:12000
+        prize:23000
       },
       
       {
@@ -194,7 +194,7 @@ export const eventsData = [
         image: "/event-images/cypher.png",
         link: "https://unstop.com/p/cypher-international-institute-of-information-technology-iiit-bhubaneswar-858118",
         linkText: "Register",
-        prize: 12000,
+        prize: 6000,
         extraInfo:
           "If you wish to just participate in Cypher during Advaita, you can purchase an event pass on the spot for ₹100 instead of the 1 or 4 day passes.",
       },
@@ -263,9 +263,9 @@ export const eventsData = [
     events: [
       {
         date: "29 FEB - 1ST MARCH",
-        time: "10:00 AM - 5:00 PM",
+        time: "10:00 AM - 6:00 PM",
         description:
-          "There would be tournaments in popular games like Valorant PC, COD mobile etc. Also there would be a wide range of tournaments and leagues for all skill levels. Whether you’re a beginner or a pro, you can find the perfect competition to challenge yourself and show off your skills. Not to mention there would be a variety of rewards and prizes for the top players.",
+          "There would be tournaments in popular games like Valorant PC, BGMI etc. Also there would be a wide range of tournaments and leagues for all skill levels. Whether you’re a beginner or a pro, you can find the perfect competition to challenge yourself and show off your skills. Not to mention there would be a variety of rewards and prizes for the top players.",
         image: "/event-images/e-sports.png",
         link: "https://unstop.com/p/e-sports-international-institute-of-information-technology-iiit-bhubaneswar-858272",
         linkText: "Register",
@@ -273,11 +273,11 @@ export const eventsData = [
       },
       {
         date: "29 FEB - 1ST MARCH",
-        time: "10:00 AM - 5:00 PM",
+        time: "10:00 AM - 6:00 PM",
         description:
-          "There would be tournaments in popular games like Valorant PC, COD mobile etc. Also there would be a wide range of tournaments and leagues for all skill levels. Whether you’re a beginner or a pro, you can find the perfect competition to challenge yourself and show off your skills. Not to mention there would be a variety of rewards and prizes for the top players.",
+          "There would be tournaments in popular games like Valorant PC, BGMI etc. Also there would be a wide range of tournaments and leagues for all skill levels. Whether you’re a beginner or a pro, you can find the perfect competition to challenge yourself and show off your skills. Not to mention there would be a variety of rewards and prizes for the top players.",
         image: "/event-images/e-sports (2).png",
-        link: "https://unstop.com/p/e-sports-international-institute-of-information-technology-iiit-bhubaneswar-858272",
+        link: "https://unstop.com/events/e-sports-valorant-advaita-techno-cultural-fest-international-institute-of-information-technology-iiit-bhubaneswar-887248",
         linkText: "Register",
         prize: 10000
       },
