@@ -15,8 +15,9 @@ export const eventsData = [
         link: "https://unstop.com/p/inter-college-hackathon-international-institute-of-information-technology-iiit-bhubaneswar-857179",
         linkText: "Visit Page",
         // customPopUp: "Round 1 selections for the Hackathon is already over. You can look around the hackathon page, but new registrations are not allowed.",
-        prize: 70000,
-      },
+        prize: 70000, 
+        contact:"COORDINATORS:-MD.EHTISHAM: 9198851103,SIPRAMOHANTY: 8280049224 "
+         },
       {
         date: "29TH FEB",
         time: "1:00 PM - 4:00 PM",
@@ -28,6 +29,7 @@ export const eventsData = [
         // eventinfo: "Rule book",
         prize: 10000,
         ruleBook: "https://drive.google.com/file/d/17MkHtHFtHwH929csu8vja2MYxgdWU1fV/view?usp=sharing",
+        contact:"COORDINATORS:-SASWATBEHERA: 7327903685,SOUBHIKGON: 6370462354"
       },
       {
         date: "29TH FEB",
@@ -38,6 +40,7 @@ export const eventsData = [
         link: "https://unstop.com/p/dirt-rush-international-institute-of-information-technology-iiit-bhubaneswar-857200",
         linkText: "Register",
         prize: 10000,
+       
       },
       {
         date: "1ST MARCH",
@@ -46,6 +49,7 @@ export const eventsData = [
           "Guidance is the biggest weapon that helps us fight our way through success. How amazing does it feel when experienced Tech leads guide us? Well, this is obviously going to be an insightful seminar or talk related to new technologies by a popular speaker or community person. This is going to be a promising and engaging session for all the tech enthusiasts. So, come on and gain new insights and perspectives on the future of technology by the famous speaker.",
         image: "/event-images/Beyond-Boundaries.webp",
         eventinfo: "None",
+        contact:"COORDINATORS:-PRRIYADASH: 7894023677,PUNITKUMAR: 9142403368"
       },
       {
         date: "1ST MARCH",
@@ -87,6 +91,7 @@ export const eventsData = [
         linkText: "Register",
         eventinfo: "Rule book",
         prize: 10000,
+        contact:"COORDINATORS:-CHIRANTANBEURA: 8018825114 , VENKAT: 8456955906"
       },
     ],
   },
