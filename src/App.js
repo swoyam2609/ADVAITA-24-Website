@@ -11,6 +11,7 @@ import EventsPage from "./routes/events";
 import SponsorsPage from "./routes/sponsors";
 import MerchPage from "./routes/merch";
 import Hackfest from "./events/hackfest";
+import Whatsapp from "./events/whatsappChannel";
 import { eventsData } from "./routes/eventsData";
 
 // For preloading images start
@@ -19,7 +20,12 @@ import events2 from "./assets/events.webp";
 import sponsors1 from "./assets/bgcu.webp";
 import sponsors2 from "./assets/contacts.webp";
 import downloadIcon from "./assets/download.svg";
+
 import MerchPopup from "./components/merchPopup";
+
+import Marathon from "./events/marathon";
+import BloodDonation from "./events/bloodDonation";
+
 // For preloading images end
 
 const PageLayout = ({ children }) => children;
@@ -105,6 +111,9 @@ export default function App() {
           <Route path="/register" element={<RegisterPage />} />
           <Route path="/merch" element={<MerchPage />} />
           <Route path="/event/hackfest" element={<Hackfest />} />
+          <Route path="/event/marathon" element={<Marathon />} />
+          <Route path="/event/bloodDonation" element={<BloodDonation />} />
+          <Route path="/whatsapp" element={<Whatsapp />} />
           <Route path="*" element={<Navigate to="/" />} />
         </Route>
       </Routes>
