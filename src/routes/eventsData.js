@@ -155,7 +155,7 @@ export const eventsData = [
         description:
           "Gear up for an evening of unparalleled talent, where the stage will come alive with the beats of innovation, the rhymes of intellect, and the stories of a generation that refuses to be confined by conventions. RapMania – where engineering meets expression, and creativity knows no boundaries. Get ready to be immersed in a symphony of words and beats that redefine the very essence of rap. Let the competition begin!.",
         image: "/event-images/acoustica (2).png",
-        link: "https://unstop.com/p/acoustica-anuraag-international-institute-of-information-technology-iiit-bhubaneswar-858136",
+        link: "https://unstop.com/p/rap-mania-international-institute-of-information-technology-iiit-bhubaneswar-858140",
         linkText: "Register",
         prize:10000
       },
