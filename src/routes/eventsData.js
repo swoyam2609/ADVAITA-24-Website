@@ -190,7 +190,7 @@ export const eventsData = [
         date: "29th FEBRUARY",
         time: "2:00 PM - 7:00 PM",
         description:
-          "Dive into the rhythm, ignite the beat – it's time for CYPHER, where musical talents clash in a symphony of competition! Unleash your sound, captivate the audience, and let the music flow in this electrifying contest. It's not just a battle; it's a CYPHER of melodies, where every note is a statement, and every performer is a maestro. Join the harmony, own the stage, and let the musical magic unfold at CYPHER!",
+          "Experience the explosive energy of our Street Dance Battle, Cypher. Dancers from diverse backgrounds will ignite the pavement with jaw-dropping moves in epic one-on-one battles. The streets transform into a rhythmic battleground, creating an unforgettable evening where only the slickest moves and dankest beats will reign supreme. Let the Battle begin!",
         image: "/event-images/cypher.png",
         link: "https://unstop.com/p/cypher-international-institute-of-information-technology-iiit-bhubaneswar-858118",
         linkText: "Register",
