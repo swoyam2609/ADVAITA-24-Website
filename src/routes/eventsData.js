@@ -98,7 +98,7 @@ export const eventsData = [
       "Hey singers and dancers! Here's your chance to enchant the whole arena with your charming voice or set the stage on fire with your dazzling dance steps as you participate and compete with the best.",
     events: [
       {
-        date: "28th FEB",
+        date: "28th FEBRUARY",
         time: "7:00 PM - 10:00 PM",
         description:
           "Amplify the energy and strike a chord at ROCKATHON, where bands collide in a symphony of fierce competition! Unleash the power of your music, own the stage, and let your sound echo through the halls of ROCKATHON. It's not just a contest; it's a battle of beats, a clash of chords, and a celebration of rock at its finest. Are you ready to make the crowd roar and claim your place in the ultimate musical showdown?",
@@ -109,7 +109,7 @@ export const eventsData = [
       },
 
       {
-        date: "29th FEBRUARY",
+        date: "1ST MARCH",
         time: "9:00 AM - 1:00 PM",
         description:
           "Step into the spotlight at RANGBHOOMI – where the stage comes alive with a single take, a rush backstage, and an unforgettable theatre experience! Advaita 2024 invites you to witness the magic of diverse theatre groups on one stage, immersing you in the beauty of different genres. It's not just about entertainment; it's about creating impact and telling stories that shine. This is your chance to be a part of the drama, to captivate hearts, and make a lasting impression. Join us for an evening of theatrical brilliance!",
@@ -120,7 +120,7 @@ export const eventsData = [
       },
 
       {
-        date: "2nd MARCH",
+        date: "29th FEBRUARY",
         time: "3:00 PM - 7:00 PM",
         description:
           "Embark on a style odyssey with LA Mode – where sophistication meets innovation on the runway! Join 'LAMODE: A Fashion Odyssey' for a mesmerizing fashion walk that transcends ordinary style. Experience a journey through glamor, creativity, and timeless elegance. It's not just a contest; it's a celebration of fashion that tells a story with every stride. Step into the world of LA Mode and let your style shine in this extraordinary cultural event!",
@@ -130,7 +130,7 @@ export const eventsData = [
         prize:30000
       },
       {
-        date: "1ST MARCH",
+        date: "2ND MARCH",
         time: "10:00 AM - 2:00 PM",
         description:
           "Step into the streets of expression with PRADARSHAN! This event is not just a contest; it's a platform that unites the nation's best Nukkad teams. Watch as the streets come alive with impactful performances, using theatre to communicate social and political messages. PRADARSHAN is more than a contest; it's a movement, raising awareness and igniting change, one street play at a time. Join us in the art of street theatre and be a part of the narrative for a better world!",
@@ -140,7 +140,7 @@ export const eventsData = [
         prize: 20000
       },
       {
-        date: "1ST MARCH",
+        date: "2ND MARCH",
         time: "5:30 PM - 7:00 PM",
         description:
           "Step into the captivating world of ACOUSTICA, a college fest where musical magic takes center stage. Anuraag offers solo singers the chance to showcase their enchanting vocals, while RapMania invites rhythmic wizards to cast spells through rap performances. In Amplified Rhythm, beatboxers engage in a mesmerizing duel, impressing judges with technicality, stage presence, and originality. ACOUSTICA promises a spellbinding experience, celebrating diverse musical talents in a magical setting.",
@@ -150,7 +150,7 @@ export const eventsData = [
         prize:14000
       },
       {
-        date: "1ST MARCH",
+        date: "2ND MARCH",
         time: "5:30 PM - 7:00 PM",
         description:
           "Gear up for an evening of unparalleled talent, where the stage will come alive with the beats of innovation, the rhymes of intellect, and the stories of a generation that refuses to be confined by conventions. RapMania – where engineering meets expression, and creativity knows no boundaries. Get ready to be immersed in a symphony of words and beats that redefine the very essence of rap. Let the competition begin!.",
@@ -160,7 +160,7 @@ export const eventsData = [
         prize:14000
       },
       {
-        date: "1ST MARCH",
+        date: "2ND MARCH",
         time: "5:30 PM - 7:00 PM",
         description:
           "Beatboxing (also beat boxing) is a form of vocal percussion primarily involving the art of mimicking drum machines using one's mouth, lips, tongue, and voice. It may also involve vocal imitation of turntablism, and other musical instruments. Beatboxing today is connected with hip-hop culture, often referred to as the fifth element of hip-hop, although it is not limited to hip-hop music. The term beatboxing is sometimes used to refer to vocal percussion in general..",
@@ -171,7 +171,7 @@ export const eventsData = [
       },
 
       {
-        date: "29th FEBRUARY",
+        date: "1ST MARCH",
         time: "9:00 AM - 1:00 PM",
         description:
           "Dance into the rhythm at Footloose! Solo and group dancers, unleash your moves in this electrifying competition where Western beats and Nrityakala blend seamlessly. Join the groove, set the stage on fire, and let your passion shine. It's not just a competition; it's a celebration of dance in all its forms. Get ready to dazzle and dominate at Footloose – where every step tells a story and the stage is yours to own!",
@@ -182,7 +182,7 @@ export const eventsData = [
       },
       
       {
-        date: "29th FEBRUARY",
+        date: "1ST MARCH",
         time: "2:00 PM - 7:00 PM",
         description:
           "Experience the explosive energy of our Street Dance Battle, Cypher. Dancers from diverse backgrounds will ignite the pavement with jaw-dropping moves in epic one-on-one battles. The streets transform into a rhythmic battleground, creating an unforgettable evening where only the slickest moves and dankest beats will reign supreme. Let the Battle begin!",
