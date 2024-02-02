@@ -76,7 +76,7 @@ export default function EventsPage() {
             <motion.div viewport={{ once: true }} initial={{ transform: `translateX(-6rem)`, opacity: 0 }} whileInView={{ transform: 'translateX(0rem)', opacity: 1 }} transition={{ duration: 1.5, type: "spring" }} className={classes.rulebookWrap}>
                 <div className={classes.eventbtns}>
                     <div onClick={() => window.open("https://advaita-map.netlify.app", "_blank")} className={classes.rulebook}><img src={eyeIcon} alt="View" /><span>Ongoing Events</span></div>
-                    <div onClick={() => window.open("https://drive.google.com/file/d/13HouBNr_Xf4gT132sYJpP8i33lXNTguQ/view?usp=sharing", "_blank")} className={classes.rulebook}><img src={downloadIcon} alt="Download" /><span>Download RuleBook</span></div>
+                    <div onClick={() => window.open("https://drive.google.com/file/d/1h8sIGQFe9CLgXWTUPvAbfUEiDTkoPU2M/view?usp=sharing", "_blank")} className={classes.rulebook}><img src={downloadIcon} alt="Download" /><span>Download RuleBook</span></div>
                 </div>
                 <div className={classes.rulebooktext}>Refer to the RuleBook above for the team specifications, requirements, format, and more details of all the events in Advaita.</div>
             </motion.div>
