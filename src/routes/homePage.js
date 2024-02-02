@@ -514,8 +514,8 @@ export default function HomePage() {
           {proNightsCard(
             pnDj,
             "29TH FEB - 8:00 PM",
-            "BAND NIGHT",
-            "CONCERT",
+            "EDM NIGHT",
+            "EDM",
             "Get into the rhythm at EDM Night! Dance the night away to the hottest beats as our DJ Swattrex create an infectious atmosphere, blending the latest tracks and timeless favorites."
           )}
           {proNightsCard(
