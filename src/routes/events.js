@@ -39,7 +39,7 @@ function proNightsCard(img, title, subtitle, desc, link, linkText, setPopUp, cus
             </>
           ) : null}
           {desc}
-          {contact && <div className="contact" style={{fontSize:'1.24rem'}}>{contact}</div> }
+          {contact && <div className="contact" style={{fontSize:'1.22rem'}}>{contact}</div> }
        
         </div>
       </div>
