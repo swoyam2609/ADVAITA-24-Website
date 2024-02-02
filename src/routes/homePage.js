@@ -390,7 +390,7 @@ export default function HomePage() {
             {swiperCard(
               e2thumb,
               "/events#cultural_events",
-              "CULTURAL, FILM AND THEATER",
+              "CULTURAL, FILM AND THEATRE",
               "Showcase your talent with a captivating voice or ignite the stage with your mesmerizing dance moves"
             )}
             {swiperCard(
