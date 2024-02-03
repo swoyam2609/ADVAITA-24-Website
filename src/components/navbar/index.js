@@ -61,7 +61,7 @@ export default function NavBar() {
                 style={{ textDecoration: "inherit", color: "inherit" }}
                 to="/#contacts"
               >
-                CONTACTS
+                CONTACT US
               </HashLink>
             </div>
             <div>
