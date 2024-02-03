@@ -15,9 +15,10 @@ export const eventsData = [
         link: "https://unstop.com/p/inter-college-hackathon-international-institute-of-information-technology-iiit-bhubaneswar-857179",
         linkText: "Visit Page",
         // customPopUp: "Round 1 selections for the Hackathon is already over. You can look around the hackathon page, but new registrations are not allowed.",
-        prize: 70000, 
-        contact:"COORDINATORS:-MD.EHTISHAM: 9198851103,SIPRAMOHANTY: 8280049224 "
-         },
+        prize: 70000,
+        contact:
+          "COORDINATORS:-MD.EHTISHAM: 9198851103,SIPRAMOHANTY: 8280049224 ",
+      },
       {
         date: "29TH FEB",
         time: "1:00 PM - 4:00 PM",
@@ -28,8 +29,10 @@ export const eventsData = [
         linkText: "Register",
         // eventinfo: "Rule book",
         prize: 10000,
-        ruleBook: "https://drive.google.com/file/d/17MkHtHFtHwH929csu8vja2MYxgdWU1fV/view?usp=sharing",
-        contact:"COORDINATORS:-SASWATBEHERA: 7327903685,SOUBHIKGON: 6370462354"
+        ruleBook:
+          "https://drive.google.com/file/d/17MkHtHFtHwH929csu8vja2MYxgdWU1fV/view?usp=sharing",
+        contact:
+          "COORDINATORS:-SASWATBEHERA: 7327903685,SOUBHIKGON: 6370462354",
       },
       {
         date: "29TH FEB",
@@ -40,7 +43,6 @@ export const eventsData = [
         link: "https://unstop.com/p/dirt-rush-international-institute-of-information-technology-iiit-bhubaneswar-857200",
         linkText: "Register",
         prize: 10000,
-       
       },
       {
         date: "1ST MARCH",
@@ -49,7 +51,7 @@ export const eventsData = [
           "Guidance is the biggest weapon that helps us fight our way through success. How amazing does it feel when experienced Tech leads guide us? Well, this is obviously going to be an insightful seminar or talk related to new technologies by a popular speaker or community person. This is going to be a promising and engaging session for all the tech enthusiasts. So, come on and gain new insights and perspectives on the future of technology by the famous speaker.",
         image: "/event-images/Beyond-Boundaries.webp",
         eventinfo: "None",
-        contact:"COORDINATORS:-PRRIYADASH: 7894023677,PUNITKUMAR: 9142403368"
+        contact: "COORDINATORS:-PRRIYADASH: 7894023677,PUNITKUMAR: 9142403368",
       },
       {
         date: "1ST MARCH",
@@ -91,8 +93,41 @@ export const eventsData = [
         linkText: "Register",
         eventinfo: "Rule book",
         prize: 10000,
-        contact:"COORDINATORS:-CHIRANTANBEURA: 8018825114 , VENKAT: 8456955906"
+        contact:
+          "COORDINATORS:-CHIRANTANBEURA: 8018825114 , VENKAT: 8456955906",
       },
+    ],
+  },
+  {
+    title: "MANAGEMENT EVENTS",
+    id: "_events",
+    subtitle: "INNOVATE TO ELEVATE !",
+    description:
+      "Ignite your management skills! From product competitions to conclaves, join us to prove your prowess. Elevate your game, network with experts, and discover the leader in you!",
+    events: [
+      {
+        date: "28TH & 29TH FEB",
+        time: "10 PM - 10 AM(Next Day)",
+        description:
+          "Explore the intricacies of product development with our Product Teardown event! Participants engage in a case study round, dissecting a given product to identify and solve challenges. Teams submit presentations by deadlines, and shortlisted ones present their final solutions to judges. Each team, comprising 2 to 4 participants, delves into improvements and proposes metrics for success. A total prize pool of Rs. 15,000 worth, plus certificates, awaits the winning team!",
+        image: "/event-images/product-teardown.webp",
+        link: "https://unstop.com/competitions/product-teardown-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubane-864351",
+        linkText: "Visit Page",
+        // customPopUp: "Round 1 selections for the Hackathon is already over. You can look around the hackathon page, but new registrations are not allowed.",
+        prize: 70000,
+      },
+      {
+        date: "29TH FEB",
+        time: "1:00 PM - 4:00 PM",
+        description:
+          "Dive into the future of innovation at our Innovation Odyssey: Startup Conclave on 1st and 2nd March! Witness visionary students and aspiring startups showcasing revolutionary products and ideas across diverse industries. Judged on innovation, feasibility, impact, market potential, and presentation skills, participants stand a chance to win a prize pool of Rs. 10,000 worth + Certificates. Don't miss this celebration of creativity, collaboration, and the entrepreneurial spirit!",
+        image: "/event-images/startup-conclave.webp",
+        link: "https://unstop.com/competitions/startup-conclave-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubane-864337",
+        linkText: "Register",
+        // eventinfo: "Rule book",
+        prize: 10000,
+      },
+      
     ],
   },
   {
@@ -121,7 +156,7 @@ export const eventsData = [
         image: "/event-images/theatre.png",
         link: "https://unstop.com/events/rangbhoomi-theatre-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubaneswar-858085",
         linkText: "Register",
-        prize:15000
+        prize: 15000,
       },
 
       {
@@ -132,7 +167,7 @@ export const eventsData = [
         image: "/event-images/la mode.png",
         link: "https://unstop.com/p/la-mode-international-institute-of-information-technology-iiit-bhubaneswar-858129",
         linkText: "Register",
-        prize:30000
+        prize: 30000,
       },
       {
         date: "2ND MARCH",
@@ -142,7 +177,7 @@ export const eventsData = [
         image: "/event-images/nukkad.png",
         link: "https://unstop.com/p/pradarshan-nukkad-international-institute-of-information-technology-iiit-bhubaneswar-858098",
         linkText: "Register",
-        prize: 20000
+        prize: 20000,
       },
       {
         date: "2ND MARCH",
@@ -152,7 +187,7 @@ export const eventsData = [
         image: "/event-images/acoustica.png",
         link: "https://unstop.com/p/acoustica-anuraag-international-institute-of-information-technology-iiit-bhubaneswar-858136",
         linkText: "Register",
-        prize:14000
+        prize: 14000,
       },
       {
         date: "2ND MARCH",
@@ -162,7 +197,7 @@ export const eventsData = [
         image: "/event-images/acoustica (2).png",
         link: "https://unstop.com/p/rap-mania-international-institute-of-information-technology-iiit-bhubaneswar-858140",
         linkText: "Register",
-        prize:14000
+        prize: 14000,
       },
       {
         date: "2ND MARCH",
@@ -172,7 +207,7 @@ export const eventsData = [
         image: "/event-images/acoustica (3).png",
         link: "https://unstop.com/events/amplified-rhythm-beatboxing-competition-advaita-tecno-cultural-fest-international-institute-of-information-techno-858146",
         linkText: "Register",
-        prize:14000
+        prize: 14000,
       },
 
       {
@@ -183,9 +218,9 @@ export const eventsData = [
         image: "/event-images/footloose.png",
         link: "https://unstop.com/p/footloose-international-institute-of-information-technology-iiit-bhubaneswar-858108",
         linkText: "Register",
-        prize:23000
+        prize: 23000,
       },
-      
+
       {
         date: "1ST MARCH",
         time: "2:00 PM - 7:00 PM",
@@ -269,7 +304,7 @@ export const eventsData = [
         image: "/event-images/e-sports.png",
         link: "https://unstop.com/p/e-sports-international-institute-of-information-technology-iiit-bhubaneswar-858272",
         linkText: "Register",
-        prize: 10000
+        prize: 10000,
       },
       {
         date: "29 FEB - 1ST MARCH",
@@ -279,7 +314,7 @@ export const eventsData = [
         image: "/event-images/e-sports (2).png",
         link: "https://unstop.com/events/e-sports-valorant-advaita-techno-cultural-fest-international-institute-of-information-technology-iiit-bhubaneswar-887248",
         linkText: "Register",
-        prize: 10000
+        prize: 10000,
       },
     ],
   },
@@ -291,6 +326,7 @@ export const eventsData = [
       "Get ready to snap, shoot, and shine! Unleash your inner artist and your wildest imagination. Dive into the world of photography and learn the ins and outs of capturing stunning shots. Let's capture some unforgettable moments together!",
     events: [
       {
+<<<<<<< Updated upstream
         
         //Short movie
         date: "28TH FEB to 2ND MARCH",
@@ -337,6 +373,19 @@ export const eventsData = [
       },
 
       {
+=======
+        //IMAGEN
+        date: "28TH FEB to 2ND MARCH",
+        // time: "9:00 AM - 11:00 AM",
+        description:
+          "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
+        image: "/event-images/imagen.png",
+        //link: "https://unstop.com/p/short-story-film-international-institute-of-information-technology-iiit-bhubaneswar-858227",
+        //linkText: "Register",
+        prize: 20000,
+      },
+      {
+>>>>>>> Stashed changes
         //IMAGEN
         date: "29TH FEB to 2ND MARCH",
         // time: "9:00 AM - 11:00 AM",
@@ -362,9 +411,15 @@ export const eventsData = [
         // time: "9:00 AM - 11:00 AM",
         description:
           "Welcome to our captivating Photo Gallery Showcase, where each image tells a unique story through the lens of its creator. Explore a visual journey that transcends words, inviting you to interpret narratives, emotions, and perspectives captured in frozen moments.",
+<<<<<<< Updated upstream
           image: "/event-images/photogallery.png",
         // link: "https://unstop.com/events/photo-gallery-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubaneswar-861185",
         // linkText: "Register",
+=======
+        image: "/event-images/photo gallery.jpg",
+        link: "https://unstop.com/p/short-story-film-international-institute-of-information-technology-iiit-bhubaneswar-858227",
+        linkText: "Register",
+>>>>>>> Stashed changes
       },
     ],
   },
