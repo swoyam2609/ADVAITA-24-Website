@@ -22,7 +22,7 @@ import s_insidefpv from "../assets/s-insidefpv.webp";
 
 import e0thumb from "../assets/e0thumb.webp";
 import e1thumb from "../assets/e1thumb.webp";
-import e2thumb from "../assets/e2thumb.webp";
+import e2thumb from "../assets/5.png";
 import e3thumb from "../assets/e3thumb.webp";
 import e4thumb from "../assets/e4thumb.webp";
 import e5thumb from "../assets/e5thumb.webp";
