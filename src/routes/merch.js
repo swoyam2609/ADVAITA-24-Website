@@ -1,7 +1,4 @@
 import classes from "./merchPage.module.css";
-import iconIg from "../assets/instagram.svg";
-import iconTw from "../assets/twitter.svg";
-import iconYt from "../assets/youtube.svg";
 import sweatshirt from "../assets/Sweatshirt.png";
 import tshirt from "../assets/tshirt-I.webp";
 import tshirt2 from "../assets/tshirt-II.webp";
