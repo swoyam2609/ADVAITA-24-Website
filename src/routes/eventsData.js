@@ -114,7 +114,7 @@ export const eventsData = [
         link: "https://unstop.com/competitions/product-teardown-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubane-864351",
         linkText: "Visit Page",
         // customPopUp: "Round 1 selections for the Hackathon is already over. You can look around the hackathon page, but new registrations are not allowed.",
-        prize: 70000,
+        prize: 7000,
       },
       {
         date: "29TH FEB",
@@ -125,7 +125,7 @@ export const eventsData = [
         link: "https://unstop.com/competitions/startup-conclave-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubane-864337",
         linkText: "Register",
         // eventinfo: "Rule book",
-        prize: 10000,
+        prize: 7000,
       },
       
     ],
