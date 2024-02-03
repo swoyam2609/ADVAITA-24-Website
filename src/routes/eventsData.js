@@ -292,15 +292,51 @@ export const eventsData = [
     events: [
       {
         
-        //IMAGEN
+        //Short movie
         date: "28TH FEB to 2ND MARCH",
         // time: "9:00 AM - 11:00 AM",
         description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
-        image: "/event-images/imagen.png",
-        //link: "https://unstop.com/p/short-story-film-international-institute-of-information-technology-iiit-bhubaneswar-858227",
-        //linkText: "Register",
-        prize : 20000
-      },{
+        image: "/event-images/50.png",
+        link: "https://unstop.com/events/imagen-short-story-film-competition-advaita-tecno-cultural-fest-international-institute-of-information-technology-858227",
+        linkText: "Register",
+        prize : 5000
+      },
+      {
+        
+        //Theme Photgraphy
+        date: "28TH FEB to 2ND MARCH",
+        // time: "9:00 AM - 11:00 AM",
+        description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
+        image: "/event-images/43.png",
+        link: "https://unstop.com/events/theme-photography-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubaneswar-858232",
+        linkText: "Register",
+        prize : 5000
+      },
+      {
+        
+        //Advaita in 30 Seconds
+        
+        date: "28TH FEB to 2ND MARCH",
+        // time: "9:00 AM - 11:00 AM",
+        description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
+        image: "/event-images/48.png",
+        link: "https://unstop.com/events/reel-making-competition-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhuban-858244",
+        linkText: "Register",
+        prize : 5000
+      },
+      {
+        
+        //Potrait Photgraphy
+        date: "28TH FEB to 2ND MARCH",
+        // time: "9:00 AM - 11:00 AM",
+        description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
+        image: "/event-images/47.png",
+        link: "https://unstop.com/events/portrait-photography-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubanesw-858241",
+        linkText: "Register",
+        prize : 5000
+      },
+
+      {
         //IMAGEN
         date: "29TH FEB to 2ND MARCH",
         // time: "9:00 AM - 11:00 AM",
@@ -317,8 +353,8 @@ export const eventsData = [
         description:
           "Unlock the secrets of stunning photography at our immersive workshop for FREE of Cost! Join fellow enthusiasts to refine your skills, explore advanced techniques, and capture breathtaking moments.Elevate your passion for photography in this hands-on experience.Limited seats available – don't miss out!",
         image: "/event-images/workshop.png",
-        link: "https://unstop.com/workshops-webinars/photography-workshop-advaita-techno-cultural-fest-international-institute-of-information-technology-i-861204",
-        linkText: "Register",
+        // link: "https://unstop.com/workshops-webinars/photography-workshop-advaita-techno-cultural-fest-international-institute-of-information-technology-i-861204",
+        // linkText: "Register",
       },
       {
         //IMAGEN
@@ -327,8 +363,8 @@ export const eventsData = [
         description:
           "Welcome to our captivating Photo Gallery Showcase, where each image tells a unique story through the lens of its creator. Explore a visual journey that transcends words, inviting you to interpret narratives, emotions, and perspectives captured in frozen moments.",
           image: "/event-images/photogallery.png",
-        link: "https://unstop.com/events/photo-gallery-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubaneswar-861185",
-        linkText: "Register",
+        // link: "https://unstop.com/events/photo-gallery-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubaneswar-861185",
+        // linkText: "Register",
       },
     ],
   },
