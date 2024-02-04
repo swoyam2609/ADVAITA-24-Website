@@ -73,7 +73,7 @@ export const eventsData = [
         description:
           "Dive into the world of cybersecurity with CyberSec-Hackathon! Unleash your hacking skills in this thrilling competition, solving challenges to capture hidden 'flags' strategically placed in the digital battleground. Are you ready to outsmart the virtual defenses and claim victory in the ultimate cybersecurity showdown?",
         image: "/event-images/CyberSec-Hackathon.webp",
-        // link: "https://unstop.com/p/capture-the-flag-international-institute-of-information-technology-iiit-bhubaneswar-857169",
+        link: "https://unstop.com/o/R5VN0BE?lb=02mBqKH",
         linkText: "Register",
         // prize: 20000,
       },
