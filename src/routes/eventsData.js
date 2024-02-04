@@ -11,30 +11,36 @@ export const eventsData = [
         time: "10 PM - 10 PM(Next Day)",
         description:
           "Join us at Hackfest-Advaita, the inter-college hackathon where minds converge,knowledge flows, and innovation takes center stage. This event is your chance to collaborate with students from diverse colleges, share your tech prowess, and together, forge groundbreaking projects and ideas. Unleash your creativity and let the spirit of innovation thrive at Hackfest-Advaita!",
-        image: "/event-images/inter clg hackathon (1).png",
+        image: "/event-images/Hackfest.webp",
         link: "https://unstop.com/p/inter-college-hackathon-international-institute-of-information-technology-iiit-bhubaneswar-857179",
         linkText: "Visit Page",
         // customPopUp: "Round 1 selections for the Hackathon is already over. You can look around the hackathon page, but new registrations are not allowed.",
-        prize: 50000,
+        prize: 70000,
+        contact:
+          "COORDINATORS:-MD.EHTISHAM: 9198851103,SIPRAMOHANTY: 8280049224 "
       },
       {
         date: "1st Mar",
         time: "3:00 PM - 6:00 PM",
         description:
           "Get ready to Swig-N-Code! This event is a race against time, where solo participants battle it out to solve a set of challenging questions in record time. It's not just about speed; there's a twist waiting to unfold that will keep you on the edge. Stay tuned for surprises that will elevate the excitement. Can you crack the code before time runs out",
-        image: "/event-images/Swig-n-Code.png",
+        image: "/event-images/Swig-n-code.webp",
         link: "https://www.codingninjas.com/studio/events/swig-n-code?utm_source=campus-ambassador&utm_medium=ET&utm_campaign=CNIIIT",
         linkText: "Register",
         // eventinfo: "Rule book",
         //prize: 20000,
-        ruleBook: "https://drive.google.com/file/d/17MkHtHFtHwH929csu8vja2MYxgdWU1fV/view?usp=sharing",
+        prize: 10000,
+        ruleBook:
+          "https://drive.google.com/file/d/17MkHtHFtHwH929csu8vja2MYxgdWU1fV/view?usp=sharing",
+        contact:
+          "COORDINATORS:-SASWATBEHERA: 7327903685,SOUBHIKGON: 6370462354",
       },
       {
         date: "1st Mar",
         time: "9:00 AM - 3:00 PM",
         description:
           "Gear up for the ultimate off-road challenge at Dirt Rush! Race against time and conquer the dirt tracks in this adrenaline-packed R/C competition. Navigate your way through miniature monster truck obstacle courses, striving to be the quickest with minimal penalties. It's high-speed, off-road thrills – can you handle the dirt and emerge as the champion of Dirt Rush?",
-        image: "/event-images/dirt rush.png",
+        image: "/event-images/Dirt-Rush.webp",
         link: "https://unstop.com/p/dirt-rush-international-institute-of-information-technology-iiit-bhubaneswar-857200",
         linkText: "Register",
         prize: 10000,
@@ -44,37 +50,17 @@ export const eventsData = [
         time: "12:00 PM - 2:00 PM",
         description:
           "Guidance is the biggest weapon that helps us fight our way through success. How amazing does it feel when experienced Tech leads guide us? Well, this is obviously going to be an insightful seminar or talk related to new technologies by a popular speaker or community person. This is going to be a promising and engaging session for all the tech enthusiasts. So, come on and gain new insights and perspectives on the future of technology by the famous speaker.",
-        image: "/event-images/tech talk.png",
+        image: "/event-images/Beyond-Boundaries.webp",
         eventinfo: "None",
+        contact: "COORDINATORS:-PRRIYADASH: 7894023677,PUNITKUMAR: 9142403368"
       },
-      {
-        date: "2ND MARCH",
-        time: "9:00 AM - 12:00 PM",
-        description:
-          "Prepare for metal mayhem at ROBOWAR – the ultimate combat competition where only the strongest survive! Battle it out as robots armed with mechanical weapons like blades, saws, cutters, and claws go head-to-head. The mission is clear: pin down or destroy your opponent to emerge victorious. It's a clash of steel and strategy – are you ready to unleash the power of your robotic warrior and claim supremacy in ROBOWAR?",
-        image: "/event-images/Robo war.png",
-        link: "https://unstop.com/p/robo-war-international-institute-of-information-technology-iiit-bhubaneswar-857196",
-        linkText: "Register",
-        prize: "XXXX",
-      },
-
       {
         date: "1ST MARCH",
         time: "2:00 PM - 7:00 PM",
         description:
           "Step into the precision world of Line Follower! Unleash your technical prowess as you design a mobile marvel capable of detecting and flawlessly tracking lines on the floor. Equipped with infrared sensors, the Line Follower robot interprets the path, sends data to its processor, and maneuvers its way through predefined routes. Join us for a journey where technology meets precision in the Line Follower event – where every line is a challenge waiting to be conquered!",
-        image: "/event-images/line follower.png",
+        image: "/event-images/Line-Follower.webp",
         link: "https://unstop.com/p/line-follower-international-institute-of-information-technology-iiit-bhubaneswar-857177",
-        linkText: "Register",
-        prize: 10000,
-      },
-      {
-        date: "2ND MARCH",
-        time: "3:00 PM - 7:00 PM",
-        description:
-          "Soar to new heights with Drone Racing - IIIT Bhubaneswar's thrilling Drone Racing League! Brace yourself for the ultimate airborne challenge, where speed is the name of the game. Push the limits, go faster, faster, faster, and let the thrill of speed conquer any fear of the skies. Get ready for an adrenaline-fueled race to the top in IIIT Bhubaneswar's Drone Racing League!",
-        image: "/event-images/Drone Race.png",
-        link: "https://unstop.com/p/drone-racing-international-institute-of-information-technology-iiit-bhubaneswar-857207",
         linkText: "Register",
         prize: 10000,
       },
@@ -83,7 +69,7 @@ export const eventsData = [
         time: "9:00 AM - 12:00 PM",
         description:
           "Get ready for soccer like never before – it's ROBOSOCCER time! Engineers, show off your sophisticated skills in this manual robot football extravaganza. Brace yourselves,soccer fans, as we bring you a whole new dimension of the game. Unleash your inner RONALDO or MESSI by designing bots that flip, kick, maneuver, and showcase unparalleled control. It's time to step off the sidelines and onto the pitch – the thrill awaits at ROBOSOCCER. Don't just watch, participate, and experience the excitement firsthand!",
-        image: "/event-images/robo soccer.png",
+        image: "/event-images/Robo-Soccer.webp",
         link: "https://unstop.com/p/robo-soccer-international-institute-of-information-technology-iiit-bhubaneswar-857211",
         linkText: "Register",
         prize: 10000,
@@ -92,23 +78,57 @@ export const eventsData = [
         date: "2ND MARCH",
         time: "9:00 AM - 12:00 PM",
         description:
-          "Dive into the world of cybersecurity with CAPTURE THE FLAG! Unleash your hacking skills in this thrilling competition, solving challenges to capture hidden 'flags' strategically placed in the digital battleground. Are you ready to outsmart the virtual defenses and claim victory in the ultimate cybersecurity showdown?",
-        image: "/event-images/catch the flag.png",
-        link: "https://unstop.com/p/capture-the-flag-international-institute-of-information-technology-iiit-bhubaneswar-857169",
+          "Dive into the world of cybersecurity with CyberSec-Hackathon! Unleash your hacking skills in this thrilling competition, solving challenges to capture hidden 'flags' strategically placed in the digital battleground. Are you ready to outsmart the virtual defenses and claim victory in the ultimate cybersecurity showdown?",
+        image: "/event-images/CyberSec-Hackathon.webp",
+        link: "https://unstop.com/o/R5VN0BE?lb=02mBqKH",
         linkText: "Register",
-        prize: "xxxx",
+        //prize: "20000",
       },
       {
         date: "2ND MARCH",
         time: "12:00 PM - 3:00 PM",
         description:
           "Where Minds Dance and Codes Switch!Join this high-energy team-based programming competition, showcasing your ability to adapt swiftly, switch between problems seamlessly, and synchronize with your partner. Register in pairs, dive into distinct problem sets in separate rooms, and experience the thrill of switching places and mastering each other's code. Are you ready to code in rhythm and conquer the art of rapid problem-solving?",
-        image: "/event-images/switch coding.png",
+        image: "/event-images/Switch-Coding.webp",
         link: "https://www.codingninjas.com/studio/events/switch-coding?utm_source=campus-ambassador&utm_medium=ET&utm_campaign=CNIIIT",
         linkText: "Register",
         eventinfo: "Rule book",
-        prize: "XXXX",
+        prize: 10000,
+        contact:
+          "COORDINATORS:-CHIRANTANBEURA: 8018825114 , VENKAT: 8456955906"
       },
+    ],
+  },
+  {
+    title: "MANAGEMENT EVENTS",
+    id: "_events",
+    subtitle: "INNOVATE TO ELEVATE !",
+    description:
+      "Ignite your management skills! From product competitions to conclaves, join us to prove your prowess. Elevate your game, network with experts, and discover the leader in you!",
+    events: [
+      {
+        date: "28TH & 29TH FEB",
+        time: "10 PM - 10 AM(Next Day)",
+        description:
+          "Explore the intricacies of product development with our Product Teardown event! Participants engage in a case study round, dissecting a given product to identify and solve challenges. Teams submit presentations by deadlines, and shortlisted ones present their final solutions to judges. Each team, comprising 2 to 4 participants, delves into improvements and proposes metrics for success. A total prize pool of Rs. 15,000 worth, plus certificates, awaits the winning team!",
+        image: "/event-images/product-teardown.webp",
+        link: "https://unstop.com/competitions/product-teardown-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubane-864351",
+        linkText: "Visit Page",
+        // customPopUp: "Round 1 selections for the Hackathon is already over. You can look around the hackathon page, but new registrations are not allowed.",
+        prize: 7000,
+      },
+      {
+        date: "29TH FEB",
+        time: "1:00 PM - 4:00 PM",
+        description:
+          "Dive into the future of innovation at our Innovation Odyssey: Startup Conclave on 1st and 2nd March! Witness visionary students and aspiring startups showcasing revolutionary products and ideas across diverse industries. Judged on innovation, feasibility, impact, market potential, and presentation skills, participants stand a chance to win a prize pool of Rs. 10,000 worth + Certificates. Don't miss this celebration of creativity, collaboration, and the entrepreneurial spirit!",
+        image: "/event-images/startup-conclave.webp",
+        link: "https://unstop.com/competitions/startup-conclave-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubane-864337",
+        linkText: "Register",
+        // eventinfo: "Rule book",
+        prize: 7000,
+      },
+
     ],
   },
   {
@@ -126,7 +146,7 @@ export const eventsData = [
         image: "/event-images/Rockathon.png",
         link: "https://unstop.com/p/rockathon-international-institute-of-information-technology-iiit-bhubaneswar-858114",
         linkText: "Register",
-        prize: 15000,
+        prize: 25000,
       },
 
       {
@@ -135,9 +155,9 @@ export const eventsData = [
         description:
           "Step into the spotlight at RANGBHOOMI – where the stage comes alive with a single take, a rush backstage, and an unforgettable theatre experience! Advaita 2024 invites you to witness the magic of diverse theatre groups on one stage, immersing you in the beauty of different genres. It's not just about entertainment; it's about creating impact and telling stories that shine. This is your chance to be a part of the drama, to captivate hearts, and make a lasting impression. Join us for an evening of theatrical brilliance!",
         image: "/event-images/theatre.png",
-        link: "https://unstop.com/p/pradarshan-nukkad-international-institute-of-information-technology-iiit-bhubaneswar-858098",
+        link: "https://unstop.com/events/rangbhoomi-theatre-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubaneswar-858085",
         linkText: "Register",
-        prize: 10000,
+        prize: 15000,
       },
 
       {
@@ -148,7 +168,7 @@ export const eventsData = [
         image: "/event-images/la mode.png",
         link: "https://unstop.com/p/la-mode-international-institute-of-information-technology-iiit-bhubaneswar-858129",
         linkText: "Register",
-        prize: 22000,
+        prize: 30000,
       },
       {
         date: "1ST MARCH",
@@ -158,7 +178,7 @@ export const eventsData = [
         image: "/event-images/nukkad.png",
         link: "https://unstop.com/p/pradarshan-nukkad-international-institute-of-information-technology-iiit-bhubaneswar-858098",
         linkText: "Register",
-        prize: 10000,
+        prize: 20000,
       },
       {
         date: "1ST MARCH",
@@ -168,7 +188,27 @@ export const eventsData = [
         image: "/event-images/acoustica.png",
         link: "https://unstop.com/p/acoustica-anuraag-international-institute-of-information-technology-iiit-bhubaneswar-858136",
         linkText: "Register",
-        prizes: 10000,
+        prizes: 14000,
+      },
+      {
+        date: "2ND MARCH",
+        time: "5:30 PM - 7:00 PM",
+        description:
+          "Gear up for an evening of unparalleled talent, where the stage will come alive with the beats of innovation, the rhymes of intellect, and the stories of a generation that refuses to be confined by conventions. RapMania – where engineering meets expression, and creativity knows no boundaries. Get ready to be immersed in a symphony of words and beats that redefine the very essence of rap. Let the competition begin!.",
+        image: "/event-images/acoustica (2).png",
+        link: "https://unstop.com/p/rap-mania-international-institute-of-information-technology-iiit-bhubaneswar-858140",
+        linkText: "Register",
+        prize: 14000,
+      },
+      {
+        date: "2ND MARCH",
+        time: "5:30 PM - 7:00 PM",
+        description:
+          "Beatboxing (also beat boxing) is a form of vocal percussion primarily involving the art of mimicking drum machines using one's mouth, lips, tongue, and voice. It may also involve vocal imitation of turntablism, and other musical instruments. Beatboxing today is connected with hip-hop culture, often referred to as the fifth element of hip-hop, although it is not limited to hip-hop music. The term beatboxing is sometimes used to refer to vocal percussion in general..",
+        image: "/event-images/acoustica (3).png",
+        link: "https://unstop.com/events/amplified-rhythm-beatboxing-competition-advaita-tecno-cultural-fest-international-institute-of-information-techno-858146",
+        linkText: "Register",
+        prize: 14000,
       },
 
       {
@@ -179,17 +219,17 @@ export const eventsData = [
         image: "/event-images/footloose.png",
         link: "https://unstop.com/p/footloose-international-institute-of-information-technology-iiit-bhubaneswar-858108",
         linkText: "Register",
-        prizes: 12000,
+        prizes: 23000,
       },
       {
         date: "1ST MARCH",
         time: "2:00 PM - 7:00 PM",
         description:
-          "Dive into the rhythm, ignite the beat – it's time for CYPHER, where musical talents clash in a symphony of competition! Unleash your sound, captivate the audience, and let the music flow in this electrifying contest. It's not just a battle; it's a CYPHER of melodies, where every note is a statement, and every performer is a maestro. Join the harmony, own the stage, and let the musical magic unfold at CYPHER!",
+          "Experience the explosive energy of our Street Dance Battle, Cypher. Dancers from diverse backgrounds will ignite the pavement with jaw-dropping moves in epic one-on-one battles. The streets transform into a rhythmic battleground, creating an unforgettable evening where only the slickest moves and dankest beats will reign supreme. Let the Battle begin!",
         image: "/event-images/cypher.png",
         link: "https://unstop.com/p/cypher-international-institute-of-information-technology-iiit-bhubaneswar-858118",
         linkText: "Register",
-        prize: 12000,
+        prize: 6000,
         extraInfo:
           "If you wish to just participate in Cypher during Advaita, you can purchase an event pass on the spot for ₹100 instead of the 1 or 4 day passes.",
       },
@@ -258,14 +298,25 @@ export const eventsData = [
     events: [
       {
         date: "29 FEB - 1ST MARCH",
-        time: "10:00 PM - 6:00 AM",
+        time: "10:00 AM - 6:00 PM",
         description:
+          "There would be tournaments in popular games like Valorant PC, BGMI etc. Also there would be a wide range of tournaments and leagues for all skill levels. Whether you’re a beginner or a pro, you can find the perfect competition to challenge yourself and show off your skills. Not to mention there would be a variety of rewards and prizes for the top players.",
+        image: "/event-images/e-sports.png",
           "There would be tournaments in popular games like Valorant PC, COD mobile etc. Also there would be a wide range of tournaments and leagues for all skill levels. Whether you’re a beginner or a pro, you can find the perfect competition to challenge yourself and show off your skills. Not to mention there would be a variety of rewards and prizes for the top players.",
         image: "/event-images/e_sports.png",
         link: "https://unstop.com/p/e-sports-international-institute-of-information-technology-iiit-bhubaneswar-858272",
         linkText: "Register",
-        prize: 3000,
+        prize: 10000,
       },
+      {
+        date: "29 FEB - 1ST MARCH",
+        time: "10:00 AM - 6:00 PM",
+        description:
+          "There would be tournaments in popular games like Valorant PC, BGMI etc. Also there would be a wide range of tournaments and leagues for all skill levels. Whether you’re a beginner or a pro, you can find the perfect competition to challenge yourself and show off your skills. Not to mention there would be a variety of rewards and prizes for the top players.",
+        image: "/event-images/e-sports (2).png",
+        link: "https://unstop.com/events/e-sports-valorant-advaita-techno-cultural-fest-international-institute-of-information-technology-iiit-bhubaneswar-887248",
+        linkText: "Register",
+        prize: 10000
     ],
   },
   {
@@ -276,44 +327,68 @@ export const eventsData = [
       "Get ready to snap, shoot, and shine! Unleash your inner artist and your wildest imagination. Dive into the world of photography and learn the ins and outs of capturing stunning shots. Let's capture some unforgettable moments together!",
     events: [
       {
-        
-        //IMAGEN
-        date: "29TH FEB",
-        time: "9:00 AM - 11:00 AM",
+
+
+        //Short movie
+        date: "28TH FEB to 2ND MARCH",
+        // time: "9:00 AM - 11:00 AM",
         description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
-        image: "/event-images/imagen.png",
-        //link: "https://unstop.com/p/short-story-film-international-institute-of-information-technology-iiit-bhubaneswar-858227",
-        //linkText: "Register",
-      },{
-        //IMAGEN
-        date: "29TH FEB",
-        time: "9:00 AM - 11:00 AM",
-        description:
-          "Each photograph serves as a thread in the intricate tapestry of a narrative waiting to be woven. This visual journey connects the dots between fleeting moments, showcasing the beauty found in vulnerability, resilience, and the delicate balance of life's co-ordinated. Through a series of captivating images, witness the strength that emerges from the fractures, the harmony that arises from chaos, and the stories told by the threads that bind us all.",
-        image: "/event-images/brokenstring.jpg",
-        link: "https://unstop.com/p/short-story-film-international-institute-of-information-technology-iiit-bhubaneswar-858227",
+        image: "/event-images/50.png",
+        link: "https://unstop.com/events/imagen-short-story-film-competition-advaita-tecno-cultural-fest-international-institute-of-information-technology-858227",
         linkText: "Register",
+        prize : 5000
       },
       {
-        //IMAGEN
+
+        //Theme Photgraphy
+        date: "28TH FEB to 2ND MARCH",
+        // time: "9:00 AM - 11:00 AM",
+        description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
+        image: "/event-images/43.png",
+        link: "https://unstop.com/events/theme-photography-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubaneswar-858232",
+        linkText: "Register",
+        prize : 5000
+      },
+      {
+
+        //Advaita in 30 Seconds
+
+        date: "28TH FEB to 2ND MARCH",
+        // time: "9:00 AM - 11:00 AM",
+        description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
+        image: "/event-images/48.png",
+        link: "https://unstop.com/events/reel-making-competition-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhuban-858244",
+        linkText: "Register",
+        prize : 5000
+      },
+      {
+
+        //Potrait Photgraphy
+        date: "28TH FEB to 2ND MARCH",
+        time: "9:00 AM - 11:00 AM",
+        description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
+        image: "/event-images/47.png",
+        link: "https://unstop.com/events/portrait-photography-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubanesw-858241",
+        linkText: "Register",
+        prize : 5000
+      },
+      {
         date: "29TH FEB",
         time: "9:00 AM - 11:00 AM",
         description:
           "Unlock the secrets of stunning photography at our immersive workshop for FREE of Cost! Join fellow enthusiasts to refine your skills, explore advanced techniques, and capture breathtaking moments.Elevate your passion for photography in this hands-on experience.Limited seats available – don't miss out!",
-        image: "/event-images/workshop.jpg",
-        link: "https://unstop.com/p/short-story-film-international-institute-of-information-technology-iiit-bhubaneswar-858227",
-        linkText: "Register",
+        image: "/event-images/workshop.png",
+        // link: "https://unstop.com/workshops-webinars/photography-workshop-advaita-techno-cultural-fest-international-institute-of-information-technology-i-861204",
+        // linkText: "Register",
       },
       {
-        //IMAGEN
-        date: "29TH FEB",
-        time: "9:00 AM - 11:00 AM",
+         date: "29TH FEB to 2ND MARCH",
+          image: "/event-images/photoGallery.jpeg",
         description:
           "Welcome to our captivating Photo Gallery Showcase, where each image tells a unique story through the lens of its creator. Explore a visual journey that transcends words, inviting you to interpret narratives, emotions, and perspectives captured in frozen moments.",
-          image: "/event-images/photo gallery.jpg",
-        link: "https://unstop.com/p/short-story-film-international-institute-of-information-technology-iiit-bhubaneswar-858227",
+         link: "https://unstop.com/p/short-story-film-international-institute-of-information-technology-iiit-bhubaneswar-858227",
         linkText: "Register",
-      },
+      }
     ],
   },
   {
@@ -383,7 +458,7 @@ export const eventsData = [
         description:
           "Advaita marathon Run For Blood - a purposeful journey to save lives through blood donation. Experience the unity of runners, all striving for a healthier community. Whether a seasoned runner or a beginner, every stride contributes to a collective effort for a more compassionate society. Lace up and join us in making a lasting impact on a crucial social cause.",
         image: "/event-images/marathon.png",
-        // prize: 30000,
+        prize: 30000,
         link: "https://unstop.com/p/marathon-run-for-blood-international-institute-of-information-technology-iiit-bhubaneswar-858276",
         linkText: "Register",
       },
