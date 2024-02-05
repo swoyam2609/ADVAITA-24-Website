@@ -7,8 +7,8 @@ export const eventsData = [
       "Ready to unravel the tech giant within you? We have the best in store for you. Starting from hackathons to fun contests to tech talks, let's discover your innovative side! Think you are the best? Well you can make a statement here!!!",
     events: [
       {
-        date: "1st Mar",
-        time: "10 PM - 10 PM(Next Day)",
+        date: "28th Feb - 1st Mar",
+        time: "10 PM - 12 PM(Next Day)",
         description:
           "Join us at Hackfest-Advaita, the inter-college hackathon where minds converge,knowledge flows, and innovation takes center stage. This event is your chance to collaborate with students from diverse colleges, share your tech prowess, and together, forge groundbreaking projects and ideas. Unleash your creativity and let the spirit of innovation thrive at Hackfest-Advaita!",
         image: "/event-images/Hackfest.webp",
@@ -17,7 +17,7 @@ export const eventsData = [
         // customPopUp: "Round 1 selections for the Hackathon is already over. You can look around the hackathon page, but new registrations are not allowed.",
         prize: 70000,
         contact:
-          "COORDINATORS:-MD.EHTISHAM: 9198851103,SIPRAMOHANTY: 8280049224 "
+          "COORDINATORS:-MD.EHTISHAM: 9198851103, SIPRAMOHANTY: 8280049224 ",
       },
       {
         date: "1st Mar",
@@ -52,7 +52,7 @@ export const eventsData = [
           "Guidance is the biggest weapon that helps us fight our way through success. How amazing does it feel when experienced Tech leads guide us? Well, this is obviously going to be an insightful seminar or talk related to new technologies by a popular speaker or community person. This is going to be a promising and engaging session for all the tech enthusiasts. So, come on and gain new insights and perspectives on the future of technology by the famous speaker.",
         image: "/event-images/Beyond-Boundaries.webp",
         eventinfo: "None",
-        contact: "COORDINATORS:-PRRIYADASH: 7894023677,PUNITKUMAR: 9142403368"
+        contact: "COORDINATORS:-PRRIYADASH: 7894023677,PUNITKUMAR: 9142403368",
       },
       {
         date: "1ST MARCH",
@@ -75,8 +75,8 @@ export const eventsData = [
         prize: 10000,
       },
       {
-        date: "2ND MARCH",
-        time: "9:00 AM - 12:00 PM",
+        date: "28th FEB to 29th FEB",
+        time: "10:00 PM - 1:00 PM (Next Day)",
         description:
           "Dive into the world of cybersecurity with CyberSec-Hackathon! Unleash your hacking skills in this thrilling competition, solving challenges to capture hidden 'flags' strategically placed in the digital battleground. Are you ready to outsmart the virtual defenses and claim victory in the ultimate cybersecurity showdown?",
         image: "/event-images/CyberSec-Hackathon.webp",
@@ -95,7 +95,7 @@ export const eventsData = [
         eventinfo: "Rule book",
         prize: 10000,
         contact:
-          "COORDINATORS:-CHIRANTANBEURA: 8018825114 , VENKAT: 8456955906"
+          "COORDINATORS:-CHIRANTANBEURA: 8018825114 , VENKAT: 8456955906",
       },
     ],
   },
@@ -128,7 +128,6 @@ export const eventsData = [
         // eventinfo: "Rule book",
         prize: 7000,
       },
-
     ],
   },
   {
@@ -315,8 +314,8 @@ export const eventsData = [
         image: "/event-images/e-sports (2).png",
         link: "https://unstop.com/events/e-sports-valorant-advaita-techno-cultural-fest-international-institute-of-information-technology-iiit-bhubaneswar-887248",
         linkText: "Register",
-        prize: 10000
-      }
+        prize: 10000,
+      },
     ],
   },
   {
@@ -327,50 +326,49 @@ export const eventsData = [
       "Get ready to snap, shoot, and shine! Unleash your inner artist and your wildest imagination. Dive into the world of photography and learn the ins and outs of capturing stunning shots. Let's capture some unforgettable moments together!",
     events: [
       {
-
-
         //Short movie
         date: "28TH FEB to 2ND MARCH",
         // time: "9:00 AM - 11:00 AM",
-        description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
+        description:
+          "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
         image: "/event-images/50.png",
         link: "https://unstop.com/events/imagen-short-story-film-competition-advaita-tecno-cultural-fest-international-institute-of-information-technology-858227",
         linkText: "Register",
-        prize : 5000
+        prize: 5000,
       },
       {
-
         //Theme Photgraphy
         date: "28TH FEB to 2ND MARCH",
         // time: "9:00 AM - 11:00 AM",
-        description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
+        description:
+          "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
         image: "/event-images/43.png",
         link: "https://unstop.com/events/theme-photography-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubaneswar-858232",
         linkText: "Register",
-        prize : 5000
+        prize: 5000,
       },
       {
-
         //Advaita in 30 Seconds
 
         date: "28TH FEB to 2ND MARCH",
         // time: "9:00 AM - 11:00 AM",
-        description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
+        description:
+          "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
         image: "/event-images/48.png",
         link: "https://unstop.com/events/reel-making-competition-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhuban-858244",
         linkText: "Register",
-        prize : 5000
+        prize: 5000,
       },
       {
-
         //Potrait Photgraphy
         date: "28TH FEB to 2ND MARCH",
         time: "9:00 AM - 11:00 AM",
-        description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
+        description:
+          "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
         image: "/event-images/47.png",
         link: "https://unstop.com/events/portrait-photography-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubanesw-858241",
         linkText: "Register",
-        prize : 5000
+        prize: 5000,
       },
       {
         date: "29TH FEB",
@@ -382,13 +380,13 @@ export const eventsData = [
         // linkText: "Register",
       },
       {
-         date: "29TH FEB to 2ND MARCH",
-          image: "/event-images/photoGallery.jpeg",
+        date: "29TH FEB to 2ND MARCH",
+        image: "/event-images/photoGallery.jpeg",
         description:
           "Welcome to our captivating Photo Gallery Showcase, where each image tells a unique story through the lens of its creator. Explore a visual journey that transcends words, inviting you to interpret narratives, emotions, and perspectives captured in frozen moments.",
-         link: "https://unstop.com/p/short-story-film-international-institute-of-information-technology-iiit-bhubaneswar-858227",
+        link: "https://unstop.com/p/short-story-film-international-institute-of-information-technology-iiit-bhubaneswar-858227",
         linkText: "Register",
-      }
+      },
     ],
   },
   {
@@ -488,5 +486,3 @@ export const eventsData = [
     ],
   },
 ];
-
-
