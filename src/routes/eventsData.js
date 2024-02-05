@@ -7,7 +7,7 @@ export const eventsData = [
       "Ready to unravel the tech giant within you? We have the best in store for you. Starting from hackathons to fun contests to tech talks, let's discover your innovative side! Think you are the best? Well you can make a statement here!!!",
     events: [
       {
-        date: "28th Feb - 1st Mar",
+        date: "29th Feb - 1st Mar",
         time: "10 PM - 12 PM(Next Day)",
         description:
           "Join us at Hackfest-Advaita, the inter-college hackathon where minds converge,knowledge flows, and innovation takes center stage. This event is your chance to collaborate with students from diverse colleges, share your tech prowess, and together, forge groundbreaking projects and ideas. Unleash your creativity and let the spirit of innovation thrive at Hackfest-Advaita!",
