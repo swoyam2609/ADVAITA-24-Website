@@ -36,8 +36,9 @@ export const eventsData = [
           "COORDINATORS:-SASWATBEHERA: 7327903685,SOUBHIKGON: 6370462354",
       },
       {
-        date: "1st Mar",
-        time: "9:00 AM - 3:00 PM",
+
+        date: "1ST MARCH",
+        time: "9:00 AM - 12:00 PM",
         description:
           "Gear up for the ultimate off-road challenge at Dirt Rush! Race against time and conquer the dirt tracks in this adrenaline-packed R/C competition. Navigate your way through miniature monster truck obstacle courses, striving to be the quickest with minimal penalties. It's high-speed, off-road thrills – can you handle the dirt and emerge as the champion of Dirt Rush?",
         image: "/event-images/Dirt-Rush.webp",
@@ -56,7 +57,9 @@ export const eventsData = [
       },
       {
         date: "1ST MARCH",
-        time: "2:00 PM - 7:00 PM",
+
+        time: "1:00 PM - 6:00 PM",
+
         description:
           "Step into the precision world of Line Follower! Unleash your technical prowess as you design a mobile marvel capable of detecting and flawlessly tracking lines on the floor. Equipped with infrared sensors, the Line Follower robot interprets the path, sends data to its processor, and maneuvers its way through predefined routes. Join us for a journey where technology meets precision in the Line Follower event – where every line is a challenge waiting to be conquered!",
         image: "/event-images/Line-Follower.webp",
@@ -66,7 +69,7 @@ export const eventsData = [
       },
       {
         date: "2ND MARCH",
-        time: "9:00 AM - 12:00 PM",
+        time: "9:00 AM - 1:00 PM",
         description:
           "Get ready for soccer like never before – it's ROBOSOCCER time! Engineers, show off your sophisticated skills in this manual robot football extravaganza. Brace yourselves,soccer fans, as we bring you a whole new dimension of the game. Unleash your inner RONALDO or MESSI by designing bots that flip, kick, maneuver, and showcase unparalleled control. It's time to step off the sidelines and onto the pitch – the thrill awaits at ROBOSOCCER. Don't just watch, participate, and experience the excitement firsthand!",
         image: "/event-images/Robo-Soccer.webp",
@@ -75,8 +78,9 @@ export const eventsData = [
         prize: 10000,
       },
       {
-        date: "28th FEB to 29th FEB",
-        time: "10:00 PM - 1:00 PM (Next Day)",
+
+        date: "28TH & 29TH FEB",
+        time: "10:00  - 1:00 PM",
         description:
           "Dive into the world of cybersecurity with CyberSec-Hackathon! Unleash your hacking skills in this thrilling competition, solving challenges to capture hidden 'flags' strategically placed in the digital battleground. Are you ready to outsmart the virtual defenses and claim victory in the ultimate cybersecurity showdown?",
         image: "/event-images/CyberSec-Hackathon.webp",
@@ -149,7 +153,8 @@ export const eventsData = [
       },
 
       {
-        date: "29th FEBRUARY",
+
+        date: "29TH FEB",
         time: "9:00 AM - 1:00 PM",
         description:
           "Step into the spotlight at RANGBHOOMI – where the stage comes alive with a single take, a rush backstage, and an unforgettable theatre experience! Advaita 2024 invites you to witness the magic of diverse theatre groups on one stage, immersing you in the beauty of different genres. It's not just about entertainment; it's about creating impact and telling stories that shine. This is your chance to be a part of the drama, to captivate hearts, and make a lasting impression. Join us for an evening of theatrical brilliance!",
@@ -161,7 +166,7 @@ export const eventsData = [
 
       {
         date: "29th FEBRUARY",
-        time: "3:00 pm - 7:00 pm",
+        time: "3:00 PM - 8:00 PM",
         description:
           "Embark on a style odyssey with LA Mode – where sophistication meets innovation on the runway! Join 'LAMODE: A Fashion Odyssey' for a mesmerizing fashion walk that transcends ordinary style. Experience a journey through glamor, creativity, and timeless elegance. It's not just a contest; it's a celebration of fashion that tells a story with every stride. Step into the world of LA Mode and let your style shine in this extraordinary cultural event!",
         image: "/event-images/la mode.png",
@@ -170,7 +175,8 @@ export const eventsData = [
         prize: 30000,
       },
       {
-        date: "1ST MARCH",
+
+        date: "1st MARCH",
         time: "10:00 AM - 2:00 PM",
         description:
           "Step into the streets of expression with PRADARSHAN! This event is not just a contest; it's a platform that unites the nation's best Nukkad teams. Watch as the streets come alive with impactful performances, using theatre to communicate social and political messages. PRADARSHAN is more than a contest; it's a movement, raising awareness and igniting change, one street play at a time. Join us in the art of street theatre and be a part of the narrative for a better world!",
@@ -180,8 +186,9 @@ export const eventsData = [
         prize: 20000,
       },
       {
-        date: "1ST MARCH",
-        time: "5:00 AM - 7:00 PM",
+
+        date: "2ND MARCH",
+        time: "2:00 PM - 6:00 PM",
         description:
           "Step into the captivating world of ACOUSTICA, a college fest where musical magic takes center stage. Anuraag offers solo singers the chance to showcase their enchanting vocals, while RapMania invites rhythmic wizards to cast spells through rap performances. In Amplified Rhythm, beatboxers engage in a mesmerizing duel, impressing judges with technicality, stage presence, and originality. ACOUSTICA promises a spellbinding experience, celebrating diverse musical talents in a magical setting.",
         image: "/event-images/acoustica.png",
@@ -191,7 +198,7 @@ export const eventsData = [
       },
       {
         date: "2ND MARCH",
-        time: "5:30 PM - 7:00 PM",
+        time: "2:30 PM - 6:00 PM",
         description:
           "Gear up for an evening of unparalleled talent, where the stage will come alive with the beats of innovation, the rhymes of intellect, and the stories of a generation that refuses to be confined by conventions. RapMania – where engineering meets expression, and creativity knows no boundaries. Get ready to be immersed in a symphony of words and beats that redefine the very essence of rap. Let the competition begin!.",
         image: "/event-images/acoustica (2).png",
@@ -201,7 +208,7 @@ export const eventsData = [
       },
       {
         date: "2ND MARCH",
-        time: "5:30 PM - 7:00 PM",
+        time: "2:00 PM - 6:00 PM",
         description:
           "Beatboxing (also beat boxing) is a form of vocal percussion primarily involving the art of mimicking drum machines using one's mouth, lips, tongue, and voice. It may also involve vocal imitation of turntablism, and other musical instruments. Beatboxing today is connected with hip-hop culture, often referred to as the fifth element of hip-hop, although it is not limited to hip-hop music. The term beatboxing is sometimes used to refer to vocal percussion in general..",
         image: "/event-images/acoustica (3).png",
@@ -245,7 +252,7 @@ export const eventsData = [
       {
         //ART CURRACY
         date: "1ST MARCH",
-        time: "12:00 PM - 3:00 PM",
+        time: "2:00 PM - 4:00 PM",
         description:
           "Dive into the realm of artistic brilliance at ART-CURRACY! Unleash your creativity in this dynamic team event where one becomes the storyteller, and the other, the artist. It's a race against time, a test of teamwork, and a celebration of talent like never before. Whether you're an art enthusiast or a curious newcomer, join us for a symphony of colors and creativity – where innovation meets imagination!",
         image: "/event-images/art_curracy.png",
@@ -255,8 +262,9 @@ export const eventsData = [
       },
       {
         //ACE-HUNT
-        date: "29TH FEB ",
+        date: "1ST MARCH ",
         time: "9:00 AM - 1:00 PM",
+     
         description:
           "Embark on an artistic adventure like never before with ACE-HUNT! Grab your friends, form a dynamic team of 3-4, and immerse yourselves in a quest filled with mysteries, puzzles, and the thrill of discovery. Decode clues, navigate twists, and unlock surprises that await your artistic prowess. It's not just an event; it's an exhilarating journey into the heart of creativity!",
         image: "/event-images/ace_hunt.png",
@@ -266,8 +274,8 @@ export const eventsData = [
       },
       {
         //CREATE-A-THON
-        date: "1ST MARCH",
-        time: "3:00 PM - 7:00 PM",
+        date: "29TH FEB",
+        time: "9:00 PM - 1:00 PM",
         description:
           "Get ready to ignite your creativity at CREATE-A-THON – IIIT Bhubaneswar's digital stage for design enthusiasts! Unleash your artistic prowess using any design tool, collaborate with your team, and craft designs that not only look good but also do good. Dive into themes centered around social issues, where your creations become a catalyst for change. Don't miss out on this opportunity to design, inspire, and impact. Join the competition and let your creativity shine on the digital canvas!",
         image: "/event-images/create_a_thon.png",
@@ -371,8 +379,10 @@ export const eventsData = [
         prize: 5000,
       },
       {
-        date: "29TH FEB",
-        time: "9:00 AM - 11:00 AM",
+
+        //IMAGEN
+        date: "1ST MARCH",
+        time: "11:00 AM - 2:00 PM",
         description:
           "Unlock the secrets of stunning photography at our immersive workshop for FREE of Cost! Join fellow enthusiasts to refine your skills, explore advanced techniques, and capture breathtaking moments.Elevate your passion for photography in this hands-on experience.Limited seats available – don't miss out!",
         image: "/event-images/workshop.png",
@@ -401,7 +411,7 @@ export const eventsData = [
         time: "11:00 AM - 2:00 PM",
         description:
           "Brace yourself for a fiery culinary challenge! The Parantha Eating Competition with Hot Chilli Sauce is back, and it's going to be hotter than ever. Contestants will have to chow down as many delicious, piping-hot paranthas smothered in fiery hot chili sauce as they can within a set time limit. The heat is on as participants compete to see who can handle the hottest sauce and eat the most paranthas. The winner will be the one who can eat the most paranthas in the given time limit and will be rewarded with a prize. Don't miss out on the thrilling action and the chance to taste some of the spiciest paranthas around. Mark your calendars and come join us to cheer on your favorite contestant and enjoy the delicious food.",
-        image: "/event-images/sholle parhate.png",
+        image: "/event-images/sholle parathe.png",
         link: "https://unstop.com/p/sholle-parathe-international-institute-of-information-technology-iiit-bhubaneswar-858211",
         linkText: "Register",
         prize: 2000,
@@ -420,8 +430,8 @@ export const eventsData = [
       },
       {
         date: "1ST MARCH",
-        time: "2:00 PM - 5:00 PM",
-        description:
+        time: "11:00 AM - 2:00 PM",
+
           "Step into a world of culinary teamwork at STRINGDELICACY! This is not your average sack race – it's a gastronomic adventure. Gather your team, hop through challenges, and weave your way to victory in this lively and delicious TEAM SACK RACE EVENT. Get ready for a race that's as flavorful as it is fun!",
         image: "/event-images/stringed delicacy.png",
         link: "https://unstop.com/p/string-delicacy-team-sack-race-event-international-institute-of-information-technology-iiit-bhubaneswar-858203",
@@ -431,7 +441,9 @@ export const eventsData = [
       },
       {
         date: "1ST MARCH",
-        time: "5:00 PM - 7:00 PM",
+
+        time: "3:00 PM - 6:00 PM",
+
         description:
           "Get ready for a mouth-watering, gastronomic adventure! The Golgappa Eating Competition is here, and it's sure to be a blast. Contestants will have to devour as many crispy and tangy golgappas as they can within a set time limit. These golgappas will be filled with a variety of fillings such as potato, chana, and tamarind chutney. This event is open to all the foodies with diverse tastes, and the winner will be the one who eats the most golgappas in the given time limit and is awarded the title of 'Golgappa King/Queen' along with a prize.",
 
