@@ -1,7 +1,4 @@
 import classes from "./merchPage.module.css";
-import iconIg from "../assets/instagram.svg";
-import iconTw from "../assets/twitter.svg";
-import iconYt from "../assets/youtube.svg";
 import sweatshirt from "../assets/Sweatshirt.png";
 import tshirt from "../assets/tshirt-I.webp";
 import tshirt2 from "../assets/tshirt-II.webp";
@@ -75,7 +72,7 @@ export default function HomePage() {
             whileInView={{ transform: "translateX(0rem)", opacity: 1 }}
             transition={{ duration: 1.5, type: "spring" }}
           >
-            Lost in Nebulae SWEATSHIRT{" "}
+           SWEATSHIRT{" "}
             <HashLink
               className={classes.angleButton}
               to="https://forms.gle/bpuhLopSVhDq67kL8"
@@ -101,7 +98,7 @@ export default function HomePage() {
               whileInView={{ transform: "translateX(0rem)", opacity: 1 }}
               transition={{ duration: 1.5, type: "spring" }}
             >
-              AstroRide T-SHIRT{" "}
+              T-SHIRT{" "}
               <HashLink
                 className={classes.angleButton}
                 to="https://forms.gle/bpuhLopSVhDq67kL8"
@@ -119,7 +116,7 @@ export default function HomePage() {
               whileInView={{ transform: "translateX(0rem)", opacity: 1 }}
               transition={{ duration: 1.5, type: "spring" }}
             >
-              Chilling on Saturn T-SHIRT{" "}
+              T-SHIRT{" "}
               <HashLink
                 className={classes.angleButton}
                 to="https://forms.gle/bpuhLopSVhDq67kL8"

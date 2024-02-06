@@ -29,6 +29,7 @@ import e5thumb from "../assets/e5thumb.webp";
 import e7thumb from "../assets/e7thumb.webp";
 
 import pn from "../assets/pn.webp";
+import pnDj from "../assets/pn_dj.webp";
 
 import { useLottie } from "lottie-react";
 import logoAnim from "../assets/logoanimBright.json";
@@ -276,18 +277,8 @@ export default function HomePage() {
                 <AngleButton text="REGISTER" />
               </HashLink>
             </motion.div>
-            <motion.div
-              viewport={{ once: true }}
-              initial={{ transform: "translateX(-6rem)", opacity: 0 }}
-              whileInView={{ transform: "translateX(-0.5rem)", opacity: 1 }}
-              transition={{ duration: 2, type: "spring", delay: 0.15 }}
-            >
-              <HashLink to="/merch#">
-                <AngleButton text="GET MERCH" />
-              </HashLink>
-            </motion.div>
           </div>
-          <div className={classes.headerBtns} style={{marginTop:"1rem"}}>
+          <div className={classes.headerBtns} style={{ marginTop: "1rem" }}>
             <motion.div
               viewport={{ once: true }}
               initial={{ transform: "translateX(-6rem)", opacity: 0 }}
@@ -521,18 +512,18 @@ export default function HomePage() {
             "Dive into the unknown with our Surprise Event! Brace yourself for an evening of mystery and joy as we unveil unexpected delights and unforgettable moments."
           )}
           {proNightsCard(
-            pn,
-            "29TH FEB - 7:00 PM",
-            "BAND NIGHT",
-            "CONCERT",
-            "Groove to the beat at Band Night! Join us for an electrifying showcase of live music, featuring talented bands across genres. Get ready to tap your feet and let the music take over."
+            pnDj,
+            "29TH FEB - 8:00 PM",
+            "EDM NIGHT",
+            "EDM",
+            "Get into the rhythm at EDM Night! Dance the night away to the hottest beats as our DJ Swattrex create an infectious atmosphere, blending the latest tracks and timeless favorites."
           )}
           {proNightsCard(
             pn,
             "1ST MARCH - 7:00 PM",
-            "DJ NIGHT",
-            "EDM",
-            "Get into the rhythm at DJ Night! Dance the night away to the hottest beats as our skilled DJs create an infectious atmosphere, blending the latest tracks and timeless favorites."
+            "BAND NIGHT",
+            "CONCERT",
+            "Groove to the beat at Band Night! Join us for an electrifying showcase of live music, featuring talented bands across genres. Get ready to tap your feet and let the music take over."
           )}
           {proNightsCard(
             pn,
