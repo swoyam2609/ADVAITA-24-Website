@@ -36,7 +36,6 @@ export const eventsData = [
           "COORDINATORS:-SASWATBEHERA: 7327903685,SOUBHIKGON: 6370462354",
       },
       {
-
         date: "1ST MARCH",
         time: "9:00 AM - 12:00 PM",
         description:
@@ -78,7 +77,6 @@ export const eventsData = [
         prize: 10000,
       },
       {
-
         date: "28TH & 29TH FEB",
         time: "10:00  - 1:00 PM",
         description:
@@ -153,7 +151,6 @@ export const eventsData = [
       },
 
       {
-
         date: "29TH FEB",
         time: "9:00 AM - 1:00 PM",
         description:
@@ -175,7 +172,6 @@ export const eventsData = [
         prize: 30000,
       },
       {
-
         date: "1st MARCH",
         time: "10:00 AM - 2:00 PM",
         description:
@@ -186,7 +182,6 @@ export const eventsData = [
         prize: 20000,
       },
       {
-
         date: "2ND MARCH",
         time: "2:00 PM - 6:00 PM",
         description:
@@ -264,7 +259,7 @@ export const eventsData = [
         //ACE-HUNT
         date: "1ST MARCH ",
         time: "9:00 AM - 1:00 PM",
-     
+
         description:
           "Embark on an artistic adventure like never before with ACE-HUNT! Grab your friends, form a dynamic team of 3-4, and immerse yourselves in a quest filled with mysteries, puzzles, and the thrill of discovery. Decode clues, navigate twists, and unlock surprises that await your artistic prowess. It's not just an event; it's an exhilarating journey into the heart of creativity!",
         image: "/event-images/ace_hunt.png",
@@ -379,7 +374,6 @@ export const eventsData = [
         prize: 5000,
       },
       {
-
         //IMAGEN
         date: "1ST MARCH",
         time: "11:00 AM - 2:00 PM",
@@ -431,7 +425,7 @@ export const eventsData = [
       {
         date: "1ST MARCH",
         time: "11:00 AM - 2:00 PM",
-
+        description:
           "Step into a world of culinary teamwork at STRINGDELICACY! This is not your average sack race – it's a gastronomic adventure. Gather your team, hop through challenges, and weave your way to victory in this lively and delicious TEAM SACK RACE EVENT. Get ready for a race that's as flavorful as it is fun!",
         image: "/event-images/stringed delicacy.png",
         link: "https://unstop.com/p/string-delicacy-team-sack-race-event-international-institute-of-information-technology-iiit-bhubaneswar-858203",
