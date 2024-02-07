@@ -27,6 +27,7 @@ import Marathon from "./events/marathon";
 import BloodDonation from "./events/bloodDonation";
 import SwigNCode from "./events/swigncode";
 import SwitchCoding from "./events/switchCoding";
+import AfterMovie from "./events/afterMovie";
 
 // For preloading images end
 
@@ -118,6 +119,7 @@ export default function App() {
           <Route path="/event/swig-n-code" element={<SwigNCode />} />
           <Route path="/event/switch-coding" element={<SwitchCoding />} />
           <Route path="/whatsapp" element={<Whatsapp />} />
+          <Route path="/aftermovie" element={<AfterMovie />} />
           <Route path="*" element={<Navigate to="/" />} />
         </Route>
       </Routes>
