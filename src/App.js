@@ -25,6 +25,8 @@ import MerchPopup from "./components/merchPopup";
 
 import Marathon from "./events/marathon";
 import BloodDonation from "./events/bloodDonation";
+import SwigNCode from "./events/swigncode";
+import SwitchCoding from "./events/switchCoding";
 
 // For preloading images end
 
@@ -113,6 +115,8 @@ export default function App() {
           <Route path="/event/hackfest" element={<Hackfest />} />
           <Route path="/event/marathon" element={<Marathon />} />
           <Route path="/event/bloodDonation" element={<BloodDonation />} />
+          <Route path="/event/swig-n-code" element={<SwigNCode />} />
+          <Route path="/event/switch-coding" element={<SwitchCoding />} />
           <Route path="/whatsapp" element={<Whatsapp />} />
           <Route path="*" element={<Navigate to="/" />} />
         </Route>

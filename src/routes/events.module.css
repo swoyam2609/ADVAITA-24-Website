@@ -148,13 +148,22 @@ body {
     transform: translateY(0px);
     transition: .6s;
     margin: 0 2rem;
+    
     font-size: 1rem;
 }
 
 .proCard:hover .proCardDesc {
     transform: translateY(calc(-325px));
 }
-
+.proCardDesc .contact{ transform: translateY(0px);
+    transition: .6s;
+    margin: 0 2rem;
+    font-size:1vw;
+    }
+.proCard:hover .contact {
+    transform: translateY(calc(-325px));
+   
+}
 .proCardsWrap {
     max-width: 1000px;
     display: flex;
