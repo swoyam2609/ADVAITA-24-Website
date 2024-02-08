@@ -364,9 +364,8 @@ export const eventsData = [
       {
         //Potrait Photgraphy
         date: "28TH FEB to 2ND MARCH",
-        time: "9:00 AM - 11:00 AM",
-        description:
-          "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
+        // time: "9:00 AM - 11:00 AM",
+        description: "Capture the essence of life through your lens at IMAGEN! It's more than just a photography contest; it's a celebration of visual storytelling. Join the series of photography and videography competitions curated to fuel your passion for cameras and frames. Unleash your creativity, freeze moments, and let your imagination unfold at IMAGEN – where every shot tells a story!",
         image: "/event-images/47.png",
         link: "https://unstop.com/events/portrait-photography-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubanesw-858241",
         linkText: "Register",
@@ -384,11 +383,12 @@ export const eventsData = [
       },
       {
         date: "29TH FEB to 2ND MARCH",
-        image: "/event-images/photoGallery.jpeg",
+        // time: "9:00 AM - 11:00 AM",
         description:
           "Welcome to our captivating Photo Gallery Showcase, where each image tells a unique story through the lens of its creator. Explore a visual journey that transcends words, inviting you to interpret narratives, emotions, and perspectives captured in frozen moments.",
-        link: "https://unstop.com/p/short-story-film-international-institute-of-information-technology-iiit-bhubaneswar-858227",
-        linkText: "Register",
+          image: "/event-images/photogallery.png",
+        // link: "https://unstop.com/events/photo-gallery-advaita-tecno-cultural-fest-international-institute-of-information-technology-iiit-bhubaneswar-861185",
+        // linkText: "Register",
       },
     ],
   },
