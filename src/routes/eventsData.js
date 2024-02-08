@@ -304,7 +304,6 @@ export const eventsData = [
         description:
           "There would be tournaments in popular games like Valorant PC, BGMI etc. Also there would be a wide range of tournaments and leagues for all skill levels. Whether you’re a beginner or a pro, you can find the perfect competition to challenge yourself and show off your skills. Not to mention there would be a variety of rewards and prizes for the top players.",
         image: "/event-images/e-sports.png",
-        image: "/event-images/e_sports.png",
         link: "https://unstop.com/p/e-sports-international-institute-of-information-technology-iiit-bhubaneswar-858272",
         linkText: "Register",
         prize: 10000,

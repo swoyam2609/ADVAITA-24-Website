@@ -30,6 +30,8 @@ import e7thumb from "../assets/e7thumb.webp";
 
 import pn from "../assets/pn.webp";
 import pnDj from "../assets/pn_dj.webp";
+import pnRockathon from "../assets/pn_rockathon.webp";
+import pnBand from "../assets/pn_band.webp";
 
 import { useLottie } from "lottie-react";
 import logoAnim from "../assets/logoanimBright.json";
@@ -505,11 +507,11 @@ export default function HomePage() {
         </div>
         <div className={classes.proCardsWrap}>
           {proNightsCard(
-            pn,
+            pnRockathon,
             "28TH FEB - 7:00 PM",
-            "SURPRISE EVENT",
-            "SURPRISE!",
-            "Dive into the unknown with our Surprise Event! Brace yourself for an evening of mystery and joy as we unveil unexpected delights and unforgettable moments."
+            "ROCKATHON",
+            "BAND BATTLE",
+            "Amplify the energy and strike a chord at ROCKATHON, where bands collide in a symphony of fierce competition! Unleash the power of your music, own the stage, and let your sound echo through the halls of ROCKATHON."
           )}
           {proNightsCard(
             pnDj,
@@ -520,17 +522,18 @@ export default function HomePage() {
           )}
           {proNightsCard(
             pn,
-            "1ST MARCH - 7:00 PM",
-            "BAND NIGHT",
-            "CONCERT",
-            "Groove to the beat at Band Night! Join us for an electrifying showcase of live music, featuring talented bands across genres. Get ready to tap your feet and let the music take over."
-          )}
-          {proNightsCard(
-            pn,
+            
             "2ND MARCH - 7:00 PM",
             "FINAL SHOWDOWN",
             "MUSIC",
             "Immerse yourself in a live musical experience at our Artist Concert. From chart-toppers to emotional ballads, join us for a night of soulful performances that resonate with the heart and leave a lasting impression."
+          )}
+          {proNightsCard(
+            pnBand,
+            "1ST MARCH - 7:00 PM",
+            "BAND NIGHT",
+            "CONCERT",
+            "Groove to the beat at Band Night! Join us for an electrifying showcase of live music, featuring talented bands across genres. Get ready to tap your feet and let the music take over."
           )}
         </div>
       </section>
