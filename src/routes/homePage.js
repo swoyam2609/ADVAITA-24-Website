@@ -523,14 +523,14 @@ export default function HomePage() {
           {proNightsCard(
             pn,
             
-            "2ND MARCH - 7:00 PM",
+            "1ST MARCH - 7:00 PM",
             "FINAL SHOWDOWN",
             "MUSIC",
             "Immerse yourself in a live musical experience at our Artist Concert. From chart-toppers to emotional ballads, join us for a night of soulful performances that resonate with the heart and leave a lasting impression."
           )}
           {proNightsCard(
             pnBand,
-            "1ST MARCH - 7:00 PM",
+            "2ND MARCH - 7:00 PM",
             "BAND NIGHT",
             "CONCERT",
             "Groove to the beat at Band Night! Join us for an electrifying showcase of live music, featuring talented bands across genres. Get ready to tap your feet and let the music take over."
