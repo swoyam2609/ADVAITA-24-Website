@@ -522,7 +522,6 @@ export default function HomePage() {
           )}
           {proNightsCard(
             pn,
-            
             "1ST MARCH - 7:00 PM",
             "FINAL SHOWDOWN",
             "MUSIC",

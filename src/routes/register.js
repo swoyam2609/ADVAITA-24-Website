@@ -19,9 +19,7 @@ import "./swiperCustom.css";
 SwiperCore.use([Navigation, Pagination, Autoplay, Virtual]);
 
 export default function RegisterPage() {
-
   const [popUp, setPopUp] = useState(false);
-
 
   return (
     <div className={classes.homePage}>
@@ -53,8 +51,13 @@ export default function RegisterPage() {
         </div>
 
         <div className={classes.rightVertical}>IIIT BHUBANESWAR, ODISHA</div>
-
-        <iframe className={classes.iframe} src="https://konfhub.com/widget/advaita-24" id="konfhub-widget" title="Register for Advaita-2024"></iframe>
+        <p className={classes.heading}>Registration Passes</p>
+        <iframe
+          className={classes.iframe}
+          src="https://konfhub.com/widget/advaita-24"
+          id="konfhub-widget"
+          title="Register for Advaita-2024"
+        ></iframe>
       </section>
     </div>
   );
