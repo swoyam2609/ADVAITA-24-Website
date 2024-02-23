@@ -213,7 +213,7 @@ export const eventsData = [
       },
 
       {
-        date: "1ST MARCH",
+        date: "1ST MAR",
         time: "9:00 AM - 1:00 PM",
         description:
           "Dance into the rhythm at Footloose! Solo and group dancers, unleash your moves in this electrifying competition where Western beats and Nrityakala blend seamlessly. Join the groove, set the stage on fire, and let your passion shine. It's not just a competition; it's a celebration of dance in all its forms. Get ready to dazzle and dominate at Footloose – where every step tells a story and the stage is yours to own!",
