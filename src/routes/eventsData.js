@@ -36,7 +36,6 @@ export const eventsData = [
           "COORDINATORS:-SASWATBEHERA: 7327903685,SOUBHIKGON: 6370462354",
       },
       {
-
         date: "1ST MARCH",
         time: "9:00 AM - 12:00 PM",
         description:
@@ -78,7 +77,6 @@ export const eventsData = [
         prize: 10000,
       },
       {
-
         date: "28TH & 29TH FEB",
         time: "10:00  - 1:00 PM",
         description:
@@ -153,7 +151,6 @@ export const eventsData = [
       },
 
       {
-
         date: "29TH FEB",
         time: "9:00 AM - 1:00 PM",
         description:
@@ -175,7 +172,6 @@ export const eventsData = [
         prize: 30000,
       },
       {
-
         date: "1st MARCH",
         time: "10:00 AM - 2:00 PM",
         description:
@@ -186,7 +182,6 @@ export const eventsData = [
         prize: 20000,
       },
       {
-
         date: "2ND MARCH",
         time: "2:00 PM - 6:00 PM",
         description:
@@ -264,7 +259,7 @@ export const eventsData = [
         //ACE-HUNT
         date: "1ST MARCH ",
         time: "9:00 AM - 1:00 PM",
-     
+
         description:
           "Embark on an artistic adventure like never before with ACE-HUNT! Grab your friends, form a dynamic team of 3-4, and immerse yourselves in a quest filled with mysteries, puzzles, and the thrill of discovery. Decode clues, navigate twists, and unlock surprises that await your artistic prowess. It's not just an event; it's an exhilarating journey into the heart of creativity!",
         image: "/event-images/ace_hunt.png",
@@ -309,7 +304,6 @@ export const eventsData = [
         description:
           "There would be tournaments in popular games like Valorant PC, BGMI etc. Also there would be a wide range of tournaments and leagues for all skill levels. Whether you’re a beginner or a pro, you can find the perfect competition to challenge yourself and show off your skills. Not to mention there would be a variety of rewards and prizes for the top players.",
         image: "/event-images/e-sports.png",
-        image: "/event-images/e_sports.png",
         link: "https://unstop.com/p/e-sports-international-institute-of-information-technology-iiit-bhubaneswar-858272",
         linkText: "Register",
         prize: 10000,
@@ -378,7 +372,6 @@ export const eventsData = [
         prize: 5000,
       },
       {
-
         //IMAGEN
         date: "1ST MARCH",
         time: "11:00 AM - 2:00 PM",
