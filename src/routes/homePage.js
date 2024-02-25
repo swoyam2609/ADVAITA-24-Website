@@ -30,6 +30,7 @@ import e7thumb from "../assets/e7thumb.webp";
 
 import pn from "../assets/pn.webp";
 import pnDj from "../assets/pn_dj.webp";
+import lk from "../assets/Laqshay Kapoor.png";
 
 import { useLottie } from "lottie-react";
 import logoAnim from "../assets/logoanimBright.json";
@@ -421,7 +422,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className={classes.sponsorsSection} id="sponsors">
+      {/* <section className={classes.sponsorsSection} id="sponsors">
         <motion.div
           viewport={{ once: true }}
           initial={{ transform: "translateY(6rem)", opacity: 0 }}
@@ -468,7 +469,7 @@ export default function HomePage() {
             <AngleButton text="SPONSOR US" />
           </HashLink>
         </motion.div>
-      </section>
+      </section> */}
 
       <section className={classes.proNights} id="pronights">
         <div className={classes.proNightsTitle}>
@@ -517,6 +518,13 @@ export default function HomePage() {
             "EDM NIGHT",
             "EDM",
             "Get into the rhythm at EDM Night! Dance the night away to the hottest beats as our DJ Swattrex create an infectious atmosphere, blending the latest tracks and timeless favorites."
+          )}
+          {proNightsCard(
+            lk,
+            "29TH FEB - 8:00 PM",
+            "BAND NIGHT",
+            "CONCERT",
+            "Groove to the beat at Band Night! Join us for an electrifying showcase of live music, featuring talented bands across genres. Get ready to tap your feet and let the music take over."
           )}
           {proNightsCard(
             pn,
