@@ -5,20 +5,25 @@ import iconYt from "../assets/youtube.svg";
 import dateImg from "../assets/date.webp";
 import sponsorsImg from "../assets/sponsors.webp";
 
-import s_biswas from "../assets/s-biswas.webp";
-import s_csm from "../assets/s-csm.webp";
-import s_edevlop from "../assets/s-edevlop.webp";
-import s_jyotemotors from "../assets/s-jyotemotors.webp";
-import s_navbharat from "../assets/s-navbharat.webp";
-import s_ocac from "../assets/s-ocac.webp";
-import s_omc from "../assets/s-omc.webp";
-import s_pantaloons from "../assets/s-pantaloons.webp";
-import s_printlink from "../assets/s-printlink.webp";
-import s_rungta from "../assets/s-rungta.webp";
-import s_wizertech from "../assets/s-wizertech.webp";
-import s_dell from "../assets/s-dell.webp";
-import s_hp from "../assets/s-hp.webp";
-import s_insidefpv from "../assets/s-insidefpv.webp";
+import bb from "../assets/bb.jpg";
+import bsnl from "../assets/bsnl.jpg";
+import dalmia from "../assets/dalmia.jpg";
+import eodisha from "../assets/eodisha.jpg";
+import honda from "../assets/honda.jpg";
+import info from "../assets/info.jpg";
+import jbs from "../assets/jbs.jpg";
+import jindal from "../assets/jindal2.jpg";
+import kfc from "../assets/kfc.jpg";
+import lok from "../assets/lok.jpg";
+import madman from "../assets/madman.jpg";
+import mcd from "../assets/mcd.jpg";
+import ocac from "../assets/ocac.jpg";
+import pcc from "../assets/pcc.jpg";
+import ppl from "../assets/ppl2.jpg";
+import secu from "../assets/secu.jpg";
+import esp from "../assets/esplanade.jpg";
+
+
 
 import e0thumb from "../assets/e0thumb.webp";
 import e1thumb from "../assets/e1thumb.webp";
@@ -121,22 +126,25 @@ function sponsorCard(img, link) {
   );
 }
 
-let sponsorData1 = [{ img: s_ocac, link: "https://www.ocac.in" }];
-let sponsorData2 = [{ img: s_omc, link: "https://omcltd.in" }];
+let sponsorData1 = [{ img: secu }];
+let sponsorData2 = [{ img: bsnl }];
 let sponsorData3 = [
-  { img: s_biswas, link: "http://www.bssindia.in" },
-  { img: s_csm, link: "https://www.csm.tech" },
-  { img: s_edevlop, link: "https://edevlop.com" },
-  { img: s_jyotemotors, link: "https://jyote.com" },
-  { img: s_navbharat, link: "https://navbharattimes.indiatimes.com" },
-  { img: s_pantaloons, link: "https://www.pantaloons.com" },
-  { img: s_printlink, link: "https://www.printlinkindia.com" },
-  { img: s_rungta, link: "" },
-  { img: s_wizertech, link: "https://wizertech.com" },
-  { img: s_hp, link: "https://www.hp.com" },
-  { img: s_dell, link: "https://www.dell.com" },
+  { img: jbs},
+  { img: eodisha },
+  { img: honda },
+  { img: info },
+  { img: bb },
+  { img: kfc },
+  { img: jindal},
+  { img: lok },
+  { img: madman },
+  { img: mcd},
+  { img: ocac },
+  { img: pcc },
+  { img: ppl },
+  { img: esp },
 ];
-let sponsorData4 = [{ img: s_insidefpv, link: "https://insidefpv.com" }];
+let sponsorData4 = [{ img: dalmia}];
 
 function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
@@ -425,7 +433,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* <section className={classes.sponsorsSection} id="sponsors">
+      <section className={classes.sponsorsSection} id="sponsors">
         <motion.div
           viewport={{ once: true }}
           initial={{ transform: "translateY(6rem)", opacity: 0 }}
@@ -435,30 +443,30 @@ export default function HomePage() {
           <img src={sponsorsImg} alt="Sponsors" />
         </motion.div>
         <div className={classes.sponsorTitle}>
-          <span style={{ color: "white" }}>TITLE</span>
-          <br /> SPONSOR
+          <span style={{ color: "white" }}>EVENT</span>
+          <br /> PARTNER
         </div>
         <div className={classes.sponsorsWrap + " " + classes.fullWidth}>
           {sponsorData1.map((e) => sponsorCard(e.img, e.link))}
         </div>
         <div className={classes.sponsorTitle}>
-          <span style={{ color: "white" }}>CO-TITLE</span>
-          <br /> SPONSOR
+          <span style={{ color: "white" }}>NETWORKING</span>
+          <br /> PARTNER
         </div>
         <div className={classes.sponsorsWrap + " " + classes.fullWidth}>
           {sponsorData2.map((e) => sponsorCard(e.img, e.link))}
         </div>
         <div className={classes.sponsorTitle}>
-          <span style={{ color: "white" }}>ASSOCIATE</span>
+          <span style={{ color: "white" }}>OTHER</span>
           <br /> SPONSORS
         </div>
         <div className={classes.sponsorsWrap}>
           {sponsorData3.map((e) => sponsorCard(e.img, e.link))}
         </div>
-        <div className={classes.sponsorTitle}>
+        {/* <div className={classes.sponsorTitle}>
           <span style={{ color: "white" }}>DRONE</span>
           <br /> PARTNER
-        </div>
+        </div> */}
         <div className={classes.sponsorsWrap}>
           {sponsorData4.map((e) => sponsorCard(e.img, e.link))}
         </div>
@@ -472,7 +480,7 @@ export default function HomePage() {
             <AngleButton text="SPONSOR US" />
           </HashLink>
         </motion.div>
-      </section> */}
+      </section>
 
       <section className={classes.proNights} id="pronights">
         <div className={classes.proNightsTitle}>
