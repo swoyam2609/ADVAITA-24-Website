@@ -109,8 +109,8 @@ export const eventsData = [
       "Ignite your management skills! From product competitions to conclaves, join us to prove your prowess. Elevate your game, network with experts, and discover the leader in you!",
     events: [
       {
-        date: "28TH & 29TH FEB",
-        time: "10 PM - 10 AM(Next Day)",
+        date: "2nd MARCH",
+        time: "9 AM - 12 PM ",
         description:
           "Explore the intricacies of product development with our Product Teardown event! Participants engage in a case study round, dissecting a given product to identify and solve challenges. Teams submit presentations by deadlines, and shortlisted ones present their final solutions to judges. Each team, comprising 2 to 4 participants, delves into improvements and proposes metrics for success. A total prize pool of Rs. 15,000 worth, plus certificates, awaits the winning team!",
         image: "/event-images/product-teardown.webp",
@@ -120,8 +120,8 @@ export const eventsData = [
         prize: 7000,
       },
       {
-        date: "29TH FEB",
-        time: "1:00 PM - 4:00 PM",
+        date: "1st MARCH & 2nd MARCH",
+        time: "6:00 PM - 7:00 PM",
         description:
           "Dive into the future of innovation at our Innovation Odyssey: Startup Conclave on 1st and 2nd March! Witness visionary students and aspiring startups showcasing revolutionary products and ideas across diverse industries. Judged on innovation, feasibility, impact, market potential, and presentation skills, participants stand a chance to win a prize pool of Rs. 10,000 worth + Certificates. Don't miss this celebration of creativity, collaboration, and the entrepreneurial spirit!",
         image: "/event-images/startup-conclave.webp",
@@ -141,7 +141,7 @@ export const eventsData = [
     events: [
       {
         date: "28th FEB",
-        time: "7:00 PM - 10:00 PM",
+        time: "5:00 PM - 8:00 PM",
         description:
           "Amplify the energy and strike a chord at ROCKATHON, where bands collide in a symphony of fierce competition! Unleash the power of your music, own the stage, and let your sound echo through the halls of ROCKATHON. It's not just a contest; it's a battle of beats, a clash of chords, and a celebration of rock at its finest. Are you ready to make the crowd roar and claim your place in the ultimate musical showdown?",
         image: "/event-images/Rockathon.png",
@@ -267,17 +267,17 @@ export const eventsData = [
         linkText: "Register",
         prize: 8000,
       },
-      {
-        //CREATE-A-THON
-        date: "29TH FEB",
-        time: "9:00 PM - 1:00 PM",
-        description:
-          "Get ready to ignite your creativity at CREATE-A-THON – IIIT Bhubaneswar's digital stage for design enthusiasts! Unleash your artistic prowess using any design tool, collaborate with your team, and craft designs that not only look good but also do good. Dive into themes centered around social issues, where your creations become a catalyst for change. Don't miss out on this opportunity to design, inspire, and impact. Join the competition and let your creativity shine on the digital canvas!",
-        image: "/event-images/create_a_thon.png",
-        link: "https://unstop.com/p/create-a-thon-international-institute-of-information-technology-iiit-bhubaneswar-858184",
-        linkText: "Register",
-        prize: 8000,
-      },
+      // {
+      //   //CREATE-A-THON
+      //   date: "29TH FEB",
+      //   time: "9:00 PM - 1:00 PM",
+      //   description:
+      //     "Get ready to ignite your creativity at CREATE-A-THON – IIIT Bhubaneswar's digital stage for design enthusiasts! Unleash your artistic prowess using any design tool, collaborate with your team, and craft designs that not only look good but also do good. Dive into themes centered around social issues, where your creations become a catalyst for change. Don't miss out on this opportunity to design, inspire, and impact. Join the competition and let your creativity shine on the digital canvas!",
+      //   image: "/event-images/create_a_thon.png",
+      //   link: "https://unstop.com/p/create-a-thon-international-institute-of-information-technology-iiit-bhubaneswar-858184",
+      //   linkText: "Register",
+      //   prize: 8000,
+      // },
       {
         //ARTISTIC ALCHEMY
         date: "2ND MARCH",
@@ -456,8 +456,8 @@ export const eventsData = [
       "Connect, build relationships, and foster a sense of belongingness in a supportive and engaging atmosphere. Make new friends, find a support network, have some fun, help support important causes and make a positive impact in the community.",
     events: [
       {
-        date: "25TH FEB",
-        time: "6:00 AM - 9:00 AM",
+        date: "28TH FEB",
+        time: "10:00 AM - 12:00 AM",
         description:
           "Advaita marathon Run For Blood - a purposeful journey to save lives through blood donation. Experience the unity of runners, all striving for a healthier community. Whether a seasoned runner or a beginner, every stride contributes to a collective effort for a more compassionate society. Lace up and join us in making a lasting impact on a crucial social cause.",
         image: "/event-images/marathon.png",
