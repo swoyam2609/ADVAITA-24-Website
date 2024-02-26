@@ -183,7 +183,7 @@ export const eventsData = [
       },
       {
         date: "2ND MARCH",
-        time: "2:00 PM - 6:00 PM",
+        time: "9:00 AM - 1:00 PM",
         description:
           "Step into the captivating world of ACOUSTICA, a college fest where musical magic takes center stage. Anuraag offers solo singers the chance to showcase their enchanting vocals, while RapMania invites rhythmic wizards to cast spells through rap performances. In Amplified Rhythm, beatboxers engage in a mesmerizing duel, impressing judges with technicality, stage presence, and originality. ACOUSTICA promises a spellbinding experience, celebrating diverse musical talents in a magical setting.",
         image: "/event-images/acoustica.png",
@@ -193,7 +193,7 @@ export const eventsData = [
       },
       {
         date: "2ND MARCH",
-        time: "2:30 PM - 6:00 PM",
+        time: "9:00 AM - 1:00 PM",
         description:
           "Gear up for an evening of unparalleled talent, where the stage will come alive with the beats of innovation, the rhymes of intellect, and the stories of a generation that refuses to be confined by conventions. RapMania – where engineering meets expression, and creativity knows no boundaries. Get ready to be immersed in a symphony of words and beats that redefine the very essence of rap. Let the competition begin!.",
         image: "/event-images/acoustica (2).png",
@@ -203,7 +203,7 @@ export const eventsData = [
       },
       {
         date: "2ND MARCH",
-        time: "2:00 PM - 6:00 PM",
+        time: "9:00 AM - 1:00 PM",
         description:
           "Beatboxing (also beat boxing) is a form of vocal percussion primarily involving the art of mimicking drum machines using one's mouth, lips, tongue, and voice. It may also involve vocal imitation of turntablism, and other musical instruments. Beatboxing today is connected with hip-hop culture, often referred to as the fifth element of hip-hop, although it is not limited to hip-hop music. The term beatboxing is sometimes used to refer to vocal percussion in general..",
         image: "/event-images/acoustica (3).png",
@@ -280,8 +280,8 @@ export const eventsData = [
       // },
       {
         //ARTISTIC ALCHEMY
-        date: "2ND MARCH",
-        time: "12:00 PM - 3:00 PM",
+        date: "29th FEB",
+        time: "10:00 AM - 1:00 PM",
         description:
           "Experience the magic of collaboration in the enthralling world of ARTISTIC ALCHEMY! Dive into our Switching Canvases Challenge, where pairs of artists dynamically switch canvases, creating a visually captivating narrative of transformation. Witness the fluidity of artistic expression unfold against captivating themes. Don't miss this amazing chance to immerse yourself in the magic of collaborative artistry at its finest!",
         image: "/event-images/artistic_alchemy.png",
