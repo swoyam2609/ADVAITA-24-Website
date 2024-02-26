@@ -162,7 +162,7 @@ export const eventsData = [
       },
 
       {
-        date: "29th FEBRUARY",
+        date: "2nd MARCH",
         time: "3:00 PM - 8:00 PM",
         description:
           "Embark on a style odyssey with LA Mode – where sophistication meets innovation on the runway! Join 'LAMODE: A Fashion Odyssey' for a mesmerizing fashion walk that transcends ordinary style. Experience a journey through glamor, creativity, and timeless elegance. It's not just a contest; it's a celebration of fashion that tells a story with every stride. Step into the world of LA Mode and let your style shine in this extraordinary cultural event!",
@@ -213,7 +213,7 @@ export const eventsData = [
       },
 
       {
-        date: "1ST MAR",
+        date: "1ST MARCH",
         time: "9:00 AM - 1:00 PM",
         description:
           "Dance into the rhythm at Footloose! Solo and group dancers, unleash your moves in this electrifying competition where Western beats and Nrityakala blend seamlessly. Join the groove, set the stage on fire, and let your passion shine. It's not just a competition; it's a celebration of dance in all its forms. Get ready to dazzle and dominate at Footloose – where every step tells a story and the stage is yours to own!",
