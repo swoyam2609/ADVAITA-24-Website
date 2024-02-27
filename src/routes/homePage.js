@@ -5,23 +5,23 @@ import iconYt from "../assets/youtube.svg";
 import dateImg from "../assets/date.webp";
 import sponsorsImg from "../assets/sponsors.webp";
 
-import bb from "../assets/bb.jpg";
-import bsnl from "../assets/bsnl.jpg";
-import dalmia from "../assets/dalmia.jpg";
-import eodisha from "../assets/eodisha.jpg";
-import honda from "../assets/honda.jpg";
-import info from "../assets/info.jpg";
-import jbs from "../assets/jbs.jpg";
-import jindal from "../assets/jindal2.jpg";
-import kfc from "../assets/kfc.jpg";
-import lok from "../assets/lok.jpg";
-import madman from "../assets/madman.jpg";
-import mcd from "../assets/mcd.jpg";
-import ocac from "../assets/ocac.jpg";
-import pcc from "../assets/pcc.jpg";
-import ppl from "../assets/ppl2.jpg";
-import secu from "../assets/secu.jpg";
-import esp from "../assets/esplanade.jpg";
+// import bb from "../assets/bb.jpg";
+import bsnl from "../assets/webp sponsor/bsnl.webp";
+import dalmia from "../assets/webp sponsor/dalmia.webp";
+// import eodisha from "../assets/eodisha.jpg";
+import honda from "../assets/webp sponsor/honda.webp";
+import info from "../assets/webp sponsor/info.webp";
+import jbs from "../assets/webp sponsor/jbs.webp";
+import jindal from "../assets/webp sponsor/jindal.webp";
+import kfc from "../assets/webp sponsor/kfc.webp";
+import lok from "../assets/webp sponsor/lok.webp";
+import madman from "../assets/webp sponsor/madmen.webp";
+import mcd from "../assets/webp sponsor/mcd.webp";
+// import ocac from "../assets/ocac.jpg";
+import pcc from "../assets/webp sponsor/pcc.webp";
+import ppl from "../assets/webp sponsor/PPL.webp";
+import secu from "../assets/webp sponsor/SECU.webp";
+// import esp from "../assets/esplanade.jpg";
 
 
 
@@ -130,19 +130,19 @@ let sponsorData1 = [{ img: secu }];
 let sponsorData2 = [{ img: bsnl }];
 let sponsorData3 = [
   { img: jbs},
-  { img: eodisha },
+  
   { img: honda },
   { img: info },
-  { img: bb },
+  
   { img: kfc },
   { img: jindal},
   { img: lok },
   { img: madman },
   { img: mcd},
-  { img: ocac },
+  
   { img: pcc },
   { img: ppl },
-  { img: esp },
+  
 ];
 let sponsorData4 = [{ img: dalmia}];
 
