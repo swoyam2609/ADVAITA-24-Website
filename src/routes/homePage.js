@@ -17,7 +17,7 @@ import kfc from "../assets/webp sponsor/kfc.webp";
 import lok from "../assets/webp sponsor/lok.webp";
 import madman from "../assets/webp sponsor/madmen.webp";
 import mcd from "../assets/webp sponsor/mcd.webp";
-// import ocac from "../assets/ocac.jpg";
+import ino from "../assets/webp sponsor/ino.webp";
 import pcc from "../assets/webp sponsor/pcc.webp";
 import ppl from "../assets/webp sponsor/PPL.webp";
 import secu from "../assets/webp sponsor/SECU.webp";
@@ -142,6 +142,7 @@ let sponsorData3 = [
   
   { img: pcc },
   { img: ppl },
+  { img: ino },
   
 ];
 let sponsorData4 = [{ img: dalmia}];
