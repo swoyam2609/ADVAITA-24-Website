@@ -5,6 +5,27 @@ import iconYt from "../assets/youtube.svg";
 import dateImg from "../assets/date.webp";
 import sponsorsImg from "../assets/sponsors.webp";
 
+
+// import bb from "../assets/bb.jpg";
+import bsnl from "../assets/webp sponsor/bsnl.webp";
+import dalmia from "../assets/webp sponsor/dalmia.webp";
+// import eodisha from "../assets/eodisha.jpg";
+import honda from "../assets/webp sponsor/honda.webp";
+import info from "../assets/webp sponsor/info.webp";
+import jbs from "../assets/webp sponsor/jbs.webp";
+import jindal from "../assets/webp sponsor/jindal.webp";
+import kfc from "../assets/webp sponsor/kfc.webp";
+import lok from "../assets/webp sponsor/lok.webp";
+import madman from "../assets/webp sponsor/madmen.webp";
+import mcd from "../assets/webp sponsor/mcd.webp";
+import ino from "../assets/webp sponsor/ino.webp";
+import pcc from "../assets/webp sponsor/pcc.webp";
+import ppl from "../assets/webp sponsor/PPL.webp";
+import secu from "../assets/webp sponsor/SECU.webp";
+// import esp from "../assets/esplanade.jpg";
+
+
+
 import s_biswas from "../assets/s-biswas.webp";
 import s_csm from "../assets/s-csm.webp";
 import s_edevlop from "../assets/s-edevlop.webp";
@@ -20,6 +41,7 @@ import s_dell from "../assets/s-dell.webp";
 import s_hp from "../assets/s-hp.webp";
 import s_insidefpv from "../assets/s-insidefpv.webp";
 import s_innovaare from "../assets/s-innovaare.png";
+
 
 import e0thumb from "../assets/e0thumb.webp";
 import e1thumb from "../assets/e1thumb.webp";
@@ -124,6 +146,22 @@ function sponsorCard(img, link) {
 let sponsorData1 = [{ img: secu }];
 let sponsorData2 = [{ img: bsnl }];
 let sponsorData3 = [
+
+  { img: jbs},
+  
+  { img: honda },
+  { img: info },
+  
+  { img: kfc },
+  { img: jindal},
+  { img: lok },
+  { img: madman },
+  { img: mcd},
+  
+  { img: pcc },
+  { img: ppl },
+  { img: ino },
+
   { img: s_biswas, link: "http://www.bssindia.in" },
   { img: s_csm, link: "https://www.csm.tech" },
   { img: s_edevlop, link: "https://edevlop.com" },
@@ -136,6 +174,7 @@ let sponsorData3 = [
   { img: s_wizertech, link: "https://wizertech.com" },
   { img: s_hp, link: "https://www.hp.com" },
   { img: s_dell, link: "https://www.dell.com" },
+
 ];
 let sponsorData4 = [{ img: dalmia }];
 
