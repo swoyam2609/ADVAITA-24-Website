@@ -5,25 +5,21 @@ import iconYt from "../assets/youtube.svg";
 import dateImg from "../assets/date.webp";
 import sponsorsImg from "../assets/sponsors.webp";
 
-// import bb from "../assets/bb.jpg";
-import bsnl from "../assets/webp sponsor/bsnl.webp";
-import dalmia from "../assets/webp sponsor/dalmia.webp";
-// import eodisha from "../assets/eodisha.jpg";
-import honda from "../assets/webp sponsor/honda.webp";
-import info from "../assets/webp sponsor/info.webp";
-import jbs from "../assets/webp sponsor/jbs.webp";
-import jindal from "../assets/webp sponsor/jindal.webp";
-import kfc from "../assets/webp sponsor/kfc.webp";
-import lok from "../assets/webp sponsor/lok.webp";
-import madman from "../assets/webp sponsor/madmen.webp";
-import mcd from "../assets/webp sponsor/mcd.webp";
-// import ocac from "../assets/ocac.jpg";
-import pcc from "../assets/webp sponsor/pcc.webp";
-import ppl from "../assets/webp sponsor/PPL.webp";
-import secu from "../assets/webp sponsor/SECU.webp";
-// import esp from "../assets/esplanade.jpg";
-
-
+import s_biswas from "../assets/s-biswas.webp";
+import s_csm from "../assets/s-csm.webp";
+import s_edevlop from "../assets/s-edevlop.webp";
+import s_jyotemotors from "../assets/s-jyotemotors.webp";
+import s_navbharat from "../assets/s-navbharat.webp";
+import s_ocac from "../assets/s-ocac.webp";
+import s_omc from "../assets/s-omc.webp";
+import s_pantaloons from "../assets/s-pantaloons.webp";
+import s_printlink from "../assets/s-printlink.webp";
+import s_rungta from "../assets/s-rungta.webp";
+import s_wizertech from "../assets/s-wizertech.webp";
+import s_dell from "../assets/s-dell.webp";
+import s_hp from "../assets/s-hp.webp";
+import s_insidefpv from "../assets/s-insidefpv.webp";
+import s_innovaare from "../assets/s-innovaare.png";
 
 import e0thumb from "../assets/e0thumb.webp";
 import e1thumb from "../assets/e1thumb.webp";
@@ -38,7 +34,6 @@ import pnDj from "../assets/pn_dj.webp";
 import lk from "../assets/Laqshay Kapoor.png";
 import pnRockathon from "../assets/pn_rockathon.webp";
 import pnBand from "../assets/pn_band.webp";
-
 
 import { useLottie } from "lottie-react";
 import logoAnim from "../assets/logoanimBright.json";
@@ -129,22 +124,20 @@ function sponsorCard(img, link) {
 let sponsorData1 = [{ img: secu }];
 let sponsorData2 = [{ img: bsnl }];
 let sponsorData3 = [
-  { img: jbs},
-  
-  { img: honda },
-  { img: info },
-  
-  { img: kfc },
-  { img: jindal},
-  { img: lok },
-  { img: madman },
-  { img: mcd},
-  
-  { img: pcc },
-  { img: ppl },
-  
+  { img: s_biswas, link: "http://www.bssindia.in" },
+  { img: s_csm, link: "https://www.csm.tech" },
+  { img: s_edevlop, link: "https://edevlop.com" },
+  { img: s_innovaare, link: "https://www.inovaare.com/" },
+  { img: s_jyotemotors, link: "https://jyote.com" },
+  { img: s_navbharat, link: "https://navbharattimes.indiatimes.com" },
+  { img: s_pantaloons, link: "https://www.pantaloons.com" },
+  { img: s_printlink, link: "https://www.printlinkindia.com" },
+  { img: s_rungta, link: "" },
+  { img: s_wizertech, link: "https://wizertech.com" },
+  { img: s_hp, link: "https://www.hp.com" },
+  { img: s_dell, link: "https://www.dell.com" },
 ];
-let sponsorData4 = [{ img: dalmia}];
+let sponsorData4 = [{ img: dalmia }];
 
 function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
