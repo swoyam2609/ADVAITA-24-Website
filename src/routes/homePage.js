@@ -148,19 +148,6 @@ let sponsorData3 = [
   { img: ppl },
   { img: ino },
 
-  { img: s_biswas, link: "http://www.bssindia.in" },
-  { img: s_csm, link: "https://www.csm.tech" },
-  { img: s_edevlop, link: "https://edevlop.com" },
-  { img: s_innovaare, link: "https://www.inovaare.com/" },
-  { img: s_jyotemotors, link: "https://jyote.com" },
-  { img: s_navbharat, link: "https://navbharattimes.indiatimes.com" },
-  { img: s_pantaloons, link: "https://www.pantaloons.com" },
-  { img: s_printlink, link: "https://www.printlinkindia.com" },
-  { img: s_rungta, link: "" },
-  { img: s_wizertech, link: "https://wizertech.com" },
-  { img: s_hp, link: "https://www.hp.com" },
-  { img: s_dell, link: "https://www.dell.com" },
-
 ];
 let sponsorData4 = [{ img: dalmia }];
 
